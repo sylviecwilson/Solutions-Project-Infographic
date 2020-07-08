@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Solutions Project Infographic</title>
+    <style type="text/css">
+      #map{
+        height: 100%;
+      }
+      /* Allows for a full screen map.
+         Otherwise set height (above) explicitly */
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+
+
+  <body>
+    <div id="map"></div>
+    <script>
+      function initMap(){
+        // Map options
+        var options = {
+          zoom: 2,
+          center: {lat:30, lng:0},
+        }
+
+        // New map
+        var map = new google.maps.Map(document.getElementById('map'), options);
+      }
+      countryBoundaries = map.data.loadGeoJson('countries.json');
+      map.data.addGeoJson(countryBoundaries)
+
+    </script>
+
+
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCicgsj2TE9o0ZBX1_mYkH2HKXcXsP8eIQ&callback=initMap&libraries=&v=weekly"
+      defer
+    ></script>
+  </body>
+
+
+</html>
