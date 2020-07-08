@@ -36,7 +36,7 @@
           }); // NOTE: This uses cross-domain XHR, and may not work on older browsers.
 
 
-          exports.map.data.addGeoJson('countries.json');
+          exports.map.data.loadGeoJson('https://raw.githubusercontent.com/milesmsmith/Solutions-Project-Infographic/master/countries.json');
         }
 
         exports.initMap = initMap;

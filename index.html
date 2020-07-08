@@ -33,9 +33,11 @@
 
         // New map
         var map = new google.maps.Map(document.getElementById('map'), options);
+
+        map.data.loadGeoJson(
+          'https://raw.githubusercontent.com/milesmsmith/Solutions-Project-Infographic/master/countries.json');
       }
-      countryBoundaries = map.data.loadGeoJson('countries.json');
-      map.data.addGeoJson(countryBoundaries)
+
 
     </script>
 
