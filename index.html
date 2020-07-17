@@ -5,10 +5,16 @@
   <head>
     <meta charset="UTF-8">
     <title>Solutions Project Infographic</title>
+
+
     <style type="text/css">
-      #map{
+
+      #map {
         height: 100%;
+        width: 100%;
+        order: 2;
       }
+
       /* Allows for a full screen map.
          Otherwise set height (above) explicitly */
       html,
@@ -18,6 +24,7 @@
         padding: 0;
       }
 
+      /* Style for the search bar */
       #pac-input {
         background-color: #fff;
         font-family: Roboto,sans-serif;
@@ -28,6 +35,58 @@
         text-overflow: ellipsis;
         width: 400px;
       }
+
+      /* Style for the menu */
+      .overlay {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: rgb(0,0,0);
+        background-color: rgba(0,0,0, 0.9);
+        overflow-x: hidden;
+        transition: 0.5s;
+      }
+
+      .overlay-content {
+        position: relative;
+        top: 25%;
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+      }
+
+      .overlay a {
+        padding: 8px;
+        text-decoration: none;
+        font-size: 36px;
+        color: #818181;
+        display: block;
+        transition: 0.3s;
+      }
+
+      .overlay a:hover, .overlay a:focus {
+        color: #f1f1f1;
+      }
+
+      .overlay .closebtn {
+        position: absolute;
+        top: 10px;
+        right: 20px;
+        font-size: 30px;
+      }
+
+      @media screen and (max-height: 450px) {
+        .overlay a {font-size: 20px}
+        .overlay .closebtn {
+        font-size: 20px;
+        top: 10px;
+        right: 10px;
+        }
+      }
+
     </style>
 
     <input
@@ -41,9 +100,21 @@
 
 
   <body>
+
+    <div id="myNav" class="overlay">
+      <a class="closebtn" onclick="closeNav()">&times;</a>
+      <div class="overlay-content">
+      </div>
+    </div>
+
     <div id="map"></div>
 
     <script>
+
+      function closeNav() {
+        document.getElementById("myNav").style.width = "0%";
+      }
+
       function initMap(){
 
         // New map
@@ -54,7 +125,8 @@
             mapTypeIds: [
               "styled_map"
             ]
-          }
+          },
+          disableDefaultUI: true
         });
 
         // Load the boundary coordinates of each country
@@ -68,23 +140,30 @@
         });
 
         // Mouseover event for different countries
-        {
-          map.data.addListener("mouseover", function(event) {
-            map.data.revertStyle();
-            map.data.overrideStyle(event.feature, {
-              fillColor: "green",
-            });
+        map.data.addListener("mouseover", function(event) {
+          map.data.revertStyle();
+          map.data.overrideStyle(event.feature, {
+            fillColor: "green",
           });
+        });
 
-          // Revert back to the original style
-          map.data.addListener("mouseout", function(event) {
-            map.data.revertStyle();
+        // Revert back to the original style
+        map.data.addListener("mouseout", function(event) {
+          map.data.revertStyle();
+        });
+
+        // Click event for different countries
+        map.data.addListener("click", function(event) {
+          document.getElementById("myNav").style.width = "25%";
+        });
+
+        var closebtn = document.getElementsByClassName("closebtn");
+          map.addListener("click", function(){
+
           });
-        }
 
         // Add a search bar to the map
-        {
-          var input = document.getElementById("pac-input");
+        var input = document.getElementById("pac-input");
             var searchBox = new google.maps.places.SearchBox(input);
             map.controls[google.maps.ControlPosition.TOP_RIGHT].push(input); // Bias the SearchBox results towards current map's viewport.
 
@@ -114,7 +193,7 @@
                 }
 
                 var icon = {
-                  url: place.icon,
+                  url: place.marker,
                   size: new google.maps.Size(71, 71),
                   origin: new google.maps.Point(0, 0),
                   anchor: new google.maps.Point(17, 34),
@@ -139,7 +218,6 @@
               });
               map.fitBounds(bounds);
             });
-        }
 
         //Styled Map imported from snazzymaps.com
         var styledMapType = new google.maps.StyledMapType(
@@ -302,10 +380,7 @@
                   "elementType": "labels.text.fill",
                   "stylers": [
                       {
-                          "visibility": "on"
-                      },
-                      {
-                          "color": "#000000"
+                          "visibility": "off"
                       }
                   ]
             }
@@ -321,6 +396,7 @@
     }
 
     </script>
+
 
     <script
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCicgsj2TE9o0ZBX1_mYkH2HKXcXsP8eIQ&callback=initMap&libraries=places&v=weekly"
