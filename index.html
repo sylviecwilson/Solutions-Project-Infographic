@@ -41,7 +41,7 @@
         border-style: solid;
         border-color: lightgray;
         border-radius: 4px;
-        color: dimgray;
+
       }
 
       /* Style for the menu */
@@ -105,12 +105,14 @@
         z-index: 1;
 
       }
+      /* background-color:  #e1f0c2; */
 
       .csc-btn-group button:focus {
         border-color: none;
         -webkit-box-shadow: none;
         box-shadow: none;
-        background-color:  #e1f0c2;
+        background-color: white;
+        color: #0069B0;
         outline: none;
 
       }
@@ -118,8 +120,8 @@
       .csc-btn-group button {
         font-family: Roboto,sans-serif;
         font-size: 15px;
-        color: dimgray;
-        background-color: white;
+        color: white;
+        background-color: #0069B0;
         float: left;
         padding: 15px 20px 15px 20px;
         border: 1px lightgray;
@@ -127,11 +129,13 @@
         cursor: pointer;
       }
       .csc-btn-group button:hover {
-        background-color:  #e1f0c2;
+        background-color: white;
+        color: #0069B0;
       }
 
       .csc-btn-group button:click {
-        background-color:  #e1f0c2;
+        background-color: white;
+        color: #0069B0;
       }
 
       #countries {
@@ -524,14 +528,13 @@
             countryLayer.setMap(null);
             stateLayer.setMap(map);
           });
- 
+
           citiesbtn.addEventListener("click", function(event) {
             map.panTo({lat:39.0119, lng:-98.4842});
             map.setZoom(3);
             countryLayer.setMap(null);
             stateLayer.setMap(map);
           })
-
 
 
     }
