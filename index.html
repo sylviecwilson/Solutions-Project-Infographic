@@ -5,6 +5,7 @@
   <head>
     <meta charset="UTF-8">
     <title>Solutions Project Infographic</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 
     <style type="text/css">
@@ -41,6 +42,7 @@
         border-style: solid;
         border-color: lightgray;
         border-radius: 4px;
+        outline: none;
 
       }
 
@@ -49,18 +51,23 @@
         height: 100%;
         width: 0;
         position: fixed;
-        z-index: 1;
+        z-index: 4;
         top: 0;
         left: 0;
         background-color: rgb(0,0,0);
         background-color: rgba(0,0,0, 0.9);
         overflow-x: hidden;
         transition: .7s;
+        overflow-y: hidden;
+        overflow-x: hidden;
+
       }
 
       .overlay-content {
+        font-family: roboto, sans-serif;
+        color: white;
         position: relative;
-        top: 25%;
+        top: 5%;
         width: 100%;
         text-align: center;
         margin-top: 30px;
@@ -71,8 +78,6 @@
         text-decoration: none;
         font-size: 36px;
         color: #818181;
-        display: block;
-        transition: 0.7s;
       }
 
       .overlay a:hover, .overlay a:focus {
@@ -107,16 +112,6 @@
       }
       /* background-color:  #e1f0c2; */
 
-      .csc-btn-group button:focus {
-        border-color: none;
-        -webkit-box-shadow: none;
-        box-shadow: none;
-        background-color: white;
-        color: #0069B0;
-        outline: none;
-
-      }
-
       .csc-btn-group button {
         font-family: Roboto,sans-serif;
         font-size: 15px;
@@ -128,12 +123,20 @@
         border-style: solid;
         cursor: pointer;
       }
-      .csc-btn-group button:hover {
+
+
+
+
+      .csc-btn-group button:focus {
+        border-color: none;
+        -webkit-box-shadow: none;
+        box-shadow: none;
         background-color: white;
         color: #0069B0;
+        outline: none;
       }
 
-      .csc-btn-group button:click {
+      .csc-btn-group button:hover {
         background-color: white;
         color: #0069B0;
       }
@@ -168,31 +171,25 @@
 
   <body>
 
+
     <div id="myNav" class="overlay">
       <a class="closebtn" onclick="closeNav()">&times;</a>
       <div class="overlay-content">
+        <h1><span id="locationName"></span> </h1>
       </div>
     </div>
 
-
-
     <div class= "csc-btn-group">
-      <button id="countries">Countries</button>
+      <button id="countries" >Countries</button>
       <button id= "states">U.S. States</button>
       <button id="cities">Cities</button>
     </div>
-
-
 
     <div id="map"></div>
 
     <script>
 
-      function closeNav() {
-        document.getElementById("myNav").style.width = "0%";
-      }
-
-      function initMap(){
+    function initMap(){
         // New map
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 3,
@@ -205,25 +202,27 @@
           disableDefaultUI: true,
         });
 
+        var countryJson = 'https://raw.githubusercontent.com/milesmsmith/Solutions-Project-Infographic/master/countries.json';
+        var stateJson = 'https://raw.githubusercontent.com/milesmsmith/Solutions-Project-Infographic/master/us-states.json';
+
         // Load the boundary coordinates of each country
         var countryLayer = new google.maps.Data()
-        countryLayer.loadGeoJson(
-          'https://raw.githubusercontent.com/milesmsmith/Solutions-Project-Infographic/master/countries.json');
+        countryLayer.loadGeoJson(countryJson);
 
+        // Load the boundary coordinates of each state
         var stateLayer = new google.maps.Data()
-        stateLayer.loadGeoJson(
-          'https://raw.githubusercontent.com/milesmsmith/Solutions-Project-Infographic/master/us-states.json');
+        stateLayer.loadGeoJson(stateJson);
 
-        // Show only the country layer by default (Eventuall add the cities layer here and for the button!)
+        // Show only the country layer by default (Eventually add the cities layer here and for the button!)
         countryLayer.setMap(map);
         stateLayer.setMap(null);
-
 
         // Style the country layer
         countryLayer.setStyle({
           fillColor: "yellowgreen",
           strokeWeight: 0,
         });
+
 
         // Mouseover event for different countries
         countryLayer.addListener("mouseover", function(event) {
@@ -239,8 +238,11 @@
         });
 
         // Click event for different countries
+        // See combining data layers from Google Maps to add to menu
         countryLayer.addListener("click", function(event) {
           document.getElementById("myNav").style.width = "375px";
+          var dataName = event.feature.getProperty('ADMIN');
+          document.getElementById('locationName').textContent = dataName;
         });
 
         // Style the state layer
@@ -262,67 +264,70 @@
           stateLayer.revertStyle();
         });
 
-        // Click event for different countries
+        // Click event for different states
         stateLayer.addListener("click", function(event) {
           stateLayer.revertStyle();
           document.getElementById("myNav").style.width = "375px";
+          var dataName = event.feature.getProperty('name')
+          document.getElementById('locationName').textContent = dataName;
+
         });
 
         // Add a search bar to the map
         var input = document.getElementById("pac-input");
-            var searchBox = new google.maps.places.SearchBox(input);
+        var searchBox = new google.maps.places.SearchBox(input);
 
-            map.addListener("bounds_changed", function() {
-              searchBox.setBounds(map.getBounds());
-            });
-            var markers = []; // Listen for the event fired when the user selects a prediction and retrieve
-            // more details for that place.
+        map.addListener("bounds_changed", function() {
+          searchBox.setBounds(map.getBounds());
+        });
+        var markers = []; // Listen for the event fired when the user selects a prediction and retrieve
+        // more details for that place.
 
-            searchBox.addListener("places_changed", function() {
-              var places = searchBox.getPlaces();
+        searchBox.addListener("places_changed", function() {
+          var places = searchBox.getPlaces();
 
-              if (places.length == 0) {
-                return;
-              } // Clear out the old markers.
+          if (places.length == 0) {
+            return;
+          } // Clear out the old markers.
 
-              markers.forEach(function(marker) {
-                marker.setMap(null);
-              });
-              markers = []; // For each place, get the icon, name and location.
+          markers.forEach(function(marker) {
+            marker.setMap(null);
+          });
+          markers = []; // For each place, get the icon, name and location.
 
-              var bounds = new google.maps.LatLngBounds();
-              places.forEach(function(place) {
-                if (!place.geometry) {
-                  console.log("Returned place contains no geometry");
-                  return;
-                }
+          var bounds = new google.maps.LatLngBounds();
+          places.forEach(function(place) {
+            if (!place.geometry) {
+              console.log("Returned place contains no geometry");
+              return;
+            }
 
-                var icon = {
-                  url: place.marker,
-                  size: new google.maps.Size(71, 71),
-                  origin: new google.maps.Point(0, 0),
-                  anchor: new google.maps.Point(17, 34),
-                  scaledSize: new google.maps.Size(25, 25)
-                }; // Create a marker for each place.
+            var icon = {
+              url: place.marker,
+              size: new google.maps.Size(71, 71),
+              origin: new google.maps.Point(0, 0),
+              anchor: new google.maps.Point(17, 34),
+              scaledSize: new google.maps.Size(25, 25)
+            }; // Create a marker for each place.
 
-                markers.push(
-                  new google.maps.Marker({
-                    map: map,
-                    icon: icon,
-                    title: place.name,
-                    position: place.geometry.location
-                  })
-                );
+            markers.push(
+              new google.maps.Marker({
+                map: map,
+                icon: icon,
+                title: place.name,
+                position: place.geometry.location
+              })
+            );
 
-                if (place.geometry.viewport) {
-                  // Only geocodes have viewport.
-                  bounds.union(place.geometry.viewport);
-                } else {
-                  bounds.extend(place.geometry.location);
-                }
-              });
-              map.fitBounds(bounds);
-            });
+            if (place.geometry.viewport) {
+              // Only geocodes have viewport.
+              bounds.union(place.geometry.viewport);
+            } else {
+              bounds.extend(place.geometry.location);
+            }
+          });
+          map.fitBounds(bounds);
+        });
 
         //Styled Map imported from snazzymaps.com
         var styledMapType = new google.maps.StyledMapType(
@@ -515,6 +520,10 @@
           var statesbtn = document.getElementById('states');
           var citiesbtn = document.getElementById('cities');
 
+          countriesbtn.focus();
+
+          // Need to implement a way to stay active or focused until another button is pressed.
+
           countriesbtn.addEventListener("click", function(event) {
             map.panTo({lat:15, lng:0});
             map.setZoom(3);
@@ -536,7 +545,10 @@
             stateLayer.setMap(map);
           })
 
+    }
 
+    function closeNav() {
+      document.getElementById("myNav").style.width = "0%";
     }
 
     </script>
