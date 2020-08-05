@@ -122,12 +122,10 @@
         border: 1px lightgray;
         border-style: solid;
         cursor: pointer;
+        outline: none;
       }
 
-
-
-
-      .csc-btn-group button:focus {
+      button.active {
         border-color: none;
         -webkit-box-shadow: none;
         box-shadow: none;
@@ -520,7 +518,8 @@
           var statesbtn = document.getElementById('states');
           var citiesbtn = document.getElementById('cities');
 
-          countriesbtn.focus();
+          // Default state
+          $("#countries").addClass("active");
 
           // Need to implement a way to stay active or focused until another button is pressed.
 
@@ -529,6 +528,8 @@
             map.setZoom(3);
             countryLayer.setMap(map);
             stateLayer.setMap(null);
+            $(this).addClass('active');
+            $(this).siblings().removeClass('active');
           })
 
           statesbtn.addEventListener("click", function(event) {
@@ -536,13 +537,17 @@
             map.setZoom(4);
             countryLayer.setMap(null);
             stateLayer.setMap(map);
+            $(this).siblings().removeClass('active');
+            $(this).addClass('active');
           });
 
           citiesbtn.addEventListener("click", function(event) {
             map.panTo({lat:39.0119, lng:-98.4842});
             map.setZoom(3);
             countryLayer.setMap(null);
-            stateLayer.setMap(map);
+            stateLayer.setMap(null);
+            $(this).siblings().removeClass('active');
+            $(this).addClass('active');
           })
 
     }
