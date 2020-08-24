@@ -202,6 +202,7 @@
 
         var countryJson = 'https://raw.githubusercontent.com/milesmsmith/Solutions-Project-Infographic/master/countries.json';
         var stateJson = 'https://raw.githubusercontent.com/milesmsmith/Solutions-Project-Infographic/master/us-states.json';
+        var cityJson = 'https://raw.githubusercontent.com/milesmsmith/Solutions-Project-Infographic/master/cities.json';
 
         // Load the boundary coordinates of each country
         var countryLayer = new google.maps.Data()
@@ -211,9 +212,14 @@
         var stateLayer = new google.maps.Data()
         stateLayer.loadGeoJson(stateJson);
 
+        var cityLayer = new google.maps.Data()
+        cityLayer.loadGeoJson(cityJson);
+
         // Show only the country layer by default (Eventually add the cities layer here and for the button!)
         countryLayer.setMap(map);
         stateLayer.setMap(null);
+        cityLayer.setMap(null);
+
 
         // Style the country layer
         countryLayer.setStyle({
@@ -268,7 +274,14 @@
           document.getElementById("myNav").style.width = "375px";
           var dataName = event.feature.getProperty('name')
           document.getElementById('locationName').textContent = dataName;
+        });
 
+        // Click event for different cities
+        cityLayer.addListener("click", function(event) {
+          cityLayer.revertStyle();
+          document.getElementById("myNav").style.width = "375px";
+          var dataName = event.feature.getProperty('name')
+          document.getElementById('locationName').textContent = dataName;
         });
 
         // Add a search bar to the map
@@ -528,6 +541,7 @@
             map.setZoom(3);
             countryLayer.setMap(map);
             stateLayer.setMap(null);
+            cityLayer.setMap(null);
             $(this).addClass('active');
             $(this).siblings().removeClass('active');
           })
@@ -536,16 +550,18 @@
             map.panTo({lat:39.0119, lng:-98.4842});
             map.setZoom(4);
             countryLayer.setMap(null);
+            cityLayer.setMap(null);
             stateLayer.setMap(map);
             $(this).siblings().removeClass('active');
             $(this).addClass('active');
           });
 
           citiesbtn.addEventListener("click", function(event) {
-            map.panTo({lat:39.0119, lng:-98.4842});
+            map.panTo({lat:15, lng:0});
             map.setZoom(3);
             countryLayer.setMap(null);
             stateLayer.setMap(null);
+            cityLayer.setMap(map);
             $(this).siblings().removeClass('active');
             $(this).addClass('active');
           })
