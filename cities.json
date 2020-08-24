@@ -1008,6 +1008,566 @@
           47.3751046548669
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Honolulu",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8632354736328,
+          21.307287323905406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seattle",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32589721679688,
+          47.607088939995585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodstock",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.75037002563477,
+          43.133938066843136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Portland",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67059326171874,
+          45.52270606936925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Francisco ",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4151611328125,
+          37.77831314799669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oakland",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2723388671875,
+          37.805715207044685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palo Alto",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.16453552246094,
+          37.4451531792607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Monica",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.48737716674805,
+          34.01965669732604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lancaster",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.15933227539062,
+          34.69533207371177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Diego",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15408325195311,
+          32.71913249723243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moab",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5556640625,
+          38.56964280859044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aspen",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.82693481445312,
+          39.19288388992811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denver",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.98947143554686,
+          39.7399303660792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pueblo",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.60906982421875,
+          38.25543637637947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgetown",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.68218994140625,
+          30.63377638729334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denton",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13253021240234,
+          33.215712251730736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greensburg",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.30816650390625,
+          37.60117623656667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Standing Rock Indian Reservation",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4974365234375,
+          45.77087575105819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rochester",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.46505737304688,
+          44.02442151965934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Des Moines",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6090087890625,
+          41.59182393372352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madison",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.38339233398438,
+          43.074656102081256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milwaukee",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.91877746582031,
+          43.03677585761058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Rapids",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66864013671875,
+          42.96446257387128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detroit",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05458068847656,
+          42.348395259793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cleveland",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69021606445312,
+          41.50343510361136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffalo",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87840270996094,
+          42.886530257542255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boone",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.67613983154297,
+          36.216856162150144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sylva",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22418212890625,
+          35.37393449502593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atlanta",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39285278320312,
+          33.75060604160645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abita Springs",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.04222869873047,
+          30.479154116785644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Orleans",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.09475708007812,
+          29.952554831950987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Petersburg",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66937255859375,
+          27.769836075830344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miami",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19676208496092,
+          25.774542255850353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arlington",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08505630493164,
+          38.89023115500578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbia",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.85897827148438,
+          39.215630305545304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nassau",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.45632791519165,
+          40.7772592320514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Hampton",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.18292236328125,
+          40.964344957571605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boston",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.05888366699219,
+          42.36031976410849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanover",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2896957397461,
+          43.703870693950684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burlington",
+        "country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.20911407470703,
+          44.47250119351298
+        ]
+      }
     }
   ]
 }
