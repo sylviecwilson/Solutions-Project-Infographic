@@ -26,6 +26,944 @@
           9.01157241738598
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ankara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85341262817383,
+          39.92184916337801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auckland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77050781249997,
+          -36.84006462037766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baghdad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.37858581542968,
+          33.30298618122413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangkok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50018310546875,
+          13.754058580410238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beijing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.38916015624999,
+          39.91394967016644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.377227783203125,
+          52.51622086393074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bogota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.091796875,
+          4.606540379886432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.342697143554688,
+          44.49356657962081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bucharest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.100082397460938,
+          44.4377021634654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buenos Aires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.434906005859375,
+          -34.607214907435875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cairo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.244945526123043,
+          30.04933357870976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.06417846679686,
+          51.05520733858494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.424072265625,
+          -33.92399018008704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caracas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.917724609375,
+          10.498614480162155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casablanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.620391845703124,
+          33.59460310594647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chicago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62557983398438,
+          41.87671893034394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.22702026367188,
+          28.65203063036226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dhaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37902832031249,
+          23.76020942503921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.30105590820312,
+          25.273261681983083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edmonton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.50456237792969,
+          53.53541058046375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guayaquil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90081787109374,
+          -2.191238104506539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hanoi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84503173828125,
+          21.025546284581797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Havana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36656188964844,
+          23.139728585023715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ho Chi Minh City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69784545898438,
+          10.780697528442671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Houston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.36956787109375,
+          29.760800955544514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibiza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4083099365234375,
+          38.98236405342508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Istanbul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9544677734375,
+          41.00943888076623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82281494140625,
+          -6.177419620653995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karachi, Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.027587890625,
+          24.86650252692691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiev, Ukraine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.519332885742188,
+          50.4478856743724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinshasa, Congo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.301208496093748,
+          -4.3135463640685145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kyoto, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.615234375,
+          35.25459097465022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lagos, Nigeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3810424804687496,
+          6.459963649324932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lima, Peru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03716278076172,
+          -12.063159258735526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09613037109375,
+          51.515579783755925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Los Angeles, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24722290039061,
+          34.05436610955981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrid, Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7085723876953125,
+          40.41558722527381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mexico City, Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14886474609375,
+          19.43162918399349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montevideo, Uruguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.182022094726555,
+          -34.90564232769945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montreal, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62350463867188,
+          45.49672163945861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moscow, Russia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61993408203125,
+          55.751849391735284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mumbai",
+        "country": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83248901367188,
+          18.94006232819141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nairobi",
+        "country": "Kenya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.81037902832031,
+          -1.2804872656134787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York City",
+        "country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98605346679688,
+          40.73268976628568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oslo",
+        "country": "Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.737762451171875,
+          59.91579506901572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palma",
+        "country": "Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.64495849609375,
+          39.58029027440865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paris",
+        "country": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3514175415039062,
+          48.85703523304221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perth",
+        "country": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.84259033203124,
+          -31.933516761903675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philadelphia",
+        "country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.16433715820312,
+          39.94975340768179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phoenix",
+        "country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.08389282226561,
+          33.44977658311846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.74127197265625,
+          39.02345139405935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quezon City",
+        "country": "Philippines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.04839324951172,
+          14.65002568712865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.218841552734375,
+          -22.909068428006357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rome",
+        "country": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.491455078125,
+          41.89818843043047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jose",
+        "country": "Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07922744750977,
+          9.932836789260074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Jose",
+        "country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.89262390136717,
+          37.33522435930639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santiago",
+        "country": "Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.6640625,
+          -33.43144133557529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sao Paulo",
+        "country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.04571533203125,
+          -22.12381042563998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seoul",
+        "country": "South Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.97723388671874,
+          37.56308554496544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanghai",
+        "country": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.48406982421875,
+          31.22689446881399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tashkent",
+        "country": "Uzbekistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.27909851074219,
+          41.31288691435732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tehran",
+        "country": "Iran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.3995361328125,
+          35.733136223133926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokyo",
+        "country": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.68978881835938,
+          35.68686010878784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38858032226562,
+          43.65396273281939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ulaanbaatar",
+        "country": "Mongolia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.92993164062499,
+          47.921864146583786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vancouver",
+        "country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11416625976562,
+          49.26085924213008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vienna",
+        "country": "Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.373062133789062,
+          48.20911695037711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yangon",
+        "country": "Myanmar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.17431640625,
+          16.836089974560213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yixing",
+        "country": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.81552124023438,
+          31.354809686417862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zurich",
+        "country": "Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53912353515625,
+          47.3751046548669
+        ]
+      }
     }
   ]
 }
