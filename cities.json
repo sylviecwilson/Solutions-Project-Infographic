@@ -1209,12 +1209,12 @@
         "onshore wind": 31.44,
         "offshore wind": 16.42,
         "wave": 0.96,
-        "geothermal": 0.36,
-        "hydroelectric": 3.99,
-        "tidal": 0.12,
-        "res pv": 9.43,
-        "gov pv": 15.72,
-        "utility pv": 22.64,
+        "geothermal": 0.57,
+        "hydroelectric": "3.90",
+        "tidal": 0.01,
+        "res pv": 10.95,
+        "gov pv": "14.60",
+        "utility pv": 16.42,
         "csp": 4.73
       },
       "geometry": {
@@ -1233,7 +1233,13 @@
         "onshore wind": 31.44,
         "offshore wind": 16.42,
         "wave": 0.96,
-        "geothermal": ""
+        "geothermal": 0.57,
+        "hydroelectric": "3.90",
+        "tidal": 0.01,
+        "res pv": 10.95,
+        "gov pv": "14.60",
+        "utility pv": 16.42,
+        "csp": 4.73
       },
       "geometry": {
         "type": "Point",
@@ -1247,7 +1253,17 @@
       "type": "Feature",
       "properties": {
         "name": "Pyongyang",
-        "country": "Democratic Republic of Korea"
+        "country": "Democratic Republic of Korea",
+        "onshore wind": 36.13,
+        "offshore wind": 13.74,
+        "wave": 0,
+        "geothermal": 0,
+        "hydroelectric": 17.55,
+        "tidal": 1.73,
+        "res pv": 11.78,
+        "gov pv": 4.91,
+        "utility pv": 13.74,
+        "csp": 0.43
       },
       "geometry": {
         "type": "Point",
@@ -1261,7 +1277,17 @@
       "type": "Feature",
       "properties": {
         "name": "Quezon City",
-        "country": "Philippines"
+        "country": "Philippines",
+        "onshore wind": 7.68,
+        "offshore wind": 15.13,
+        "wave": "0.60",
+        "geothermal": 11.24,
+        "hydroelectric": 3.95,
+        "tidal": 0.27,
+        "res pv": 12.97,
+        "gov pv": 28.82,
+        "utility pv": 15.13,
+        "csp": "4.20"
       },
       "geometry": {
         "type": "Point",
@@ -1275,7 +1301,17 @@
       "type": "Feature",
       "properties": {
         "name": "Rio de Janeiro",
-        "country": "Brazil"
+        "country": "Brazil",
+        "onshore wind": 35.53,
+        "offshore wind": 9.12,
+        "wave": 0.84,
+        "geothermal": 0,
+        "hydroelectric": 16.04,
+        "tidal": 0.02,
+        "res pv": 7.82,
+        "gov pv": 17.37,
+        "utility pv": 9.12,
+        "csp": 4.16
       },
       "geometry": {
         "type": "Point",
@@ -1289,7 +1325,17 @@
       "type": "Feature",
       "properties": {
         "name": "Rome",
-        "country": "Italy"
+        "country": "Italy",
+        "onshore wind": 37.31,
+        "offshore wind": 13.97,
+        "wave": 0.35,
+        "geothermal": 0.98,
+        "hydroelectric": 7.79,
+        "tidal": 0.02,
+        "res pv": 11.97,
+        "gov pv": "9.10",
+        "utility pv": 13.97,
+        "csp": 4.54
       },
       "geometry": {
         "type": "Point",
@@ -1303,7 +1349,17 @@
       "type": "Feature",
       "properties": {
         "name": "San Jose",
-        "country": "Costa Rica"
+        "country": "Costa Rica",
+        "onshore wind": 21.46,
+        "offshore wind": 5.51,
+        "wave": 0.51,
+        "geothermal": 24.74,
+        "hydroelectric": 24.43,
+        "tidal": 0.13,
+        "res pv": 4.72,
+        "gov pv": 10.49,
+        "utility pv": 5.51,
+        "csp": 2.51
       },
       "geometry": {
         "type": "Point",
@@ -1317,7 +1373,17 @@
       "type": "Feature",
       "properties": {
         "name": "San Jose",
-        "country": "United States of America"
+        "country": "United States of America",
+        "onshore wind": 31.44,
+        "offshore wind": 16.42,
+        "wave": 0.96,
+        "geothermal": 0.57,
+        "hydroelectric": "3.90",
+        "tidal": 0.01,
+        "res pv": 10.95,
+        "gov pv": "14.60",
+        "utility pv": 16.42,
+        "csp": 4.73
       },
       "geometry": {
         "type": "Point",
@@ -1331,7 +1397,17 @@
       "type": "Feature",
       "properties": {
         "name": "Santiago",
-        "country": "Chile"
+        "country": "Chile",
+        "onshore wind": 36.71,
+        "offshore wind": 10.06,
+        "wave": 0.87,
+        "geothermal": "3.80",
+        "hydroelectric": 9.41,
+        "tidal": 0.06,
+        "res pv": 8.62,
+        "gov pv": 16.13,
+        "utility pv": 10.06,
+        "csp": 4.29
       },
       "geometry": {
         "type": "Point",
@@ -1345,7 +1421,17 @@
       "type": "Feature",
       "properties": {
         "name": "Sao Paulo",
-        "country": "Brazil"
+        "country": "Brazil",
+        "onshore wind": 35.53,
+        "offshore wind": 9.12,
+        "wave": 0.84,
+        "geothermal": 0,
+        "hydroelectric": 16.04,
+        "tidal": 0.02,
+        "res pv": 7.82,
+        "gov pv": 17.37,
+        "utility pv": 9.12,
+        "csp": 4.16
       },
       "geometry": {
         "type": "Point",
@@ -1359,7 +1445,17 @@
       "type": "Feature",
       "properties": {
         "name": "Seoul",
-        "country": "South Korea"
+        "country": "South Korea",
+        "onshore wind": 4.44,
+        "offshore wind": 37.18,
+        "wave": 0,
+        "geothermal": 0,
+        "hydroelectric": 1.98,
+        "tidal": 0.15,
+        "res pv": "8.90",
+        "gov pv": 5.27,
+        "utility pv": 37.18,
+        "csp": 4.89
       },
       "geometry": {
         "type": "Point",
@@ -1373,7 +1469,17 @@
       "type": "Feature",
       "properties": {
         "name": "Shanghai",
-        "country": "China"
+        "country": "China",
+        "onshore wind": 34.84,
+        "offshore wind": 14.29,
+        "wave": 0.05,
+        "geothermal": 0.07,
+        "hydroelectric": "6.30",
+        "tidal": 0.02,
+        "res pv": 12.25,
+        "gov pv": 13.22,
+        "utility pv": 14.29,
+        "csp": 4.68
       },
       "geometry": {
         "type": "Point",
@@ -1387,7 +1493,17 @@
       "type": "Feature",
       "properties": {
         "name": "Tashkent",
-        "country": "Uzbekistan"
+        "country": "Uzbekistan",
+        "onshore wind": 26.95,
+        "offshore wind": 15.09,
+        "wave": 0.96,
+        "geothermal": 0.36,
+        "hydroelectric": 3.99,
+        "tidal": 0.12,
+        "res pv": 9.43,
+        "gov pv": 15.72,
+        "utility pv": 22.64,
+        "csp": 4.73
       },
       "geometry": {
         "type": "Point",
@@ -1401,7 +1517,17 @@
       "type": "Feature",
       "properties": {
         "name": "Tehran",
-        "country": "Iran"
+        "country": "Iran",
+        "onshore wind": 28.92,
+        "offshore wind": 12.56,
+        "wave": 0,
+        "geothermal": 0,
+        "hydroelectric": 2.68,
+        "tidal": 0,
+        "res pv": 14.67,
+        "gov pv": 14.63,
+        "utility pv": 21.67,
+        "csp": 4.87
       },
       "geometry": {
         "type": "Point",
@@ -1415,7 +1541,17 @@
       "type": "Feature",
       "properties": {
         "name": "Tokyo",
-        "country": "Japan"
+        "country": "Japan",
+        "onshore wind": 10.24,
+        "offshore wind": 31.55,
+        "wave": 0.93,
+        "geothermal": 0.69,
+        "hydroelectric": 5.84,
+        "tidal": 0.28,
+        "res pv": 11.78,
+        "gov pv": 7.14,
+        "utility pv": 31.55,
+        "csp": 0
       },
       "geometry": {
         "type": "Point",
@@ -1429,7 +1565,17 @@
       "type": "Feature",
       "properties": {
         "name": "Toronto",
-        "country": "Canada"
+        "country": "Canada",
+        "onshore wind": 32.74,
+        "offshore wind": 8.87,
+        "wave": 0.73,
+        "geothermal": 2.63,
+        "hydroelectric": "23.60",
+        "tidal": 0.29,
+        "res pv": "7.60",
+        "gov pv": 14.67,
+        "utility pv": 8.87,
+        "csp": 0
       },
       "geometry": {
         "type": "Point",
@@ -1443,7 +1589,17 @@
       "type": "Feature",
       "properties": {
         "name": "Ulaanbaatar",
-        "country": "Mongolia"
+        "country": "Mongolia",
+        "onshore wind": 44.87,
+        "offshore wind": 0,
+        "wave": 0,
+        "geothermal": 0,
+        "hydroelectric": 0.28,
+        "tidal": 0,
+        "res pv": 9.87,
+        "gov pv": 21.94,
+        "utility pv": 23.03,
+        "csp": 0
       },
       "geometry": {
         "type": "Point",
@@ -1457,7 +1613,17 @@
       "type": "Feature",
       "properties": {
         "name": "Vancouver",
-        "country": "Canada"
+        "country": "Canada",
+        "onshore wind": 32.74,
+        "offshore wind": 8.87,
+        "wave": 0.73,
+        "geothermal": 2.63,
+        "hydroelectric": "23.60",
+        "tidal": 0.29,
+        "res pv": "7.60",
+        "gov pv": 14.67,
+        "utility pv": 8.87,
+        "csp": 0
       },
       "geometry": {
         "type": "Point",
@@ -1471,7 +1637,17 @@
       "type": "Feature",
       "properties": {
         "name": "Vienna",
-        "country": "Austria"
+        "country": "Austria",
+        "onshore wind": 36.18,
+        "offshore wind": 0,
+        "wave": 0,
+        "geothermal": 0,
+        "hydroelectric": 19.59,
+        "tidal": 0,
+        "res pv": 10.55,
+        "gov pv": 9.05,
+        "utility pv": 24.62,
+        "csp": 0
       },
       "geometry": {
         "type": "Point",
@@ -1485,7 +1661,17 @@
       "type": "Feature",
       "properties": {
         "name": "Yangon",
-        "country": "Myanmar"
+        "country": "Myanmar",
+        "onshore wind": 37.67,
+        "offshore wind": 9.67,
+        "wave": 0.89,
+        "geothermal": 0,
+        "hydroelectric": 10.65,
+        "tidal": 0.33,
+        "res pv": 8.29,
+        "gov pv": 18.42,
+        "utility pv": 9.67,
+        "csp": 4.41
       },
       "geometry": {
         "type": "Point",
@@ -1499,7 +1685,17 @@
       "type": "Feature",
       "properties": {
         "name": "Yixing",
-        "country": "China"
+        "country": "China",
+        "onshore wind": 34.84,
+        "offshore wind": 14.29,
+        "wave": 0.05,
+        "geothermal": 0.07,
+        "hydroelectric": "6.30",
+        "tidal": 0.02,
+        "res pv": 12.25,
+        "gov pv": 13.22,
+        "utility pv": 14.29,
+        "csp": 4.68
       },
       "geometry": {
         "type": "Point",
@@ -1513,7 +1709,17 @@
       "type": "Feature",
       "properties": {
         "name": "Zurich",
-        "country": "Switzerland"
+        "country": "Switzerland",
+        "onshore wind": 26.91,
+        "offshore wind": 0,
+        "wave": 0,
+        "geothermal": 0,
+        "hydroelectric": 39.31,
+        "tidal": 0,
+        "res pv": 6.56,
+        "gov pv": "11.90",
+        "utility pv": 15.32,
+        "csp": 0
       },
       "geometry": {
         "type": "Point",
@@ -1527,7 +1733,8 @@
       "type": "Feature",
       "properties": {
         "name": "Honolulu",
-        "country": "United States of America"
+        "country": "United States of America",
+        "onshore wind": ""
       },
       "geometry": {
         "type": "Point",
@@ -2080,6 +2287,30 @@
         "coordinates": [
           -73.20911407470703,
           44.47250119351298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shenzhen",
+        "country": "China",
+        "onshore wind": 34.84,
+        "offshore wind": 14.29,
+        "wave": 0.05,
+        "geothermal": 0.07,
+        "hydroelectric": "6.30",
+        "tidal": 0.02,
+        "res pv": 12.25,
+        "gov pv": 13.22,
+        "utility pv": 14.29,
+        "csp": 4.68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.04907226562499,
+          22.545537663981865
         ]
       }
     }
