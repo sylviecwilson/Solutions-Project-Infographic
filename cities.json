@@ -5,7 +5,17 @@
       "type": "Feature",
       "properties": {
         "name": "Abidjan",
-        "country": "Cote d'Ivoire"
+        "country": "Cote d'Ivoire",
+        "onshore wind": 35.38,
+        "offshore wind": 10.99,
+        "wave": 0.93,
+        "geothermal": 0,
+        "hydroelectric": 6.67,
+        "tidal": 0.05,
+        "res pv": 9.42,
+        "gov pv": 20.94,
+        "utility pv": 10.99,
+        "csp": 4.62
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +29,17 @@
       "type": "Feature",
       "properties": {
         "name": "Addis Ababa",
-        "country": "Ethiopia"
+        "country": "Ethiopia",
+        "onshore wind": 35.94,
+        "offshore wind": 0,
+        "wave": 0,
+        "geothermal": 7.11,
+        "hydroelectric": 8.83,
+        "tidal": 0,
+        "res pv": 7.91,
+        "gov pv": 17.57,
+        "utility pv": 18.45,
+        "csp": "4.20"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +53,17 @@
       "type": "Feature",
       "properties": {
         "name": "Ankara",
-        "country": "Turkey"
+        "country": "Turkey",
+        "onshore wind": 35.48,
+        "offshore wind": 2.08,
+        "wave": 0,
+        "geothermal": 1.33,
+        "hydroelectric": 15.65,
+        "tidal": 0.02,
+        "res pv": 7.81,
+        "gov pv": 17.35,
+        "utility pv": 16.13,
+        "csp": 4.15
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +77,9 @@
       "type": "Feature",
       "properties": {
         "name": "Auckland",
-        "country": "New Zealand"
+        "country": "New Zealand",
+        "onshore wind": 32.42,
+        "offshore wind": ""
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +93,8 @@
       "type": "Feature",
       "properties": {
         "name": "Baghdad",
-        "country": "Iraq"
+        "country": "Iraq",
+        "onshore wind": 40.83
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +108,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bangkok",
-        "country": "Thailand"
+        "country": "Thailand",
+        "onshore wind": 3.75
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +123,8 @@
       "type": "Feature",
       "properties": {
         "name": "Beijing",
-        "country": "China"
+        "country": "China",
+        "onshore wind": 34.84
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +138,8 @@
       "type": "Feature",
       "properties": {
         "name": "Berlin",
-        "country": "Germany"
+        "country": "Germany",
+        "onshore wind": 41.05
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +153,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bogota",
-        "country": "Colombia"
+        "country": "Colombia",
+        "onshore wind": 34.42
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +168,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bologna",
-        "country": "Italy"
+        "country": "Italy",
+        "onshore wind": 37.31
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +183,8 @@
       "type": "Feature",
       "properties": {
         "name": "Bucharest",
-        "country": "Romania"
+        "country": "Romania",
+        "onshore wind": 37.45
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +198,8 @@
       "type": "Feature",
       "properties": {
         "name": "Buenos Aires",
-        "country": "Argentina"
+        "country": "Argentina",
+        "onshore wind": 38.77
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +213,8 @@
       "type": "Feature",
       "properties": {
         "name": "Cairo",
-        "country": "Egypt"
+        "country": "Egypt",
+        "onshore wind": "42.10"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +228,8 @@
       "type": "Feature",
       "properties": {
         "name": "Calgary",
-        "country": "Canada"
+        "country": "Canada",
+        "onshore wind": 32.74
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +243,8 @@
       "type": "Feature",
       "properties": {
         "name": "Cape Town",
-        "country": "South Africa"
+        "country": "South Africa",
+        "onshore wind": 42.19
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +258,8 @@
       "type": "Feature",
       "properties": {
         "name": "Caracas",
-        "country": "Venezuela"
+        "country": "Venezuela",
+        "onshore wind": 35.91
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +273,8 @@
       "type": "Feature",
       "properties": {
         "name": "Casablanca",
-        "country": "Morocco"
+        "country": "Morocco",
+        "onshore wind": 41.01
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +288,8 @@
       "type": "Feature",
       "properties": {
         "name": "Chicago",
-        "country": "United States of America"
+        "country": "United States of America",
+        "onshore wind": 31.44
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +303,8 @@
       "type": "Feature",
       "properties": {
         "name": "Delhi",
-        "country": "India"
+        "country": "India",
+        "onshore wind": 36.92
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +318,8 @@
       "type": "Feature",
       "properties": {
         "name": "Dhaka",
-        "country": "Bangladesh"
+        "country": "Bangladesh",
+        "onshore wind": ""
       },
       "geometry": {
         "type": "Point",
