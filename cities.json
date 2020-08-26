@@ -39,7 +39,7 @@
         "res pv": 7.91,
         "gov pv": 17.57,
         "utility pv": 18.45,
-        "csp": "4.20"
+        "csp": 4.2
       },
       "geometry": {
         "type": "Point",
@@ -372,7 +372,7 @@
         "geothermal": 0,
         "hydroelectric": 15.80,
         "tidal": 0.02,
-        "res pv": "7.90",
+        "res pv": 7.9,
         "gov pv": 17.56,
         "utility pv": 9.22,
         "csp": 4.20
@@ -399,7 +399,7 @@
         "res pv": 9.02,
         "gov pv": 20.05,
         "utility pv": 10.53,
-        "csp": 4.80
+        "csp": 4.8
       },
       "geometry": {
         "type": "Point",
@@ -418,10 +418,10 @@
         "offshore wind": 16.42,
         "wave": 0.96,
         "geothermal": 0.57,
-        "hydroelectric": 3.90,
+        "hydroelectric": 3.9,
         "tidal": 0.01,
         "res pv": 10.95,
-        "gov pv": 14.60,
+        "gov pv": 14.6,
         "utility pv": 16.42,
         "csp": 4.73
       },
@@ -486,7 +486,7 @@
       "properties": {
         "name": "Dubai",
         "country": "United Arab Emirates",
-        "onshore wind": "5.90",
+        "onshore wind": 5.9,
         "offshore wind": 12.26,
         "wave": 0,
         "geothermal": 0,
@@ -514,9 +514,9 @@
         "offshore wind": 8.87,
         "wave": 0.73,
         "geothermal": 2.63,
-        "hydroelectric": 23.60,
+        "hydroelectric": 23.6,
         "tidal": 0.29,
-        "res pv": 7.60,
+        "res pv": 7.6,
         "gov pv": 14.67,
         "utility pv": 8.87,
         "csp": 0
@@ -543,7 +543,7 @@
         "res pv": 7.34,
         "gov pv": 16.32,
         "utility pv": 14.05,
-        "csp": 3.90
+        "csp": 3.9
       },
       "geometry": {
         "type": "Point",

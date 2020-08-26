@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <title>Solutions Project Infographic</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
 
     <style type="text/css">
@@ -139,6 +140,16 @@
         color: #0069B0;
       }
 
+      h2 {
+        text-align: left;
+        margin-left: 10px;
+      }
+
+      p {
+        text-align: left;
+        margin-left: 15px;
+      }
+
       #countries {
         border-top-left-radius: 10px;
         border-bottom-left-radius: 10px;
@@ -174,6 +185,11 @@
       <a class="closebtn" onclick="closeNav()">&times;</a>
       <div class="overlay-content">
         <h1><span id="locationName"></span> </h1>
+        <h3><span id="locationCountry"></span> </h3>
+        <h2>Energy Mix</h2>
+        <div id="piechart" style="width: 450px; height: 250px;"></div>
+        <h2>Jobs Created</h2>
+        <h2>Energy Cost Savings Per Person</h2>
       </div>
     </div>
 
@@ -279,9 +295,54 @@
         // Click event for different cities
         cityLayer.addListener("click", function(event) {
           cityLayer.revertStyle();
-          document.getElementById("myNav").style.width = "375px";
-          var dataName = event.feature.getProperty('name')
-          document.getElementById('locationName').textContent = dataName;
+          document.getElementById("myNav").style.width = "450px";
+
+          // Load variables from properties of GeoJSON
+          var cityName = event.feature.getProperty('name');
+          var countryName = event.feature.getProperty('country');
+          var onshoreWind = event.feature.getProperty('onshore wind');
+          var offshoreWind = event.feature.getProperty('offshore wind');
+          var wave = event.feature.getProperty('wave');
+          var geothermal = event.feature.getProperty('geothermal');
+          var hydroelectric = event.feature.getProperty('hydroelectric');
+          var tidal = event.feature.getProperty('tidal');
+          var resPV = event.feature.getProperty('res pv');
+          var govPV = event.feature.getProperty('gov pv');
+          var utilityPV = event.feature.getProperty('utility pv');
+          var concSolar = event.feature.getProperty('csp');
+
+          document.getElementById('locationName').textContent = cityName;
+          document.getElementById('locationCountry').textContent = countryName;
+
+
+          google.charts.load('current', {'packages':['corechart']});
+          google.charts.setOnLoadCallback(drawCityGraph);
+
+          function drawCityGraph() {
+
+            var data = google.visualization.arrayToDataTable([
+              ['Energy Source', 'Usage Percent'],
+              ['Onshore Wind',     onshoreWind],
+              ['Offshore Wind',      offshoreWind],
+              ['Wave',      wave],
+              ['Geothermal',      geothermal],
+              ['Hydroelectric',      hydroelectric],
+              ['Tidal',      tidal],
+              ['Res. PV',      resPV],
+              ['Com./Gov PV',      govPV],
+              ['Utility PV',      utilityPV],
+              ['CSP',      concSolar]
+            ]);
+
+            var options = {
+              title: '100% Clean, Renewable Energy Breakdown',
+            };
+
+            var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+
+            chart.draw(data, options);
+          };
+
         });
 
         // Add a search bar to the map
