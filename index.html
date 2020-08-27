@@ -59,9 +59,7 @@
         background-color: rgba(0,0,0, 0.9);
         overflow-x: hidden;
         transition: .7s;
-        overflow-y: hidden;
-        overflow-x: hidden;
-
+        overflow-y: auto;
       }
 
       .overlay-content {
@@ -109,7 +107,13 @@
         bottom: 30px;
         right: 30px;
         z-index: 1;
+      }
 
+      .AE-Program-Logo {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        z-index: 1;
       }
       /* background-color:  #e1f0c2; */
 
@@ -117,7 +121,7 @@
         font-family: Roboto,sans-serif;
         font-size: 15px;
         color: white;
-        background-color: #0069B0;
+        background-color: #8c1515;
         float: left;
         padding: 15px 20px 15px 20px;
         border: 1px lightgray;
@@ -131,23 +135,13 @@
         -webkit-box-shadow: none;
         box-shadow: none;
         background-color: white;
-        color: #0069B0;
+        color: #8c1515;
         outline: none;
       }
 
       .csc-btn-group button:hover {
         background-color: white;
-        color: #0069B0;
-      }
-
-      h2 {
-        text-align: left;
-        margin-left: 10px;
-      }
-
-      p {
-        text-align: left;
-        margin-left: 15px;
+        color: #8c1515;
       }
 
       #countries {
@@ -165,6 +159,25 @@
         border-right: none;
       }
       /* End style for button */
+
+      /* Hyperlink Buttons in Menu */
+      .example_c {
+        color: #8c1515 !important;
+        text-transform: uppercase;
+        text-decoration: none;
+        background: #ffffff;
+        padding: 20px;
+        border: 4px solid #8c1515 !important;
+        display: inline-block;
+        transition: all 0.4s ease 0s;
+        }
+
+      .example_c:hover {
+        color: #ffffff !important;
+        background: #8c1515;
+        border-color: #8c1515 !important;
+        transition: all 0.4s ease 0s;
+        }
 
     </style>
 
@@ -186,12 +199,34 @@
       <div class="overlay-content">
         <h1><span id="locationName"></span> </h1>
         <h3><span id="locationCountry"></span> </h3>
-        <h2>Energy Mix</h2>
-        <div id="piechart" style="width: 450px; height: 250px;"></div>
-        <h2>Jobs Created</h2>
-        <h2>Energy Cost Savings Per Person</h2>
+        <h2 style="text-align: left; margin-left: 10px;">Energy Mix</h2>
+        <div id="piechart" style="width: 450px; height: 300px;"></div>
+        <h2 style="text-align: left; margin-left: 10px;">Jobs Created </h2>
+        <h2 style="text-align: left; margin-left: 10px;">Energy Cost Savings Per Person</h2>
+
+        <div>
+          <br>
+          <h2> Additional Information</h2>
+          <p style="text-align: left; margin-left:15px;">
+            For more information on the source papers and spreadsheets of the city, state, and country data
+            visit Mark Jacobson's website on 100% WWS all-sector energy roadmaps.
+          </p>
+          <div class="button_cont" align="center"><a class="example_c" href="https://web.stanford.edu/group/efmh/jacobson/Articles/I/WWS-50-USState-plans.html" target="_blank" rel="nofollow noopener">Roadmaps</a></div>
+        <br>
+        <p style="text-align: left; margin-left:15px;">
+          Textbook and courses on 100% Wind-Water-Solar (WWS) Energy and Storage.
+        </p>
+        <div class="button_cont" align="center"><a class="example_c" href="https://web.stanford.edu/group/efmh/jacobson/WWSBook/WWSBook.html" target="_blank" rel="nofollow noopener">Textbook</a></div>
+        <br>
+        <h2>Developer Organizations</h2>
+        <br>
+        <div><img src = "Images /Stanford AE Logo.png" alt="AE Logo" style="width:150px"></div>
+        <br>
+        <br>
+        <br>
       </div>
     </div>
+  </div>
 
     <div class= "csc-btn-group">
       <button id="countries" >Countries</button>
@@ -201,9 +236,14 @@
 
     <div id="map"></div>
 
+    <div class="AE-Program-Logo">
+      <img src="Images /SUSig_Red_Stree_Left.png" style="height: 50px;">
+    </div>
+
     <script>
 
     function initMap(){
+
         // New map
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 3,
@@ -236,6 +276,22 @@
         stateLayer.setMap(null);
         cityLayer.setMap(null);
 
+        var cityMarkers = cityLayer.setStyle(function(feature) {
+          return new google.maps.Marker({
+            icon: {
+              path: google.maps.SymbolPath.CIRCLE,
+              strokeColor: "#8c1515",
+              strokeOpacity: 0.9,
+              strokeWeight: 1,
+              fillColor:"#8c1515",
+              fillOpacity: 0.7,
+              scale: 10
+            }
+          });
+        });
+
+        var markerCluster = new MarkerClusterer(map, cityMarkers,
+            {imagePath: 'Marker Clusterer/m'});
 
         // Style the country layer
         countryLayer.setStyle({
@@ -248,7 +304,7 @@
         countryLayer.addListener("mouseover", function(event) {
           countryLayer.revertStyle();
           countryLayer.overrideStyle(event.feature, {
-            fillColor: "green",
+            fillColor: "#175e54",
           });
         });
 
@@ -260,7 +316,7 @@
         // Click event for different countries
         // See combining data layers from Google Maps to add to menu
         countryLayer.addListener("click", function(event) {
-          document.getElementById("myNav").style.width = "375px";
+          document.getElementById("myNav").style.width = "450px";
           var dataName = event.feature.getProperty('ADMIN');
           document.getElementById('locationName').textContent = dataName;
         });
@@ -275,7 +331,7 @@
         stateLayer.addListener("mouseover", function(event) {
           stateLayer.revertStyle();
           stateLayer.overrideStyle(event.feature, {
-            fillColor: "green",
+            fillColor: "#175e54",
           });
         });
 
@@ -287,7 +343,7 @@
         // Click event for different states
         stateLayer.addListener("click", function(event) {
           stateLayer.revertStyle();
-          document.getElementById("myNav").style.width = "375px";
+          document.getElementById("myNav").style.width = "450px";
           var dataName = event.feature.getProperty('name')
           document.getElementById('locationName').textContent = dataName;
         });
@@ -403,181 +459,190 @@
 
         //Styled Map imported from snazzymaps.com
         var styledMapType = new google.maps.StyledMapType(
-          [
-              {
-                  "featureType": "administrative.country",
-                  "elementType": "geometry.stroke",
-                  "stylers": [
-                      {
-                          "visibility": "on"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "administrative.country",
-                  "elementType": "labels.text",
-                  "stylers": [
-                      {
-                          "visibility": "simplified"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "administrative.province",
-                  "elementType": "all",
-                  "stylers": [
-                      {
-                          "visibility": "simplified"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "administrative.province",
-                  "elementType": "geometry",
-                  "stylers": [
-                      {
-                          "visibility": "simplified"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "administrative.province",
-                  "elementType": "geometry.stroke",
-                  "stylers": [
-                      {
-                          "visibility": "on"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "administrative.locality",
-                  "elementType": "all",
-                  "stylers": [
-                      {
-                          "visibility": "off"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "administrative.neighborhood",
-                  "elementType": "all",
-                  "stylers": [
-                      {
-                          "visibility": "off"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "administrative.land_parcel",
-                  "elementType": "all",
-                  "stylers": [
-                      {
-                          "visibility": "off"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "landscape",
-                  "elementType": "all",
-                  "stylers": [
-                      {
-                          "visibility": "off"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "landscape.natural",
-                  "elementType": "all",
-                  "stylers": [
-                      {
-                          "visibility": "off"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "landscape.natural",
-                  "elementType": "geometry",
-                  "stylers": [
-                      {
-                          "visibility": "simplified"
-                      },
-                      {
-                          "color": "#ffffff"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "poi",
-                  "elementType": "all",
-                  "stylers": [
-                      {
-                          "visibility": "off"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "road",
-                  "elementType": "all",
-                  "stylers": [
-                      {
-                          "saturation": -100
-                      },
-                      {
-                          "lightness": 45
-                      },
-                      {
-                          "visibility": "off"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "transit",
-                  "elementType": "all",
-                  "stylers": [
-                      {
-                          "visibility": "off"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "water",
-                  "elementType": "all",
-                  "stylers": [
-                      {
-                          "color": "#46b2ec"
-                      },
-                      {
-                          "visibility": "on"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "water",
-                  "elementType": "geometry.fill",
-                  "stylers": [
-                      {
-                          "saturation": "0"
-                      },
-                      {
-                          "lightness": "-8"
-                      },
-                      {
-                          "visibility": "on"
-                      },
-                      {
-                          "color": "#bcdaff"
-                      }
-                  ]
-              },
-              {
-                  "featureType": "water",
-                  "elementType": "labels.text",
-                  "stylers": [
-                      {
-                          "visibility": "off"
-                      }
-                  ]
-              }
+                    [
+          {
+          "featureType": "administrative",
+          "elementType": "labels.text.fill",
+          "stylers": [
+            {
+                "color": "#8c1515"
+            }
+          ]
+          },
+          {
+          "featureType": "administrative.country",
+          "elementType": "geometry.stroke",
+          "stylers": [
+            {
+                "visibility": "on"
+            }
+          ]
+          },
+          {
+          "featureType": "administrative.country",
+          "elementType": "labels.text",
+          "stylers": [
+            {
+                "visibility": "simplified"
+            }
+          ]
+          },
+          {
+          "featureType": "administrative.province",
+          "elementType": "all",
+          "stylers": [
+            {
+                "visibility": "simplified"
+            }
+          ]
+          },
+          {
+          "featureType": "administrative.province",
+          "elementType": "geometry",
+          "stylers": [
+            {
+                "visibility": "simplified"
+            }
+          ]
+          },
+          {
+          "featureType": "administrative.province",
+          "elementType": "geometry.stroke",
+          "stylers": [
+            {
+                "visibility": "on"
+            }
+          ]
+          },
+          {
+          "featureType": "administrative.locality",
+          "elementType": "all",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "administrative.neighborhood",
+          "elementType": "all",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "administrative.land_parcel",
+          "elementType": "all",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "landscape",
+          "elementType": "all",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "landscape.natural",
+          "elementType": "all",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "landscape.natural",
+          "elementType": "geometry",
+          "stylers": [
+            {
+                "visibility": "simplified"
+            },
+            {
+                "color": "#b6b1a9"
+            }
+          ]
+          },
+          {
+          "featureType": "poi",
+          "elementType": "all",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "road",
+          "elementType": "all",
+          "stylers": [
+            {
+                "saturation": -100
+            },
+            {
+                "lightness": 45
+            },
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "transit",
+          "elementType": "all",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "water",
+          "elementType": "all",
+          "stylers": [
+            {
+                "color": "#46b2ec"
+            },
+            {
+                "visibility": "on"
+            }
+          ]
+          },
+          {
+          "featureType": "water",
+          "elementType": "geometry.fill",
+          "stylers": [
+            {
+                "saturation": "0"
+            },
+            {
+                "lightness": "-8"
+            },
+            {
+                "visibility": "on"
+            },
+            {
+                "color": "#f9f6ef"
+            }
+          ]
+          },
+          {
+          "featureType": "water",
+          "elementType": "labels.text",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          }
           ]
         );
 
@@ -634,6 +699,8 @@
     }
 
     </script>
+
+    <script src="Marker Clusterer/markerclusterer.js"></script>
 
 
     <script
