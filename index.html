@@ -7,7 +7,7 @@
     <title>Solutions Project Infographic</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-
+    <script src="Marker Clusterer/markerclusterer.js"></script>
 
     <style type="text/css">
 
@@ -199,7 +199,7 @@
       <div class="overlay-content">
         <h1><span id="locationName"></span> </h1>
         <h3><span id="locationCountry"></span> </h3>
-        <h2 style="text-align: left; margin-left: 10px;">Energy Mix</h2>
+        <h3 style="text-align: left; margin-left: 10px;">100% Wind-Water-Solar (WWS) Energy Mix</h3>
         <div id="piechart" style="width: 450px; height: 300px;"></div>
         <h2 style="text-align: left; margin-left: 10px;">Jobs Created </h2>
         <h2 style="text-align: left; margin-left: 10px;">Energy Cost Savings Per Person</h2>
@@ -207,13 +207,13 @@
         <div>
           <br>
           <h2> Additional Information</h2>
-          <p style="text-align: left; margin-left:15px;">
+          <p style="text-align: justify; margin-left:15px; margin-right:15px;">
             For more information on the source papers and spreadsheets of the city, state, and country data
-            visit Mark Jacobson's website on 100% WWS all-sector energy roadmaps.
+            visit Mark Jacobson's website on 100% Wind, Water, Solar (WWS) All-Sector Energy Roadmaps for Countries, Cities, and Towns.
           </p>
           <div class="button_cont" align="center"><a class="example_c" href="https://web.stanford.edu/group/efmh/jacobson/Articles/I/WWS-50-USState-plans.html" target="_blank" rel="nofollow noopener">Roadmaps</a></div>
         <br>
-        <p style="text-align: left; margin-left:15px;">
+        <p style="text-align: justify; margin-left:15px; margin-right:15px;">
           Textbook and courses on 100% Wind-Water-Solar (WWS) Energy and Storage.
         </p>
         <div class="button_cont" align="center"><a class="example_c" href="https://web.stanford.edu/group/efmh/jacobson/WWSBook/WWSBook.html" target="_blank" rel="nofollow noopener">Textbook</a></div>
@@ -272,11 +272,11 @@
         cityLayer.loadGeoJson(cityJson);
 
         // Show only the country layer by default (Eventually add the cities layer here and for the button!)
-        countryLayer.setMap(map);
+        countryLayer.setMap(null);
         stateLayer.setMap(null);
-        cityLayer.setMap(null);
+        cityLayer.setMap(map);
 
-        var cityMarkers = cityLayer.setStyle(function(feature) {
+        var markers = cityLayer.setStyle(function(feature) {
           return new google.maps.Marker({
             icon: {
               path: google.maps.SymbolPath.CIRCLE,
@@ -290,7 +290,7 @@
           });
         });
 
-        var markerCluster = new MarkerClusterer(map, cityMarkers,
+        var markerCluster = new MarkerClusterer(map, markers,
             {imagePath: 'Marker Clusterer/m'});
 
         // Style the country layer
@@ -391,7 +391,7 @@
             ]);
 
             var options = {
-              title: '100% Clean, Renewable Energy Breakdown',
+              title: 'Percent Annual End-Use Energy Provided by WWS Generator',
             };
 
             var chart = new google.visualization.PieChart(document.getElementById('piechart'));
@@ -459,191 +459,125 @@
 
         //Styled Map imported from snazzymaps.com
         var styledMapType = new google.maps.StyledMapType(
-                    [
-          {
-          "featureType": "administrative",
-          "elementType": "labels.text.fill",
-          "stylers": [
-            {
-                "color": "#8c1515"
-            }
-          ]
-          },
-          {
-          "featureType": "administrative.country",
-          "elementType": "geometry.stroke",
-          "stylers": [
-            {
-                "visibility": "on"
-            }
-          ]
-          },
-          {
-          "featureType": "administrative.country",
-          "elementType": "labels.text",
-          "stylers": [
-            {
-                "visibility": "simplified"
-            }
-          ]
-          },
-          {
-          "featureType": "administrative.province",
-          "elementType": "all",
-          "stylers": [
-            {
-                "visibility": "simplified"
-            }
-          ]
-          },
-          {
-          "featureType": "administrative.province",
-          "elementType": "geometry",
-          "stylers": [
-            {
-                "visibility": "simplified"
-            }
-          ]
-          },
-          {
-          "featureType": "administrative.province",
-          "elementType": "geometry.stroke",
-          "stylers": [
-            {
-                "visibility": "on"
-            }
-          ]
-          },
-          {
-          "featureType": "administrative.locality",
-          "elementType": "all",
-          "stylers": [
-            {
-                "visibility": "off"
-            }
-          ]
-          },
-          {
-          "featureType": "administrative.neighborhood",
-          "elementType": "all",
-          "stylers": [
-            {
-                "visibility": "off"
-            }
-          ]
-          },
-          {
-          "featureType": "administrative.land_parcel",
-          "elementType": "all",
-          "stylers": [
-            {
-                "visibility": "off"
-            }
-          ]
-          },
-          {
-          "featureType": "landscape",
-          "elementType": "all",
-          "stylers": [
-            {
-                "visibility": "off"
-            }
-          ]
-          },
-          {
-          "featureType": "landscape.natural",
-          "elementType": "all",
-          "stylers": [
-            {
-                "visibility": "off"
-            }
-          ]
-          },
-          {
-          "featureType": "landscape.natural",
-          "elementType": "geometry",
-          "stylers": [
-            {
-                "visibility": "simplified"
-            },
-            {
-                "color": "#b6b1a9"
-            }
-          ]
-          },
-          {
-          "featureType": "poi",
-          "elementType": "all",
-          "stylers": [
-            {
-                "visibility": "off"
-            }
-          ]
-          },
-          {
-          "featureType": "road",
-          "elementType": "all",
-          "stylers": [
-            {
-                "saturation": -100
-            },
-            {
-                "lightness": 45
-            },
-            {
-                "visibility": "off"
-            }
-          ]
-          },
-          {
-          "featureType": "transit",
-          "elementType": "all",
-          "stylers": [
-            {
-                "visibility": "off"
-            }
-          ]
-          },
-          {
-          "featureType": "water",
-          "elementType": "all",
-          "stylers": [
-            {
-                "color": "#46b2ec"
-            },
-            {
-                "visibility": "on"
-            }
-          ]
-          },
-          {
-          "featureType": "water",
-          "elementType": "geometry.fill",
-          "stylers": [
-            {
-                "saturation": "0"
-            },
-            {
-                "lightness": "-8"
-            },
-            {
-                "visibility": "on"
-            },
-            {
-                "color": "#f9f6ef"
-            }
-          ]
-          },
-          {
-          "featureType": "water",
-          "elementType": "labels.text",
-          "stylers": [
-            {
-                "visibility": "off"
-            }
-          ]
-          }
-          ]
+          [
+{
+"featureType": "administrative",
+"elementType": "labels.text.fill",
+"stylers": [
+  {
+      "color": "#000000"
+  },
+  {
+      "visibility": "on"
+  },
+  {
+      "saturation": "100"
+  },
+  {
+      "gamma": "4.76"
+  }
+]
+},
+{
+"featureType": "administrative",
+"elementType": "labels.text.stroke",
+"stylers": [
+  {
+      "visibility": "on"
+  },
+  {
+      "color": "#ffffff"
+  }
+]
+},
+{
+"featureType": "landscape",
+"elementType": "all",
+"stylers": [
+  {
+      "color": "#dacfc0"
+  },
+  {
+      "saturation": "24"
+  },
+  {
+      "gamma": "3.65"
+  }
+]
+},
+{
+"featureType": "poi",
+"elementType": "all",
+"stylers": [
+  {
+      "visibility": "off"
+  }
+]
+},
+{
+"featureType": "road",
+"elementType": "all",
+"stylers": [
+  {
+      "saturation": -100
+  },
+  {
+      "lightness": 45
+  },
+  {
+      "visibility": "off"
+  }
+]
+},
+{
+"featureType": "road.highway",
+"elementType": "all",
+"stylers": [
+  {
+      "visibility": "off"
+  }
+]
+},
+{
+"featureType": "road.arterial",
+"elementType": "labels.icon",
+"stylers": [
+  {
+      "visibility": "off"
+  }
+]
+},
+{
+"featureType": "transit",
+"elementType": "all",
+"stylers": [
+  {
+      "visibility": "off"
+  }
+]
+},
+{
+"featureType": "water",
+"elementType": "all",
+"stylers": [
+  {
+      "color": "#7ec0c7"
+  },
+  {
+      "visibility": "on"
+  },
+  {
+      "lightness": "0"
+  },
+  {
+      "saturation": "-75"
+  },
+  {
+      "gamma": "1.08"
+  }
+]
+}
+]
         );
 
           map.mapTypes.set("styled_map", styledMapType);
@@ -658,7 +592,7 @@
           var citiesbtn = document.getElementById('cities');
 
           // Default state
-          $("#countries").addClass("active");
+          $("#cities").addClass("active");
 
           // Need to implement a way to stay active or focused until another button is pressed.
 
@@ -699,9 +633,6 @@
     }
 
     </script>
-
-    <script src="Marker Clusterer/markerclusterer.js"></script>
-
 
     <script
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCicgsj2TE9o0ZBX1_mYkH2HKXcXsP8eIQ&callback=initMap&libraries=places&v=weekly"
