@@ -15,8 +15,7 @@
         "res pv": 9.42,
         "gov pv": 20.94,
         "utility pv": 10.99,
-        "csp": 4.62,
-        "test column": "test data"
+        "csp": 4.62
       },
       "geometry": {
         "type": "Point",
