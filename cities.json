@@ -15,7 +15,8 @@
         "res pv": 9.42,
         "gov pv": 20.94,
         "utility pv": 10.99,
-        "csp": 4.62
+        "csp": 4.62,
+        "cost savings": 3102
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +40,8 @@
         "res pv": 7.91,
         "gov pv": 17.57,
         "utility pv": 18.45,
-        "csp": 4.2
+        "csp": 4.2,
+        "cost savings": 971
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +65,8 @@
         "res pv": 7.81,
         "gov pv": 17.35,
         "utility pv": 16.13,
-        "csp": 4.15
+        "csp": 4.15,
+        "cost savings": 5708
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +90,8 @@
         "res pv": 8.9,
         "gov pv": 9.97,
         "utility pv": 10.38,
-        "csp": 3.79
+        "csp": 3.79,
+        "cost savings": 9513
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +115,8 @@
         "res pv": 8.98,
         "gov pv": 19.96,
         "utility pv": 20.04,
-        "csp": 4.78
+        "csp": 4.78,
+        "cost savings": 5980
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +140,8 @@
         "res pv": 22.28,
         "gov pv": 15.65,
         "utility pv": 33.18,
-        "csp": 4.93
+        "csp": 4.93,
+        "cost savings": 10756
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +165,8 @@
         "res pv": 12.25,
         "gov pv": 13.22,
         "utility pv": 14.29,
-        "csp": 4.68
+        "csp": 4.68,
+        "cost savings": 14704
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +190,8 @@
         "res pv": 8.18,
         "gov pv": 8.46,
         "utility pv": 20.42,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 13365
       },
       "geometry": {
         "type": "Point",
@@ -207,7 +215,8 @@
         "res pv": 7.57,
         "gov pv": 16.83,
         "utility pv": 8.83,
-        "csp": 4.03
+        "csp": 4.03,
+        "cost savings": 3054
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +240,8 @@
         "res pv": 11.97,
         "gov pv": 9.1,
         "utility pv": 13.97,
-        "csp": 4.54
+        "csp": 4.54,
+        "cost savings": 9083
       },
       "geometry": {
         "type": "Point",
@@ -255,7 +265,8 @@
         "res pv": 10.31,
         "gov pv": 11.42,
         "utility pv": 12.03,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 12015
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +290,8 @@
         "res pv": 8.53,
         "gov pv": 18.95,
         "utility pv": 9.95,
-        "csp": 4.53
+        "csp": 4.53,
+        "cost savings": 7007
       },
       "geometry": {
         "type": "Point",
@@ -303,7 +315,8 @@
         "res pv": 9.26,
         "gov pv": 20.58,
         "utility pv": 10.8,
-        "csp": 4.92
+        "csp": 4.92,
+        "cost savings": 5512
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +340,8 @@
         "res pv": 7.6,
         "gov pv": 14.67,
         "utility pv": 8.87,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 17622
       },
       "geometry": {
         "type": "Point",
@@ -351,7 +365,8 @@
         "res pv": 11.74,
         "gov pv": 12.43,
         "utility pv": 13.7,
-        "csp": 4.93
+        "csp": 4.93,
+        "cost savings": 15630
       },
       "geometry": {
         "type": "Point",
@@ -375,7 +390,8 @@
         "res pv": 7.9,
         "gov pv": 17.56,
         "utility pv": 9.22,
-        "csp": 4.2
+        "csp": 4.2,
+        "cost savings": 5503
       },
       "geometry": {
         "type": "Point",
@@ -399,7 +415,8 @@
         "res pv": 9.02,
         "gov pv": 20.05,
         "utility pv": 10.53,
-        "csp": 4.8
+        "csp": 4.8,
+        "cost savings": 3395
       },
       "geometry": {
         "type": "Point",
@@ -423,7 +440,8 @@
         "res pv": 10.95,
         "gov pv": 14.6,
         "utility pv": 16.42,
-        "csp": 4.73
+        "csp": 4.73,
+        "cost savings": 12176
       },
       "geometry": {
         "type": "Point",
@@ -447,7 +465,8 @@
         "res pv": 12.03,
         "gov pv": 15.86,
         "utility pv": 21.85,
-        "csp": 4.89
+        "csp": 4.89,
+        "cost savings": 7076
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +490,8 @@
         "res pv": 23.18,
         "gov pv": 9.68,
         "utility pv": 46.96,
-        "csp": 4.95
+        "csp": 4.95,
+        "cost savings": 2487
       },
       "geometry": {
         "type": "Point",
@@ -495,7 +515,8 @@
         "res pv": 7.05,
         "gov pv": 3.95,
         "utility pv": 65.83,
-        "csp": 5
+        "csp": 5,
+        "cost savings": 24699
       },
       "geometry": {
         "type": "Point",
@@ -519,7 +540,8 @@
         "res pv": 7.6,
         "gov pv": 14.67,
         "utility pv": 8.87,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 17622
       },
       "geometry": {
         "type": "Point",
@@ -543,7 +565,8 @@
         "res pv": 7.34,
         "gov pv": 16.32,
         "utility pv": 14.05,
-        "csp": 3.9
+        "csp": 3.9,
+        "cost savings": 3052
       },
       "geometry": {
         "type": "Point",
@@ -567,7 +590,8 @@
         "res pv": 21.59,
         "gov pv": 14.08,
         "utility pv": 25.19,
-        "csp": 4.57
+        "csp": 4.57,
+        "cost savings": 4457
       },
       "geometry": {
         "type": "Point",
@@ -591,7 +615,8 @@
         "res pv": 9.27,
         "gov pv": 20.59,
         "utility pv": 10.81,
-        "csp": 4.93
+        "csp": 4.93,
+        "cost savings": 7558
       },
       "geometry": {
         "type": "Point",
@@ -615,7 +640,8 @@
         "res pv": 21.59,
         "gov pv": 14.08,
         "utility pv": 25.19,
-        "csp": 4.57
+        "csp": 4.57,
+        "cost savings": 4457
       },
       "geometry": {
         "type": "Point",
@@ -639,7 +665,8 @@
         "res pv": 10.95,
         "gov pv": 14.6,
         "utility pv": 16.42,
-        "csp": 4.73
+        "csp": 4.73,
+        "cost savings": 12176
       },
       "geometry": {
         "type": "Point",
@@ -663,7 +690,8 @@
         "res pv": 10.21,
         "gov pv": 11.61,
         "utility pv": 11.92,
-        "csp": 4.37
+        "csp": 4.37,
+        "cost savings": 7121
       },
       "geometry": {
         "type": "Point",
@@ -687,7 +715,8 @@
         "res pv": 7.81,
         "gov pv": 17.35,
         "utility pv": 16.12,
-        "csp": 4.15
+        "csp": 4.15,
+        "cost savings": 5708
       },
       "geometry": {
         "type": "Point",
@@ -711,7 +740,8 @@
         "res pv": 13.1,
         "gov pv": 29.11,
         "utility pv": 15.28,
-        "csp": 4.66
+        "csp": 4.66,
+        "cost savings": 5697
       },
       "geometry": {
         "type": "Point",
@@ -735,7 +765,8 @@
         "res pv": 15.23,
         "gov pv": 16.55,
         "utility pv": 24.98,
-        "csp": 4.81
+        "csp": 4.81,
+        "cost savings": 3671
       },
       "geometry": {
         "type": "Point",
@@ -759,7 +790,8 @@
         "res pv": 13.04,
         "gov pv": 8.39,
         "utility pv": 15.21,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 11349
       },
       "geometry": {
         "type": "Point",
@@ -783,7 +815,8 @@
         "res pv": 9.11,
         "gov pv": 20.25,
         "utility pv": 10.63,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 2823
       },
       "geometry": {
         "type": "Point",
@@ -807,7 +840,8 @@
         "res pv": 11.78,
         "gov pv": 7.14,
         "utility pv": 31.55,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 10482
       },
       "geometry": {
         "type": "Point",
@@ -831,7 +865,8 @@
         "res pv": 14.37,
         "gov pv": 31.94,
         "utility pv": 33.54,
-        "csp": 4.92
+        "csp": 4.92,
+        "cost savings": 5213
       },
       "geometry": {
         "type": "Point",
@@ -855,7 +890,8 @@
         "res pv": 7.38,
         "gov pv": 16.41,
         "utility pv": 17.21,
-        "csp": 3.93
+        "csp": 3.93,
+        "cost savings": 3938
       },
       "geometry": {
         "type": "Point",
@@ -879,7 +915,8 @@
         "res pv": 5.41,
         "gov pv": 4.27,
         "utility pv": 32.66,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 7707
       },
       "geometry": {
         "type": "Point",
@@ -903,7 +940,8 @@
         "res pv": 10.95,
         "gov pv": 14.6,
         "utility pv": 16.42,
-        "csp": 4.73
+        "csp": 4.73,
+        "cost savings": 12176
       },
       "geometry": {
         "type": "Point",
@@ -927,7 +965,8 @@
         "res pv": 10.21,
         "gov pv": 11.61,
         "utility pv": 11.92,
-        "csp": 4.37
+        "csp": 4.37,
+        "cost savings": 7121
       },
       "geometry": {
         "type": "Point",
@@ -951,7 +990,8 @@
         "res pv": 8.68,
         "gov pv": 19.28,
         "utility pv": 10.12,
-        "csp": 4.61
+        "csp": 4.61,
+        "cost savings": 6209
       },
       "geometry": {
         "type": "Point",
@@ -975,7 +1015,8 @@
         "res pv": 8.04,
         "gov pv": 17.87,
         "utility pv": 9.38,
-        "csp": 4.27
+        "csp": 4.27,
+        "cost savings": 4195
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +1040,8 @@
         "res pv": 7.6,
         "gov pv": 14.67,
         "utility pv": 8.87,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 17622
       },
       "geometry": {
         "type": "Point",
@@ -1023,7 +1065,8 @@
         "res pv": 11.19,
         "gov pv": 11.88,
         "utility pv": 13.06,
-        "csp": 0.9
+        "csp": 0.9,
+        "cost savings": 19571
       },
       "geometry": {
         "type": "Point",
@@ -1047,7 +1090,8 @@
         "res pv": 12.03,
         "gov pv": 15.86,
         "utility pv": 21.85,
-        "csp": 4.89
+        "csp": 4.89,
+        "cost savings": 7076
       },
       "geometry": {
         "type": "Point",
@@ -1071,7 +1115,8 @@
         "res pv": 7.8,
         "gov pv": 17.34,
         "utility pv": 9.1,
-        "csp": 4.15
+        "csp": 4.15,
+        "cost savings": 1283
       },
       "geometry": {
         "type": "Point",
@@ -1095,7 +1140,8 @@
         "res pv": 10.95,
         "gov pv": 14.6,
         "utility pv": 16.42,
-        "csp": 4.73
+        "csp": 4.73,
+        "cost savings": 12176
       },
       "geometry": {
         "type": "Point",
@@ -1119,7 +1165,8 @@
         "res pv": 4.77,
         "gov pv": 0.87,
         "utility pv": 5.56,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 10504
       },
       "geometry": {
         "type": "Point",
@@ -1143,7 +1190,8 @@
         "res pv": 10.21,
         "gov pv": 11.61,
         "utility pv": 11.92,
-        "csp": 4.37
+        "csp": 4.37,
+        "cost savings": 7121
       },
       "geometry": {
         "type": "Point",
@@ -1167,7 +1215,8 @@
         "res pv": 11.27,
         "gov pv": 11.65,
         "utility pv": 13.15,
-        "csp": 1.83
+        "csp": 1.83,
+        "cost savings": 6418
       },
       "geometry": {
         "type": "Point",
@@ -1191,7 +1240,8 @@
         "res pv": 9.43,
         "gov pv": 15.72,
         "utility pv": 22.64,
-        "csp": 4.73
+        "csp": 4.73,
+        "cost savings": 16779
       },
       "geometry": {
         "type": "Point",
@@ -1215,7 +1265,8 @@
         "res pv": 10.95,
         "gov pv": 14.6,
         "utility pv": 16.42,
-        "csp": 4.73
+        "csp": 4.73,
+        "cost savings": 12176
       },
       "geometry": {
         "type": "Point",
@@ -1239,7 +1290,8 @@
         "res pv": 10.95,
         "gov pv": 14.6,
         "utility pv": 16.42,
-        "csp": 4.73
+        "csp": 4.73,
+        "cost savings": 12176
       },
       "geometry": {
         "type": "Point",
@@ -1263,7 +1315,8 @@
         "res pv": 11.78,
         "gov pv": 4.91,
         "utility pv": 13.74,
-        "csp": 0.43
+        "csp": 0.43,
+        "cost savings": 4592
       },
       "geometry": {
         "type": "Point",
@@ -1287,7 +1340,8 @@
         "res pv": 12.97,
         "gov pv": 28.82,
         "utility pv": 15.13,
-        "csp": "4.20"
+        "csp": "4.20",
+        "cost savings": 4784
       },
       "geometry": {
         "type": "Point",
@@ -1311,7 +1365,8 @@
         "res pv": 7.82,
         "gov pv": 17.37,
         "utility pv": 9.12,
-        "csp": 4.16
+        "csp": 4.16,
+        "cost savings": 3965
       },
       "geometry": {
         "type": "Point",
@@ -1335,7 +1390,8 @@
         "res pv": 11.97,
         "gov pv": 9.1,
         "utility pv": 13.97,
-        "csp": 4.54
+        "csp": 4.54,
+        "cost savings": 9083
       },
       "geometry": {
         "type": "Point",
@@ -1359,7 +1415,8 @@
         "res pv": 4.72,
         "gov pv": 10.49,
         "utility pv": 5.51,
-        "csp": 2.51
+        "csp": 2.51,
+        "cost savings": 2741
       },
       "geometry": {
         "type": "Point",
@@ -1383,7 +1440,8 @@
         "res pv": 10.95,
         "gov pv": 14.6,
         "utility pv": 16.42,
-        "csp": 4.73
+        "csp": 4.73,
+        "cost savings": 12176
       },
       "geometry": {
         "type": "Point",
@@ -1407,7 +1465,8 @@
         "res pv": 8.62,
         "gov pv": 16.13,
         "utility pv": 10.06,
-        "csp": 4.29
+        "csp": 4.29,
+        "cost savings": 7668
       },
       "geometry": {
         "type": "Point",
@@ -1431,7 +1490,8 @@
         "res pv": 7.82,
         "gov pv": 17.37,
         "utility pv": 9.12,
-        "csp": 4.16
+        "csp": 4.16,
+        "cost savings": 3965
       },
       "geometry": {
         "type": "Point",
@@ -1455,7 +1515,8 @@
         "res pv": 8.9,
         "gov pv": 5.27,
         "utility pv": 37.18,
-        "csp": 4.89
+        "csp": 4.89,
+        "cost savings": 16234
       },
       "geometry": {
         "type": "Point",
@@ -1479,7 +1540,8 @@
         "res pv": 12.25,
         "gov pv": 13.22,
         "utility pv": 14.29,
-        "csp": 4.68
+        "csp": 4.68,
+        "cost savings": 14704
       },
       "geometry": {
         "type": "Point",
@@ -1503,7 +1565,8 @@
         "res pv": 9.43,
         "gov pv": 15.72,
         "utility pv": 22.64,
-        "csp": 4.73
+        "csp": 4.73,
+        "cost savings": 4844
       },
       "geometry": {
         "type": "Point",
@@ -1527,7 +1590,8 @@
         "res pv": 14.67,
         "gov pv": 14.63,
         "utility pv": 21.67,
-        "csp": 4.87
+        "csp": 4.87,
+        "cost savings": 11811
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1615,8 @@
         "res pv": 11.78,
         "gov pv": 7.14,
         "utility pv": 31.55,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 10482
       },
       "geometry": {
         "type": "Point",
@@ -1575,7 +1640,8 @@
         "res pv": 7.6,
         "gov pv": 14.67,
         "utility pv": 8.87,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 17622
       },
       "geometry": {
         "type": "Point",
@@ -1599,7 +1665,8 @@
         "res pv": 9.87,
         "gov pv": 21.94,
         "utility pv": 23.03,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 12152
       },
       "geometry": {
         "type": "Point",
@@ -1623,7 +1690,8 @@
         "res pv": "7.60",
         "gov pv": 14.67,
         "utility pv": 8.87,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 17622
       },
       "geometry": {
         "type": "Point",
@@ -1647,7 +1715,8 @@
         "res pv": 10.55,
         "gov pv": 9.05,
         "utility pv": 24.62,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 11953
       },
       "geometry": {
         "type": "Point",
@@ -1671,7 +1740,8 @@
         "res pv": 8.29,
         "gov pv": 18.42,
         "utility pv": 9.67,
-        "csp": 4.41
+        "csp": 4.41,
+        "cost savings": 3228
       },
       "geometry": {
         "type": "Point",
@@ -1695,7 +1765,8 @@
         "res pv": 12.25,
         "gov pv": 13.22,
         "utility pv": 14.29,
-        "csp": 4.68
+        "csp": 4.68,
+        "cost savings": 14704
       },
       "geometry": {
         "type": "Point",
@@ -1719,7 +1790,8 @@
         "res pv": 6.56,
         "gov pv": 11.9,
         "utility pv": 15.32,
-        "csp": 0
+        "csp": 0,
+        "cost savings": 7090
       },
       "geometry": {
         "type": "Point",
@@ -2304,7 +2376,8 @@
         "res pv": 12.25,
         "gov pv": 13.22,
         "utility pv": 14.29,
-        "csp": 4.68
+        "csp": 4.68,
+        "cost savings": 14704
       },
       "geometry": {
         "type": "Point",
@@ -2318,7 +2391,8 @@
       "type": "Feature",
       "properties": {
         "name": "Sydney",
-        "country": "Australia"
+        "country": "Australia",
+        "cost savings": 16779
       },
       "geometry": {
         "type": "Point",
