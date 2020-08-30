@@ -2313,6 +2313,20 @@
           22.545537663981865
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney",
+        "country": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2151336669922,
+          -33.862718558615654
+        ]
+      }
     }
   ]
 }
