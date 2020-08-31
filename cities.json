@@ -18,7 +18,8 @@
         "csp": 4.62,
         "cost savings": 3102,
         "avoided deaths": 7658,
-        "2050 BAU energy cost ($bil/yr)": 3.8
+        "2050 BAU energy cost ($bil/yr)": 3.8,
+        "2050 BAU air pollution cost ($bil/yr)": 19.7
       },
       "geometry": {
         "type": "Point",
@@ -45,7 +46,8 @@
         "csp": 4.2,
         "cost savings": 971,
         "avoided deaths": 4556,
-        "2050 BAU energy cost ($bil/yr)": 1.4
+        "2050 BAU energy cost ($bil/yr)": 1.4,
+        "2050 BAU air pollution cost ($bil/yr)": ""
       },
       "geometry": {
         "type": "Point",
