@@ -17,7 +17,8 @@
         "utility pv": 10.99,
         "csp": 4.62,
         "cost savings": 3102,
-        "avoided deaths": 7658
+        "avoided deaths": 7658,
+        "2050 BAU energy cost ($bil/yr)": 3.8
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +44,8 @@
         "utility pv": 18.45,
         "csp": 4.2,
         "cost savings": 971,
-        "avoided deaths": 4556
+        "avoided deaths": 4556,
+        "2050 BAU energy cost ($bil/yr)": 1.4
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +71,8 @@
         "utility pv": 16.13,
         "csp": 4.15,
         "cost savings": 5708,
-        "avoided deaths": 2265
+        "avoided deaths": 2265,
+        "2050 BAU energy cost ($bil/yr)": 11.3
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +98,8 @@
         "utility pv": 10.38,
         "csp": 3.79,
         "cost savings": 9513,
-        "avoided deaths": 201
+        "avoided deaths": 201,
+        "2050 BAU energy cost ($bil/yr)": 11.8
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +125,8 @@
         "utility pv": 20.04,
         "csp": 4.78,
         "cost savings": 5980,
-        "avoided deaths": 2227
+        "avoided deaths": 2227,
+        "2050 BAU energy cost ($bil/yr)": 9.5
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +152,8 @@
         "utility pv": 33.18,
         "csp": 4.93,
         "cost savings": 10756,
-        "avoided deaths": 8582
+        "avoided deaths": 8582,
+        "2050 BAU energy cost ($bil/yr)": 64.1
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +179,8 @@
         "utility pv": 14.29,
         "csp": 4.68,
         "cost savings": 14704,
-        "avoided deaths": 30092
+        "avoided deaths": 30092,
+        "2050 BAU energy cost ($bil/yr)": 113.4
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +206,8 @@
         "utility pv": 20.42,
         "csp": 0,
         "cost savings": 13365,
-        "avoided deaths": 1031
+        "avoided deaths": 1031,
+        "2050 BAU energy cost ($bil/yr)": 18.8
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +233,8 @@
         "utility pv": 8.83,
         "csp": 4.03,
         "cost savings": 3054,
-        "avoided deaths": 3775
+        "avoided deaths": 3775,
+        "2050 BAU energy cost ($bil/yr)": 18.3
       },
       "geometry": {
         "type": "Point",
@@ -251,7 +260,8 @@
         "utility pv": 13.97,
         "csp": 4.54,
         "cost savings": 9083,
-        "avoided deaths": 275
+        "avoided deaths": 275,
+        "2050 BAU energy cost ($bil/yr)": 3.2
       },
       "geometry": {
         "type": "Point",
@@ -277,7 +287,8 @@
         "utility pv": 12.03,
         "csp": 0,
         "cost savings": 12015,
-        "avoided deaths": 1154
+        "avoided deaths": 1154,
+        "2050 BAU energy cost ($bil/yr)": 3.6
       },
       "geometry": {
         "type": "Point",
@@ -303,7 +314,8 @@
         "utility pv": 9.95,
         "csp": 4.53,
         "cost savings": 7007,
-        "avoided deaths": 4353
+        "avoided deaths": 4353,
+        "2050 BAU energy cost ($bil/yr)": 52.8
       },
       "geometry": {
         "type": "Point",
@@ -329,7 +341,8 @@
         "utility pv": 10.8,
         "csp": 4.92,
         "cost savings": 5512,
-        "avoided deaths": 14588
+        "avoided deaths": 14588,
+        "2050 BAU energy cost ($bil/yr)": 43.3
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +368,8 @@
         "utility pv": 8.87,
         "csp": 0,
         "cost savings": 17622,
-        "avoided deaths": 226
+        "avoided deaths": 226,
+        "2050 BAU energy cost ($bil/yr)": 17.5
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +395,8 @@
         "utility pv": 13.7,
         "csp": 4.93,
         "cost savings": 15630,
-        "avoided deaths": 2757
+        "avoided deaths": 2757,
+        "2050 BAU energy cost ($bil/yr)": 29.8
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +422,8 @@
         "utility pv": 9.22,
         "csp": 4.2,
         "cost savings": 5503,
-        "avoided deaths": 550
+        "avoided deaths": 550,
+        "2050 BAU energy cost ($bil/yr)": 5.1
       },
       "geometry": {
         "type": "Point",
@@ -433,7 +449,8 @@
         "utility pv": 10.53,
         "csp": 4.8,
         "cost savings": 3395,
-        "avoided deaths": 1145
+        "avoided deaths": 1145,
+        "2050 BAU energy cost ($bil/yr)": 4.4
       },
       "geometry": {
         "type": "Point",
@@ -459,7 +476,8 @@
         "utility pv": 16.42,
         "csp": 4.73,
         "cost savings": 12176,
-        "avoided deaths": 1450
+        "avoided deaths": 1450,
+        "2050 BAU energy cost ($bil/yr)": 48.7
       },
       "geometry": {
         "type": "Point",
@@ -485,7 +503,8 @@
         "utility pv": 21.85,
         "csp": 4.89,
         "cost savings": 7076,
-        "avoided deaths": 45226
+        "avoided deaths": 45226,
+        "2050 BAU energy cost ($bil/yr)": 48.6
       },
       "geometry": {
         "type": "Point",
@@ -511,7 +530,8 @@
         "utility pv": 46.96,
         "csp": 4.95,
         "cost savings": 2487,
-        "avoided deaths": 23665
+        "avoided deaths": 23665,
+        "2050 BAU energy cost ($bil/yr)": 11.4
       },
       "geometry": {
         "type": "Point",
@@ -537,7 +557,8 @@
         "utility pv": 65.83,
         "csp": 5,
         "cost savings": 24699,
-        "avoided deaths": 467
+        "avoided deaths": 467,
+        "2050 BAU energy cost ($bil/yr)": 63.1
       },
       "geometry": {
         "type": "Point",
@@ -563,7 +584,8 @@
         "utility pv": 8.87,
         "csp": 0,
         "cost savings": 17622,
-        "avoided deaths": 208
+        "avoided deaths": 208,
+        "2050 BAU energy cost ($bil/yr)": 16.1
       },
       "geometry": {
         "type": "Point",
@@ -589,7 +611,8 @@
         "utility pv": 14.05,
         "csp": 3.9,
         "cost savings": 3052,
-        "avoided deaths": 594
+        "avoided deaths": 594,
+        "2050 BAU energy cost ($bil/yr)": 4.2
       },
       "geometry": {
         "type": "Point",
@@ -615,7 +638,8 @@
         "utility pv": 25.19,
         "csp": 4.57,
         "cost savings": 4457,
-        "avoided deaths": 3628
+        "avoided deaths": 3628,
+        "2050 BAU energy cost ($bil/yr)": 11
       },
       "geometry": {
         "type": "Point",
@@ -641,7 +665,8 @@
         "utility pv": 10.81,
         "csp": 4.93,
         "cost savings": 7558,
-        "avoided deaths": 1079
+        "avoided deaths": 1079,
+        "2050 BAU energy cost ($bil/yr)": 3.4
       },
       "geometry": {
         "type": "Point",
@@ -667,7 +692,8 @@
         "utility pv": 25.19,
         "csp": 4.57,
         "cost savings": 4457,
-        "avoided deaths": 5961
+        "avoided deaths": 5961,
+        "2050 BAU energy cost ($bil/yr)": 18
       },
       "geometry": {
         "type": "Point",
@@ -693,7 +719,8 @@
         "utility pv": 16.42,
         "csp": 4.73,
         "cost savings": 12176,
-        "avoided deaths": 1512
+        "avoided deaths": 1512,
+        "2050 BAU energy cost ($bil/yr)": 50.8
       },
       "geometry": {
         "type": "Point",
@@ -719,7 +746,8 @@
         "utility pv": 11.92,
         "csp": 4.37,
         "cost savings": 7121,
-        "avoided deaths": 12
+        "avoided deaths": 12,
+        "2050 BAU energy cost ($bil/yr)": 0.2
       },
       "geometry": {
         "type": "Point",
@@ -745,7 +773,8 @@
         "utility pv": 16.12,
         "csp": 4.15,
         "cost savings": 5708,
-        "avoided deaths": 7193
+        "avoided deaths": 7193,
+        "2050 BAU energy cost ($bil/yr)": 35.8
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +800,8 @@
         "utility pv": 15.28,
         "csp": 4.66,
         "cost savings": 5697,
-        "avoided deaths": 7105
+        "avoided deaths": 7105,
+        "2050 BAU energy cost ($bil/yr)": 17.8
       },
       "geometry": {
         "type": "Point",
@@ -797,7 +827,8 @@
         "utility pv": 24.98,
         "csp": 4.81,
         "cost savings": 3671,
-        "avoided deaths": 18001
+        "avoided deaths": 18001,
+        "2050 BAU energy cost ($bil/yr)": 15.7
       },
       "geometry": {
         "type": "Point",
@@ -823,7 +854,8 @@
         "utility pv": 15.21,
         "csp": 0,
         "cost savings": 11349,
-        "avoided deaths": 2871
+        "avoided deaths": 2871,
+        "2050 BAU energy cost ($bil/yr)": 9.8
       },
       "geometry": {
         "type": "Point",
@@ -849,7 +881,8 @@
         "utility pv": 10.63,
         "csp": 0,
         "cost savings": 2823,
-        "avoided deaths": 12399
+        "avoided deaths": 12399,
+        "2050 BAU energy cost ($bil/yr)": 10.4
       },
       "geometry": {
         "type": "Point",
@@ -875,7 +908,8 @@
         "utility pv": 31.55,
         "csp": 0,
         "cost savings": 10482,
-        "avoided deaths": 367
+        "avoided deaths": 367,
+        "2050 BAU energy cost ($bil/yr)": 4.8
       },
       "geometry": {
         "type": "Point",
@@ -901,7 +935,8 @@
         "utility pv": 33.54,
         "csp": 4.92,
         "cost savings": 5213,
-        "avoided deaths": 25618
+        "avoided deaths": 25618,
+        "2050 BAU energy cost ($bil/yr)": 16.1
       },
       "geometry": {
         "type": "Point",
@@ -927,7 +962,8 @@
         "utility pv": 17.21,
         "csp": 3.93,
         "cost savings": 3938,
-        "avoided deaths": 5652
+        "avoided deaths": 5652,
+        "2050 BAU energy cost ($bil/yr)": 16.2
       },
       "geometry": {
         "type": "Point",
@@ -953,7 +989,8 @@
         "utility pv": 32.66,
         "csp": 0,
         "cost savings": 7707,
-        "avoided deaths": 2415
+        "avoided deaths": 2415,
+        "2050 BAU energy cost ($bil/yr)": 39.9
       },
       "geometry": {
         "type": "Point",
@@ -979,7 +1016,8 @@
         "utility pv": 16.42,
         "csp": 4.73,
         "cost savings": 12176,
-        "avoided deaths": 2008
+        "avoided deaths": 2008,
+        "2050 BAU energy cost ($bil/yr)": 67.4
       },
       "geometry": {
         "type": "Point",
@@ -1005,7 +1043,8 @@
         "utility pv": 11.92,
         "csp": 4.37,
         "cost savings": 7121,
-        "avoided deaths": 1490
+        "avoided deaths": 1490,
+        "2050 BAU energy cost ($bil/yr)": 27.2
       },
       "geometry": {
         "type": "Point",
@@ -1031,7 +1070,8 @@
         "utility pv": 10.12,
         "csp": 4.61,
         "cost savings": 6209,
-        "avoided deaths": 5525
+        "avoided deaths": 5525,
+        "2050 BAU energy cost ($bil/yr)": 56.6
       },
       "geometry": {
         "type": "Point",
@@ -1057,7 +1097,8 @@
         "utility pv": 9.38,
         "csp": 4.27,
         "cost savings": 4195,
-        "avoided deaths": 386
+        "avoided deaths": 386,
+        "2050 BAU energy cost ($bil/yr)": 4.6
       },
       "geometry": {
         "type": "Point",
@@ -1083,7 +1124,8 @@
         "utility pv": 8.87,
         "csp": 0,
         "cost savings": 17622,
-        "avoided deaths": 498
+        "avoided deaths": 498,
+        "2050 BAU energy cost ($bil/yr)": 38.5
       },
       "geometry": {
         "type": "Point",
@@ -1109,7 +1151,8 @@
         "utility pv": 13.06,
         "csp": 0.9,
         "cost savings": 19571,
-        "avoided deaths": 8314
+        "avoided deaths": 8314,
+        "2050 BAU energy cost ($bil/yr)": 99.1
       },
       "geometry": {
         "type": "Point",
@@ -1135,7 +1178,8 @@
         "utility pv": 21.85,
         "csp": 4.89,
         "cost savings": 7076,
-        "avoided deaths": 23327
+        "avoided deaths": 23327,
+        "2050 BAU energy cost ($bil/yr)": 25.1
       },
       "geometry": {
         "type": "Point",
@@ -1161,7 +1205,8 @@
         "utility pv": 9.1,
         "csp": 4.15,
         "cost savings": 1283,
-        "avoided deaths": 2180
+        "avoided deaths": 2180,
+        "2050 BAU energy cost ($bil/yr)": 4.2
       },
       "geometry": {
         "type": "Point",
@@ -1187,7 +1232,8 @@
         "utility pv": 16.42,
         "csp": 4.73,
         "cost savings": 12176,
-        "avoided deaths": 3037
+        "avoided deaths": 3037,
+        "2050 BAU energy cost ($bil/yr)": 102
       },
       "geometry": {
         "type": "Point",
@@ -1213,7 +1259,8 @@
         "utility pv": 5.56,
         "csp": 0,
         "cost savings": 10504,
-        "avoided deaths": 166
+        "avoided deaths": 166,
+        "2050 BAU energy cost ($bil/yr)": 8
       },
       "geometry": {
         "type": "Point",
@@ -1239,7 +1286,8 @@
         "utility pv": 11.92,
         "csp": 4.37,
         "cost savings": 7121,
-        "avoided deaths": 111
+        "avoided deaths": 111,
+        "2050 BAU energy cost ($bil/yr)": 2
       },
       "geometry": {
         "type": "Point",
@@ -1265,7 +1313,8 @@
         "utility pv": 13.15,
         "csp": 1.83,
         "cost savings": 6418,
-        "avoided deaths": 1952
+        "avoided deaths": 1952,
+        "2050 BAU energy cost ($bil/yr)": 38.4
       },
       "geometry": {
         "type": "Point",
@@ -1291,7 +1340,8 @@
         "utility pv": 22.64,
         "csp": 4.73,
         "cost savings": 16779,
-        "avoided deaths": 320
+        "avoided deaths": 320,
+        "2050 BAU energy cost ($bil/yr)": 20.5
       },
       "geometry": {
         "type": "Point",
@@ -1317,7 +1367,8 @@
         "utility pv": 16.42,
         "csp": 4.73,
         "cost savings": 12176,
-        "avoided deaths": 981
+        "avoided deaths": 981,
+        "2050 BAU energy cost ($bil/yr)": 32.9
       },
       "geometry": {
         "type": "Point",
@@ -1343,7 +1394,8 @@
         "utility pv": 16.42,
         "csp": 4.73,
         "cost savings": 12176,
-        "avoided deaths": 1027
+        "avoided deaths": 1027,
+        "2050 BAU energy cost ($bil/yr)": 34.5
       },
       "geometry": {
         "type": "Point",
@@ -1369,7 +1421,8 @@
         "utility pv": 13.74,
         "csp": 0.43,
         "cost savings": 4592,
-        "avoided deaths": 4960
+        "avoided deaths": 4960,
+        "2050 BAU energy cost ($bil/yr)": 1.7
       },
       "geometry": {
         "type": "Point",
@@ -1395,7 +1448,8 @@
         "utility pv": 15.13,
         "csp": "4.20",
         "cost savings": 4784,
-        "avoided deaths": 3519
+        "avoided deaths": 3519,
+        "2050 BAU energy cost ($bil/yr)": 2.3
       },
       "geometry": {
         "type": "Point",
@@ -1421,7 +1475,8 @@
         "utility pv": 9.12,
         "csp": 4.16,
         "cost savings": 3965,
-        "avoided deaths": 5418
+        "avoided deaths": 5418,
+        "2050 BAU energy cost ($bil/yr)": 48.4
       },
       "geometry": {
         "type": "Point",
@@ -1447,7 +1502,8 @@
         "utility pv": 13.97,
         "csp": 4.54,
         "cost savings": 9083,
-        "avoided deaths": 1505
+        "avoided deaths": 1505,
+        "2050 BAU energy cost ($bil/yr)": 17.5
       },
       "geometry": {
         "type": "Point",
@@ -1473,7 +1529,8 @@
         "utility pv": 5.51,
         "csp": 2.51,
         "cost savings": 2741,
-        "avoided deaths": 323
+        "avoided deaths": 323,
+        "2050 BAU energy cost ($bil/yr)": 10.9
       },
       "geometry": {
         "type": "Point",
@@ -1499,7 +1556,8 @@
         "utility pv": 16.42,
         "csp": 4.73,
         "cost savings": 12176,
-        "avoided deaths": 324
+        "avoided deaths": 324,
+        "2050 BAU energy cost ($bil/yr)": 2
       },
       "geometry": {
         "type": "Point",
@@ -1525,7 +1583,8 @@
         "utility pv": 10.06,
         "csp": 4.29,
         "cost savings": 7668,
-        "avoided deaths": 1789
+        "avoided deaths": 1789,
+        "2050 BAU energy cost ($bil/yr)": 25.3
       },
       "geometry": {
         "type": "Point",
@@ -1551,7 +1610,8 @@
         "utility pv": 9.12,
         "csp": 4.16,
         "cost savings": 3965,
-        "avoided deaths": 5659
+        "avoided deaths": 5659,
+        "2050 BAU energy cost ($bil/yr)": 50.6
       },
       "geometry": {
         "type": "Point",
@@ -1577,7 +1637,8 @@
         "utility pv": 37.18,
         "csp": 4.89,
         "cost savings": 16234,
-        "avoided deaths": 2104
+        "avoided deaths": 2104,
+        "2050 BAU energy cost ($bil/yr)": 65.9
       },
       "geometry": {
         "type": "Point",
@@ -1603,7 +1664,8 @@
         "utility pv": 14.29,
         "csp": 4.68,
         "cost savings": 14704,
-        "avoided deaths": 38532
+        "avoided deaths": 38532,
+        "2050 BAU energy cost ($bil/yr)": 145.2
       },
       "geometry": {
         "type": "Point",
@@ -1629,7 +1691,8 @@
         "utility pv": 22.64,
         "csp": 4.73,
         "cost savings": 4844,
-        "avoided deaths": 1025
+        "avoided deaths": 1025,
+        "2050 BAU energy cost ($bil/yr)": 4.4
       },
       "geometry": {
         "type": "Point",
@@ -1655,7 +1718,8 @@
         "utility pv": 21.67,
         "csp": 4.87,
         "cost savings": 11811,
-        "avoided deaths": 2583
+        "avoided deaths": 2583,
+        "2050 BAU energy cost ($bil/yr)": 53.2
       },
       "geometry": {
         "type": "Point",
@@ -1681,7 +1745,8 @@
         "utility pv": 31.55,
         "csp": 0,
         "cost savings": 10482,
-        "avoided deaths": 10699
+        "avoided deaths": 10699,
+        "2050 BAU energy cost ($bil/yr)": 138.5
       },
       "geometry": {
         "type": "Point",
@@ -1707,7 +1772,8 @@
         "utility pv": 8.87,
         "csp": 0,
         "cost savings": 17622,
-        "avoided deaths": 792
+        "avoided deaths": 792,
+        "2050 BAU energy cost ($bil/yr)": 61.3
       },
       "geometry": {
         "type": "Point",
@@ -1733,7 +1799,8 @@
         "utility pv": 23.03,
         "csp": 0,
         "cost savings": 12152,
-        "avoided deaths": 1713
+        "avoided deaths": 1713,
+        "2050 BAU energy cost ($bil/yr)": 4.9
       },
       "geometry": {
         "type": "Point",
@@ -1759,7 +1826,8 @@
         "utility pv": 8.87,
         "csp": 0,
         "cost savings": 17622,
-        "avoided deaths": 325
+        "avoided deaths": 325,
+        "2050 BAU energy cost ($bil/yr)": 25.2
       },
       "geometry": {
         "type": "Point",
@@ -1785,7 +1853,8 @@
         "utility pv": 24.62,
         "csp": 0,
         "cost savings": 11953,
-        "avoided deaths": 584
+        "avoided deaths": 584,
+        "2050 BAU energy cost ($bil/yr)": 12.5
       },
       "geometry": {
         "type": "Point",
@@ -1811,7 +1880,8 @@
         "utility pv": 9.67,
         "csp": 4.41,
         "cost savings": 3228,
-        "avoided deaths": 5704
+        "avoided deaths": 5704,
+        "2050 BAU energy cost ($bil/yr)": 3.1
       },
       "geometry": {
         "type": "Point",
@@ -1837,7 +1907,8 @@
         "utility pv": 14.29,
         "csp": 4.68,
         "cost savings": 14704,
-        "avoided deaths": 560
+        "avoided deaths": 560,
+        "2050 BAU energy cost ($bil/yr)": 2.1
       },
       "geometry": {
         "type": "Point",
@@ -1863,7 +1934,8 @@
         "utility pv": 15.32,
         "csp": 0,
         "cost savings": 7090,
-        "avoided deaths": 269
+        "avoided deaths": 269,
+        "2050 BAU energy cost ($bil/yr)": 5.7
       },
       "geometry": {
         "type": "Point",
@@ -2450,7 +2522,8 @@
         "utility pv": 14.29,
         "csp": 4.68,
         "cost savings": 14704,
-        "avoided deaths": 16996
+        "avoided deaths": 16996,
+        "2050 BAU energy cost ($bil/yr)": 64.1
       },
       "geometry": {
         "type": "Point",
@@ -2466,7 +2539,8 @@
         "name": "Sydney",
         "country": "Australia",
         "cost savings": 16779,
-        "avoided deaths": 705
+        "avoided deaths": 705,
+        "2050 BAU energy cost ($bil/yr)": 45.1
       },
       "geometry": {
         "type": "Point",
