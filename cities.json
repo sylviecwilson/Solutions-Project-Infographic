@@ -22,7 +22,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 19.7,
         "2050 BAU climate cost ($bil/yr)": 3.4,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 26.9,
-        "2050 WWS energy and total social cost ($bil/yr)": 0.7
+        "2050 WWS energy and total social cost ($bil/yr)": 0.7,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -80.4
       },
       "geometry": {
         "type": "Point",
@@ -53,7 +54,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 6.5,
         "2050 BAU climate cost ($bil/yr)": 0.5,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 8.5,
-        "2050 WWS energy and total social cost ($bil/yr)": 0.4
+        "2050 WWS energy and total social cost ($bil/yr)": 0.4,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -73.4
       },
       "geometry": {
         "type": "Point",
@@ -84,7 +86,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 16.3,
         "2050 BAU climate cost ($bil/yr)": 22.6,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 50.2,
-        "2050 WWS energy and total social cost ($bil/yr)": 4.4
+        "2050 WWS energy and total social cost ($bil/yr)": 4.4,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -61.3
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +118,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 2.1,
         "2050 BAU climate cost ($bil/yr)": 13.9,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 27.8,
-        "2050 WWS energy and total social cost ($bil/yr)": 5.4
+        "2050 WWS energy and total social cost ($bil/yr)": 5.4,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -54.1
       },
       "geometry": {
         "type": "Point",
@@ -146,7 +150,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 14.4,
         "2050 BAU climate cost ($bil/yr)": 38.9,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 62.9,
-        "2050 WWS energy and total social cost ($bil/yr)": 2.9
+        "2050 WWS energy and total social cost ($bil/yr)": 2.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -69.3
       },
       "geometry": {
         "type": "Point",
@@ -177,7 +182,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 62.4,
         "2050 BAU climate cost ($bil/yr)": 82,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 208.6,
-        "2050 WWS energy and total social cost ($bil/yr)": 28.1
+        "2050 WWS energy and total social cost ($bil/yr)": 28.1,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -56.3
       },
       "geometry": {
         "type": "Point",
@@ -208,7 +214,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 261.7,
         "2050 BAU climate cost ($bil/yr)": 200.1,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 575.2,
-        "2050 WWS energy and total social cost ($bil/yr)": 46.2
+        "2050 WWS energy and total social cost ($bil/yr)": 46.2,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -59.3
       },
       "geometry": {
         "type": "Point",
@@ -239,7 +246,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 10.8,
         "2050 BAU climate cost ($bil/yr)": 28.5,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 58.1,
-        "2050 WWS energy and total social cost ($bil/yr)": 6.4
+        "2050 WWS energy and total social cost ($bil/yr)": 6.4,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -66
       },
       "geometry": {
         "type": "Point",
@@ -270,7 +278,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 21,
         "2050 BAU climate cost ($bil/yr)": 22.5,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 61.7,
-        "2050 WWS energy and total social cost ($bil/yr)": 6.3
+        "2050 WWS energy and total social cost ($bil/yr)": 6.3,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -65.3
       },
       "geometry": {
         "type": "Point",
@@ -301,7 +310,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 2.6,
         "2050 BAU climate cost ($bil/yr)": 3.6,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 9.4,
-        "2050 WWS energy and total social cost ($bil/yr)": 0.9
+        "2050 WWS energy and total social cost ($bil/yr)": 0.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -71.3
       },
       "geometry": {
         "type": "Point",
@@ -332,7 +342,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 11.2,
         "2050 BAU climate cost ($bil/yr)": 5.5,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 20.3,
-        "2050 WWS energy and total social cost ($bil/yr)": 1.2
+        "2050 WWS energy and total social cost ($bil/yr)": 1.2,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -67.5
       },
       "geometry": {
         "type": "Point",
@@ -363,7 +374,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 31.5,
         "2050 BAU climate cost ($bil/yr)": 69.9,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 154.1,
-        "2050 WWS energy and total social cost ($bil/yr)": 19.8
+        "2050 WWS energy and total social cost ($bil/yr)": 19.8,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -62.5
       },
       "geometry": {
         "type": "Point",
@@ -394,7 +406,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 77,
         "2050 BAU climate cost ($bil/yr)": 70.7,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 191,
-        "2050 WWS energy and total social cost ($bil/yr)": 15.9
+        "2050 WWS energy and total social cost ($bil/yr)": 15.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.2
       },
       "geometry": {
         "type": "Point",
@@ -425,7 +438,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 2.3,
         "2050 BAU climate cost ($bil/yr)": 29.4,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 49.2,
-        "2050 WWS energy and total social cost ($bil/yr)": 5.6
+        "2050 WWS energy and total social cost ($bil/yr)": 5.6,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68
       },
       "geometry": {
         "type": "Point",
@@ -456,7 +470,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 16.1,
         "2050 BAU climate cost ($bil/yr)": 84.3,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 130.3,
-        "2050 WWS energy and total social cost ($bil/yr)": 12.9
+        "2050 WWS energy and total social cost ($bil/yr)": 12.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -56.7
       },
       "geometry": {
         "type": "Point",
@@ -487,7 +502,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 3.4,
         "2050 BAU climate cost ($bil/yr)": 10.3,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 18.8,
-        "2050 WWS energy and total social cost ($bil/yr)": 2
+        "2050 WWS energy and total social cost ($bil/yr)": 2,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -61.3
       },
       "geometry": {
         "type": "Point",
@@ -518,7 +534,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 5,
         "2050 BAU climate cost ($bil/yr)": 8.1,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 17.4,
-        "2050 WWS energy and total social cost ($bil/yr)": 1.7
+        "2050 WWS energy and total social cost ($bil/yr)": 1.7,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -62.2
       },
       "geometry": {
         "type": "Point",
@@ -549,7 +566,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 17.2,
         "2050 BAU climate cost ($bil/yr)": 70.9,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 136.8,
-        "2050 WWS energy and total social cost ($bil/yr)": 17.8
+        "2050 WWS energy and total social cost ($bil/yr)": 17.8,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5
       },
       "geometry": {
         "type": "Point",
@@ -580,7 +598,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 245.1,
         "2050 BAU climate cost ($bil/yr)": 98.8,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 392.6,
-        "2050 WWS energy and total social cost ($bil/yr)": 25.6
+        "2050 WWS energy and total social cost ($bil/yr)": 25.6,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -47.4
       },
       "geometry": {
         "type": "Point",
@@ -611,7 +630,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 68.5,
         "2050 BAU climate cost ($bil/yr)": 15.1,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 95,
-        "2050 WWS energy and total social cost ($bil/yr)": 3.7
+        "2050 WWS energy and total social cost ($bil/yr)": 3.7,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -67.7
       },
       "geometry": {
         "type": "Point",
@@ -642,7 +662,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 5.9,
         "2050 BAU climate cost ($bil/yr)": 69.1,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 138.1,
-        "2050 WWS energy and total social cost ($bil/yr)": 23.9
+        "2050 WWS energy and total social cost ($bil/yr)": 23.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -62
       },
       "geometry": {
         "type": "Point",
@@ -673,7 +694,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 2.1,
         "2050 BAU climate cost ($bil/yr)": 27,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 45.1,
-        "2050 WWS energy and total social cost ($bil/yr)": 5.2
+        "2050 WWS energy and total social cost ($bil/yr)": 5.2,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68
       },
       "geometry": {
         "type": "Point",
@@ -704,7 +726,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 3,
         "2050 BAU climate cost ($bil/yr)": 7.6,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 14.8,
-        "2050 WWS energy and total social cost ($bil/yr)": 1.5
+        "2050 WWS energy and total social cost ($bil/yr)": 1.5,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -65.1
       },
       "geometry": {
         "type": "Point",
@@ -735,7 +758,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 15.4,
         "2050 BAU climate cost ($bil/yr)": 21.9,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 48.2,
-        "2050 WWS energy and total social cost ($bil/yr)": 7.5
+        "2050 WWS energy and total social cost ($bil/yr)": 7.5,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -31.6
       },
       "geometry": {
         "type": "Point",
@@ -766,7 +790,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 7.5,
         "2050 BAU climate cost ($bil/yr)": 6.5,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 17.3,
-        "2050 WWS energy and total social cost ($bil/yr)": 1.9
+        "2050 WWS energy and total social cost ($bil/yr)": 1.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -44
       },
       "geometry": {
         "type": "Point",
@@ -797,7 +822,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 25.3,
         "2050 BAU climate cost ($bil/yr)": 36,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 79.2,
-        "2050 WWS energy and total social cost ($bil/yr)": 12.3
+        "2050 WWS energy and total social cost ($bil/yr)": 12.3,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -31.6
       },
       "geometry": {
         "type": "Point",
@@ -828,7 +854,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 17.9,
         "2050 BAU climate cost ($bil/yr)": 74,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 142.6,
-        "2050 WWS energy and total social cost ($bil/yr)": 18.5
+        "2050 WWS energy and total social cost ($bil/yr)": 18.5,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5
       },
       "geometry": {
         "type": "Point",
@@ -859,7 +886,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 0.1,
         "2050 BAU climate cost ($bil/yr)": 0.3,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 0.6,
-        "2050 WWS energy and total social cost ($bil/yr)": 0.1
+        "2050 WWS energy and total social cost ($bil/yr)": 0.1,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68.8
       },
       "geometry": {
         "type": "Point",
@@ -890,7 +918,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 51.8,
         "2050 BAU climate cost ($bil/yr)": 71.7,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 159.4,
-        "2050 WWS energy and total social cost ($bil/yr)": 13.9
+        "2050 WWS energy and total social cost ($bil/yr)": 13.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -61.3
       },
       "geometry": {
         "type": "Point",
@@ -921,7 +950,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 42.4,
         "2050 BAU climate cost ($bil/yr)": 28.4,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 88.7,
-        "2050 WWS energy and total social cost ($bil/yr)": 7.2
+        "2050 WWS energy and total social cost ($bil/yr)": 7.2,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -59.4
       },
       "geometry": {
         "type": "Point",
@@ -952,7 +982,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 62.5,
         "2050 BAU climate cost ($bil/yr)": 21.1,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 99.2,
-        "2050 WWS energy and total social cost ($bil/yr)": 5.6
+        "2050 WWS energy and total social cost ($bil/yr)": 5.6,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.9
       },
       "geometry": {
         "type": "Point",
@@ -983,7 +1014,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 17.5,
         "2050 BAU climate cost ($bil/yr)": 17,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 44.4,
-        "2050 WWS energy and total social cost ($bil/yr)": 3.6
+        "2050 WWS energy and total social cost ($bil/yr)": 3.6,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.3
       },
       "geometry": {
         "type": "Point",
@@ -1014,7 +1046,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 47.7,
         "2050 BAU climate cost ($bil/yr)": 17.9,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 75.9,
-        "2050 WWS energy and total social cost ($bil/yr)": 1.8
+        "2050 WWS energy and total social cost ($bil/yr)": 1.8,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -82.9
       },
       "geometry": {
         "type": "Point",
@@ -1045,7 +1078,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 3.2,
         "2050 BAU climate cost ($bil/yr)": 9.3,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 17.2,
-        "2050 WWS energy and total social cost ($bil/yr)": 2.1
+        "2050 WWS energy and total social cost ($bil/yr)": 2.1,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -56.8
       },
       "geometry": {
         "type": "Point",
@@ -1076,7 +1110,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 108.2,
         "2050 BAU climate cost ($bil/yr)": 6.9,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 131.3,
-        "2050 WWS energy and total social cost ($bil/yr)": 2.6
+        "2050 WWS energy and total social cost ($bil/yr)": 2.6,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -83.9
       },
       "geometry": {
         "type": "Point",
@@ -1107,7 +1142,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 29.6,
         "2050 BAU climate cost ($bil/yr)": 22.4,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 68.2,
-        "2050 WWS energy and total social cost ($bil/yr)": 5.6
+        "2050 WWS energy and total social cost ($bil/yr)": 5.6,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -65.5
       },
       "geometry": {
         "type": "Point",
@@ -1138,7 +1174,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 24,
         "2050 BAU climate cost ($bil/yr)": 43.8,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 107.7,
-        "2050 WWS energy and total social cost ($bil/yr)": 11.9
+        "2050 WWS energy and total social cost ($bil/yr)": 11.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -70.3
       },
       "geometry": {
         "type": "Point",
@@ -1169,7 +1206,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 23.8,
         "2050 BAU climate cost ($bil/yr)": 98.2,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 189.5,
-        "2050 WWS energy and total social cost ($bil/yr)": 24.6
+        "2050 WWS energy and total social cost ($bil/yr)": 24.6,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5
       },
       "geometry": {
         "type": "Point",
@@ -1200,7 +1238,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 13.8,
         "2050 BAU climate cost ($bil/yr)": 32.3,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 73.4,
-        "2050 WWS energy and total social cost ($bil/yr)": 8.5
+        "2050 WWS energy and total social cost ($bil/yr)": 8.5,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68.8
       },
       "geometry": {
         "type": "Point",
@@ -1231,7 +1270,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 40.4,
         "2050 BAU climate cost ($bil/yr)": 92.4,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 189.3,
-        "2050 WWS energy and total social cost ($bil/yr)": 20.2
+        "2050 WWS energy and total social cost ($bil/yr)": 20.2,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -64.4
       },
       "geometry": {
         "type": "Point",
@@ -1262,7 +1302,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 2.7,
         "2050 BAU climate cost ($bil/yr)": 3.7,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 11,
-        "2050 WWS energy and total social cost ($bil/yr)": 2.6
+        "2050 WWS energy and total social cost ($bil/yr)": 2.6,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -43.7
       },
       "geometry": {
         "type": "Point",
@@ -1293,7 +1334,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 5,
         "2050 BAU climate cost ($bil/yr)": 64.5,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 108.1,
-        "2050 WWS energy and total social cost ($bil/yr)": 12.3
+        "2050 WWS energy and total social cost ($bil/yr)": 12.3,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68
       },
       "geometry": {
         "type": "Point",
@@ -1324,7 +1366,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 77.2,
         "2050 BAU climate cost ($bil/yr)": 170.1,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 346.4,
-        "2050 WWS energy and total social cost ($bil/yr)": 23.8
+        "2050 WWS energy and total social cost ($bil/yr)": 23.8,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -76
       },
       "geometry": {
         "type": "Point",
@@ -1355,7 +1398,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 126.4,
         "2050 BAU climate cost ($bil/yr)": 51,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 202.5,
-        "2050 WWS energy and total social cost ($bil/yr)": 13.2
+        "2050 WWS energy and total social cost ($bil/yr)": 13.2,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -47.4
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1430,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 5.1,
         "2050 BAU climate cost ($bil/yr)": 2.7,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 12,
-        "2050 WWS energy and total social cost ($bil/yr)": 0.9
+        "2050 WWS energy and total social cost ($bil/yr)": 0.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -78.1
       },
       "geometry": {
         "type": "Point",
@@ -1417,7 +1462,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 36,
         "2050 BAU climate cost ($bil/yr)": 148.5,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 286.5,
-        "2050 WWS energy and total social cost ($bil/yr)": 37.2
+        "2050 WWS energy and total social cost ($bil/yr)": 37.2,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5
       },
       "geometry": {
         "type": "Point",
@@ -1448,7 +1494,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 2,
         "2050 BAU climate cost ($bil/yr)": 9.1,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 19.1,
-        "2050 WWS energy and total social cost ($bil/yr)": 3.8
+        "2050 WWS energy and total social cost ($bil/yr)": 3.8,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -52.3
       },
       "geometry": {
         "type": "Point",
@@ -1479,7 +1526,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 1,
         "2050 BAU climate cost ($bil/yr)": 2.4,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 5.5,
-        "2050 WWS energy and total social cost ($bil/yr)": 0.6
+        "2050 WWS energy and total social cost ($bil/yr)": 0.6,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68.8
       },
       "geometry": {
         "type": "Point",
@@ -1510,7 +1558,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 19.1,
         "2050 BAU climate cost ($bil/yr)": 41.5,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 98.9,
-        "2050 WWS energy and total social cost ($bil/yr)": 15.9
+        "2050 WWS energy and total social cost ($bil/yr)": 15.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -58.5
       },
       "geometry": {
         "type": "Point",
@@ -1541,7 +1590,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 3.3,
         "2050 BAU climate cost ($bil/yr)": 35.4,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 59.1,
-        "2050 WWS energy and total social cost ($bil/yr)": 7.8
+        "2050 WWS energy and total social cost ($bil/yr)": 7.8,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -61.9
       },
       "geometry": {
         "type": "Point",
@@ -1572,7 +1622,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 11.6,
         "2050 BAU climate cost ($bil/yr)": 48,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 92.6,
-        "2050 WWS energy and total social cost ($bil/yr)": 12
+        "2050 WWS energy and total social cost ($bil/yr)": 12,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5
       },
       "geometry": {
         "type": "Point",
@@ -1603,7 +1654,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 12.2,
         "2050 BAU climate cost ($bil/yr)": 50.3,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 96.9,
-        "2050 WWS energy and total social cost ($bil/yr)": 12.6
+        "2050 WWS energy and total social cost ($bil/yr)": 12.6,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5
       },
       "geometry": {
         "type": "Point",
@@ -1634,7 +1686,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 9.6,
         "2050 BAU climate cost ($bil/yr)": 6.1,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 17.3,
-        "2050 WWS energy and total social cost ($bil/yr)": 1.1
+        "2050 WWS energy and total social cost ($bil/yr)": 1.1,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -37.3
       },
       "geometry": {
         "type": "Point",
@@ -1665,7 +1718,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 16.8,
         "2050 BAU climate cost ($bil/yr)": 4.6,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 23.8,
-        "2050 WWS energy and total social cost ($bil/yr)": 0.9
+        "2050 WWS energy and total social cost ($bil/yr)": 0.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -60.7
       },
       "geometry": {
         "type": "Point",
@@ -1696,7 +1750,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 34.4,
         "2050 BAU climate cost ($bil/yr)": 52.5,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 135.3,
-        "2050 WWS energy and total social cost ($bil/yr)": 22.4
+        "2050 WWS energy and total social cost ($bil/yr)": 22.4,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -53.8
       },
       "geometry": {
         "type": "Point",
@@ -1727,7 +1782,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 14.1,
         "2050 BAU climate cost ($bil/yr)": 19.9,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 51.5,
-        "2050 WWS energy and total social cost ($bil/yr)": 5
+        "2050 WWS energy and total social cost ($bil/yr)": 5,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -71.3
       },
       "geometry": {
         "type": "Point",
@@ -1754,11 +1810,12 @@
         "csp": 2.51,
         "cost savings": 2741,
         "avoided deaths": 323,
-        "2050 BAU energy cost ($bil/yr)": 10.9,
-        "2050 BAU air pollution cost ($bil/yr)": 3.8,
-        "2050 BAU climate cost ($bil/yr)": 15.8,
-        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 30.6,
-        "2050 WWS energy and total social cost ($bil/yr)": 4
+        "2050 BAU energy cost ($bil/yr)": 2,
+        "2050 BAU air pollution cost ($bil/yr)": 1.9,
+        "2050 BAU climate cost ($bil/yr)": 2.4,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 6.3,
+        "2050 WWS energy and total social cost ($bil/yr)": 1,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -50
       },
       "geometry": {
         "type": "Point",
@@ -1785,11 +1842,12 @@
         "csp": 4.73,
         "cost savings": 12176,
         "avoided deaths": 324,
-        "2050 BAU energy cost ($bil/yr)": 2,
-        "2050 BAU air pollution cost ($bil/yr)": 1.9,
-        "2050 BAU climate cost ($bil/yr)": 2.4,
-        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 6.3,
-        "2050 WWS energy and total social cost ($bil/yr)": 1
+        "2050 BAU energy cost ($bil/yr)": 10.9,
+        "2050 BAU air pollution cost ($bil/yr)": 3.8,
+        "2050 BAU climate cost ($bil/yr)": 15.8,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 30.6,
+        "2050 WWS energy and total social cost ($bil/yr)": 4,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5
       },
       "geometry": {
         "type": "Point",
@@ -1820,7 +1878,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 15,
         "2050 BAU climate cost ($bil/yr)": 38.8,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 79.1,
-        "2050 WWS energy and total social cost ($bil/yr)": 14.5
+        "2050 WWS energy and total social cost ($bil/yr)": 14.5,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -42.6
       },
       "geometry": {
         "type": "Point",
@@ -1851,7 +1910,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 36,
         "2050 BAU climate cost ($bil/yr)": 54.8,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 141.4,
-        "2050 WWS energy and total social cost ($bil/yr)": 23.4
+        "2050 WWS energy and total social cost ($bil/yr)": 23.4,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -53.8
       },
       "geometry": {
         "type": "Point",
@@ -1882,7 +1942,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 21.9,
         "2050 BAU climate cost ($bil/yr)": 114.9,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 202.6,
-        "2050 WWS energy and total social cost ($bil/yr)": 37.8
+        "2050 WWS energy and total social cost ($bil/yr)": 37.8,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -42.6
       },
       "geometry": {
         "type": "Point",
@@ -1913,7 +1974,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 335.1,
         "2050 BAU climate cost ($bil/yr)": 256.2,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 736.5,
-        "2050 WWS energy and total social cost ($bil/yr)": 59.1
+        "2050 WWS energy and total social cost ($bil/yr)": 59.1,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -59.3
       },
       "geometry": {
         "type": "Point",
@@ -1944,7 +2006,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 5.4,
         "2050 BAU climate cost ($bil/yr)": 6.5,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 16.3,
-        "2050 WWS energy and total social cost ($bil/yr)": 1.3
+        "2050 WWS energy and total social cost ($bil/yr)": 1.3,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -70.7
       },
       "geometry": {
         "type": "Point",
@@ -1975,7 +2038,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 18.4,
         "2050 BAU climate cost ($bil/yr)": 88.6,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 160.2,
-        "2050 WWS energy and total social cost ($bil/yr)": 18
+        "2050 WWS energy and total social cost ($bil/yr)": 18,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -66.1
       },
       "geometry": {
         "type": "Point",
@@ -2006,7 +2070,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 92.1,
         "2050 BAU climate cost ($bil/yr)": 271.6,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 502.2,
-        "2050 WWS energy and total social cost ($bil/yr)": 59.9
+        "2050 WWS energy and total social cost ($bil/yr)": 59.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -56.8
       },
       "geometry": {
         "type": "Point",
@@ -2037,7 +2102,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 7.9,
         "2050 BAU climate cost ($bil/yr)": 102.7,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 171.9,
-        "2050 WWS energy and total social cost ($bil/yr)": 19.6
+        "2050 WWS energy and total social cost ($bil/yr)": 19.6,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68
       },
       "geometry": {
         "type": "Point",
@@ -2068,7 +2134,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 10.8,
         "2050 BAU climate cost ($bil/yr)": 20.6,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 36.3,
-        "2050 WWS energy and total social cost ($bil/yr)": 1.5
+        "2050 WWS energy and total social cost ($bil/yr)": 1.5,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68.3
       },
       "geometry": {
         "type": "Point",
@@ -2099,7 +2166,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 3.3,
         "2050 BAU climate cost ($bil/yr)": 42.2,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 70.6,
-        "2050 WWS energy and total social cost ($bil/yr)": 8.1
+        "2050 WWS energy and total social cost ($bil/yr)": 8.1,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68
       },
       "geometry": {
         "type": "Point",
@@ -2130,7 +2198,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 6.1,
         "2050 BAU climate cost ($bil/yr)": 16,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 34.6,
-        "2050 WWS energy and total social cost ($bil/yr)": 4.5
+        "2050 WWS energy and total social cost ($bil/yr)": 4.5,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -64.1
       },
       "geometry": {
         "type": "Point",
@@ -2161,7 +2230,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 20,
         "2050 BAU climate cost ($bil/yr)": 3.9,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 27,
-        "2050 WWS energy and total social cost ($bil/yr)": 1.2
+        "2050 WWS energy and total social cost ($bil/yr)": 1.2,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -62.5
       },
       "geometry": {
         "type": "Point",
@@ -2192,7 +2262,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 4.9,
         "2050 BAU climate cost ($bil/yr)": 3.7,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 10.7,
-        "2050 WWS energy and total social cost ($bil/yr)": 0.9
+        "2050 WWS energy and total social cost ($bil/yr)": 0.9,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -59.3
       },
       "geometry": {
         "type": "Point",
@@ -2223,7 +2294,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 3.1,
         "2050 BAU climate cost ($bil/yr)": 6.5,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 15.2,
-        "2050 WWS energy and total social cost ($bil/yr)": 2.4
+        "2050 WWS energy and total social cost ($bil/yr)": 2.4,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -56.8
       },
       "geometry": {
         "type": "Point",
@@ -2786,7 +2858,8 @@
       "type": "Feature",
       "properties": {
         "name": "Burlington",
-        "country": "United States of America"
+        "country": "United States of America",
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": ""
       },
       "geometry": {
         "type": "Point",
@@ -2817,7 +2890,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 147.8,
         "2050 BAU climate cost ($bil/yr)": 113,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 324.9,
-        "2050 WWS energy and total social cost ($bil/yr)": 26.1
+        "2050 WWS energy and total social cost ($bil/yr)": 26.1,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -59.3
       },
       "geometry": {
         "type": "Point",
@@ -2838,7 +2912,8 @@
         "2050 BAU air pollution cost ($bil/yr)": 7.2,
         "2050 BAU climate cost ($bil/yr)": 77.8,
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 130.1,
-        "2050 WWS energy and total social cost ($bil/yr)": 17.2
+        "2050 WWS energy and total social cost ($bil/yr)": 17.2,
+        "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -61.9
       },
       "geometry": {
         "type": "Point",
