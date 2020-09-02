@@ -20,7 +20,8 @@
         "avoided deaths": 7658,
         "2050 BAU energy cost ($bil/yr)": 3.8,
         "2050 BAU air pollution cost ($bil/yr)": 19.7,
-        "2050 BAU climate cost ($bil/yr)": 3.4
+        "2050 BAU climate cost ($bil/yr)": 3.4,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 26.9
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +50,8 @@
         "avoided deaths": 4556,
         "2050 BAU energy cost ($bil/yr)": 1.4,
         "2050 BAU air pollution cost ($bil/yr)": 6.5,
-        "2050 BAU climate cost ($bil/yr)": 0.5
+        "2050 BAU climate cost ($bil/yr)": 0.5,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 8.5
       },
       "geometry": {
         "type": "Point",
@@ -78,7 +80,8 @@
         "avoided deaths": 2265,
         "2050 BAU energy cost ($bil/yr)": 11.3,
         "2050 BAU air pollution cost ($bil/yr)": 16.3,
-        "2050 BAU climate cost ($bil/yr)": 22.6
+        "2050 BAU climate cost ($bil/yr)": 22.6,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 50.2
       },
       "geometry": {
         "type": "Point",
@@ -107,7 +110,8 @@
         "avoided deaths": 201,
         "2050 BAU energy cost ($bil/yr)": 11.8,
         "2050 BAU air pollution cost ($bil/yr)": 2.1,
-        "2050 BAU climate cost ($bil/yr)": 13.9
+        "2050 BAU climate cost ($bil/yr)": 13.9,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 27.8
       },
       "geometry": {
         "type": "Point",
@@ -136,7 +140,8 @@
         "avoided deaths": 2227,
         "2050 BAU energy cost ($bil/yr)": 9.5,
         "2050 BAU air pollution cost ($bil/yr)": 14.4,
-        "2050 BAU climate cost ($bil/yr)": 38.9
+        "2050 BAU climate cost ($bil/yr)": 38.9,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 62.9
       },
       "geometry": {
         "type": "Point",
@@ -165,7 +170,8 @@
         "avoided deaths": 8582,
         "2050 BAU energy cost ($bil/yr)": 64.1,
         "2050 BAU air pollution cost ($bil/yr)": 62.4,
-        "2050 BAU climate cost ($bil/yr)": 82
+        "2050 BAU climate cost ($bil/yr)": 82,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 208.6
       },
       "geometry": {
         "type": "Point",
@@ -194,7 +200,8 @@
         "avoided deaths": 30092,
         "2050 BAU energy cost ($bil/yr)": 113.4,
         "2050 BAU air pollution cost ($bil/yr)": 261.7,
-        "2050 BAU climate cost ($bil/yr)": 200.1
+        "2050 BAU climate cost ($bil/yr)": 200.1,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 575.2
       },
       "geometry": {
         "type": "Point",
@@ -223,7 +230,8 @@
         "avoided deaths": 1031,
         "2050 BAU energy cost ($bil/yr)": 18.8,
         "2050 BAU air pollution cost ($bil/yr)": 10.8,
-        "2050 BAU climate cost ($bil/yr)": 28.5
+        "2050 BAU climate cost ($bil/yr)": 28.5,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 58.1
       },
       "geometry": {
         "type": "Point",
@@ -252,7 +260,8 @@
         "avoided deaths": 3775,
         "2050 BAU energy cost ($bil/yr)": 18.3,
         "2050 BAU air pollution cost ($bil/yr)": 21,
-        "2050 BAU climate cost ($bil/yr)": 22.5
+        "2050 BAU climate cost ($bil/yr)": 22.5,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 61.7
       },
       "geometry": {
         "type": "Point",
@@ -281,7 +290,8 @@
         "avoided deaths": 275,
         "2050 BAU energy cost ($bil/yr)": 3.2,
         "2050 BAU air pollution cost ($bil/yr)": 2.6,
-        "2050 BAU climate cost ($bil/yr)": 3.6
+        "2050 BAU climate cost ($bil/yr)": 3.6,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 9.4
       },
       "geometry": {
         "type": "Point",
@@ -310,7 +320,8 @@
         "avoided deaths": 1154,
         "2050 BAU energy cost ($bil/yr)": 3.6,
         "2050 BAU air pollution cost ($bil/yr)": 11.2,
-        "2050 BAU climate cost ($bil/yr)": 5.5
+        "2050 BAU climate cost ($bil/yr)": 5.5,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 20.3
       },
       "geometry": {
         "type": "Point",
@@ -339,7 +350,8 @@
         "avoided deaths": 4353,
         "2050 BAU energy cost ($bil/yr)": 52.8,
         "2050 BAU air pollution cost ($bil/yr)": 31.5,
-        "2050 BAU climate cost ($bil/yr)": 69.9
+        "2050 BAU climate cost ($bil/yr)": 69.9,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 154.1
       },
       "geometry": {
         "type": "Point",
@@ -368,7 +380,8 @@
         "avoided deaths": 14588,
         "2050 BAU energy cost ($bil/yr)": 43.3,
         "2050 BAU air pollution cost ($bil/yr)": 77,
-        "2050 BAU climate cost ($bil/yr)": 70.7
+        "2050 BAU climate cost ($bil/yr)": 70.7,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 191
       },
       "geometry": {
         "type": "Point",
@@ -397,7 +410,8 @@
         "avoided deaths": 226,
         "2050 BAU energy cost ($bil/yr)": 17.5,
         "2050 BAU air pollution cost ($bil/yr)": 2.3,
-        "2050 BAU climate cost ($bil/yr)": 29.4
+        "2050 BAU climate cost ($bil/yr)": 29.4,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 49.2
       },
       "geometry": {
         "type": "Point",
@@ -426,7 +440,8 @@
         "avoided deaths": 2757,
         "2050 BAU energy cost ($bil/yr)": 29.8,
         "2050 BAU air pollution cost ($bil/yr)": 16.1,
-        "2050 BAU climate cost ($bil/yr)": 84.3
+        "2050 BAU climate cost ($bil/yr)": 84.3,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 130.3
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +470,8 @@
         "avoided deaths": 550,
         "2050 BAU energy cost ($bil/yr)": 5.1,
         "2050 BAU air pollution cost ($bil/yr)": 3.4,
-        "2050 BAU climate cost ($bil/yr)": 10.3
+        "2050 BAU climate cost ($bil/yr)": 10.3,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 18.8
       },
       "geometry": {
         "type": "Point",
@@ -484,7 +500,8 @@
         "avoided deaths": 1145,
         "2050 BAU energy cost ($bil/yr)": 4.4,
         "2050 BAU air pollution cost ($bil/yr)": 5,
-        "2050 BAU climate cost ($bil/yr)": 8.1
+        "2050 BAU climate cost ($bil/yr)": 8.1,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 17.4
       },
       "geometry": {
         "type": "Point",
@@ -513,7 +530,8 @@
         "avoided deaths": 1450,
         "2050 BAU energy cost ($bil/yr)": 48.7,
         "2050 BAU air pollution cost ($bil/yr)": 17.2,
-        "2050 BAU climate cost ($bil/yr)": 70.9
+        "2050 BAU climate cost ($bil/yr)": 70.9,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 136.8
       },
       "geometry": {
         "type": "Point",
@@ -542,7 +560,8 @@
         "avoided deaths": 45226,
         "2050 BAU energy cost ($bil/yr)": 48.6,
         "2050 BAU air pollution cost ($bil/yr)": 245.1,
-        "2050 BAU climate cost ($bil/yr)": 98.8
+        "2050 BAU climate cost ($bil/yr)": 98.8,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 392.6
       },
       "geometry": {
         "type": "Point",
@@ -571,7 +590,8 @@
         "avoided deaths": 23665,
         "2050 BAU energy cost ($bil/yr)": 11.4,
         "2050 BAU air pollution cost ($bil/yr)": 68.5,
-        "2050 BAU climate cost ($bil/yr)": 15.1
+        "2050 BAU climate cost ($bil/yr)": 15.1,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 95
       },
       "geometry": {
         "type": "Point",
@@ -600,7 +620,8 @@
         "avoided deaths": 467,
         "2050 BAU energy cost ($bil/yr)": 63.1,
         "2050 BAU air pollution cost ($bil/yr)": 5.9,
-        "2050 BAU climate cost ($bil/yr)": 69.1
+        "2050 BAU climate cost ($bil/yr)": 69.1,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 138.1
       },
       "geometry": {
         "type": "Point",
@@ -629,7 +650,8 @@
         "avoided deaths": 208,
         "2050 BAU energy cost ($bil/yr)": 16.1,
         "2050 BAU air pollution cost ($bil/yr)": 2.1,
-        "2050 BAU climate cost ($bil/yr)": 27
+        "2050 BAU climate cost ($bil/yr)": 27,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 45.1
       },
       "geometry": {
         "type": "Point",
@@ -658,7 +680,8 @@
         "avoided deaths": 594,
         "2050 BAU energy cost ($bil/yr)": 4.2,
         "2050 BAU air pollution cost ($bil/yr)": 3,
-        "2050 BAU climate cost ($bil/yr)": 7.6
+        "2050 BAU climate cost ($bil/yr)": 7.6,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 14.8
       },
       "geometry": {
         "type": "Point",
@@ -687,7 +710,8 @@
         "avoided deaths": 3628,
         "2050 BAU energy cost ($bil/yr)": 11,
         "2050 BAU air pollution cost ($bil/yr)": 15.4,
-        "2050 BAU climate cost ($bil/yr)": 21.9
+        "2050 BAU climate cost ($bil/yr)": 21.9,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 48.2
       },
       "geometry": {
         "type": "Point",
@@ -716,7 +740,8 @@
         "avoided deaths": 1079,
         "2050 BAU energy cost ($bil/yr)": 3.4,
         "2050 BAU air pollution cost ($bil/yr)": 7.5,
-        "2050 BAU climate cost ($bil/yr)": 6.5
+        "2050 BAU climate cost ($bil/yr)": 6.5,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 17.3
       },
       "geometry": {
         "type": "Point",
@@ -745,7 +770,8 @@
         "avoided deaths": 5961,
         "2050 BAU energy cost ($bil/yr)": 18,
         "2050 BAU air pollution cost ($bil/yr)": 25.3,
-        "2050 BAU climate cost ($bil/yr)": 36
+        "2050 BAU climate cost ($bil/yr)": 36,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 79.2
       },
       "geometry": {
         "type": "Point",
@@ -774,7 +800,8 @@
         "avoided deaths": 1512,
         "2050 BAU energy cost ($bil/yr)": 50.8,
         "2050 BAU air pollution cost ($bil/yr)": 17.9,
-        "2050 BAU climate cost ($bil/yr)": 74
+        "2050 BAU climate cost ($bil/yr)": 74,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 142.6
       },
       "geometry": {
         "type": "Point",
@@ -803,7 +830,8 @@
         "avoided deaths": 12,
         "2050 BAU energy cost ($bil/yr)": 0.2,
         "2050 BAU air pollution cost ($bil/yr)": 0.1,
-        "2050 BAU climate cost ($bil/yr)": 0.3
+        "2050 BAU climate cost ($bil/yr)": 0.3,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 0.6
       },
       "geometry": {
         "type": "Point",
@@ -832,7 +860,8 @@
         "avoided deaths": 7193,
         "2050 BAU energy cost ($bil/yr)": 35.8,
         "2050 BAU air pollution cost ($bil/yr)": 51.8,
-        "2050 BAU climate cost ($bil/yr)": 71.7
+        "2050 BAU climate cost ($bil/yr)": 71.7,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 159.4
       },
       "geometry": {
         "type": "Point",
@@ -861,7 +890,8 @@
         "avoided deaths": 7105,
         "2050 BAU energy cost ($bil/yr)": 17.8,
         "2050 BAU air pollution cost ($bil/yr)": 42.4,
-        "2050 BAU climate cost ($bil/yr)": 28.4
+        "2050 BAU climate cost ($bil/yr)": 28.4,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 88.7
       },
       "geometry": {
         "type": "Point",
@@ -890,7 +920,8 @@
         "avoided deaths": 18001,
         "2050 BAU energy cost ($bil/yr)": 15.7,
         "2050 BAU air pollution cost ($bil/yr)": 62.5,
-        "2050 BAU climate cost ($bil/yr)": 21.1
+        "2050 BAU climate cost ($bil/yr)": 21.1,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 99.2
       },
       "geometry": {
         "type": "Point",
@@ -919,7 +950,8 @@
         "avoided deaths": 2871,
         "2050 BAU energy cost ($bil/yr)": 9.8,
         "2050 BAU air pollution cost ($bil/yr)": 17.5,
-        "2050 BAU climate cost ($bil/yr)": 17
+        "2050 BAU climate cost ($bil/yr)": 17,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 44.4
       },
       "geometry": {
         "type": "Point",
@@ -948,7 +980,8 @@
         "avoided deaths": 12399,
         "2050 BAU energy cost ($bil/yr)": 10.4,
         "2050 BAU air pollution cost ($bil/yr)": 47.7,
-        "2050 BAU climate cost ($bil/yr)": 17.9
+        "2050 BAU climate cost ($bil/yr)": 17.9,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 75.9
       },
       "geometry": {
         "type": "Point",
@@ -977,7 +1010,8 @@
         "avoided deaths": 367,
         "2050 BAU energy cost ($bil/yr)": 4.8,
         "2050 BAU air pollution cost ($bil/yr)": 3.2,
-        "2050 BAU climate cost ($bil/yr)": 9.3
+        "2050 BAU climate cost ($bil/yr)": 9.3,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 17.2
       },
       "geometry": {
         "type": "Point",
@@ -1006,7 +1040,8 @@
         "avoided deaths": 25618,
         "2050 BAU energy cost ($bil/yr)": 16.1,
         "2050 BAU air pollution cost ($bil/yr)": 108.2,
-        "2050 BAU climate cost ($bil/yr)": 6.9
+        "2050 BAU climate cost ($bil/yr)": 6.9,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 131.3
       },
       "geometry": {
         "type": "Point",
@@ -1035,7 +1070,8 @@
         "avoided deaths": 5652,
         "2050 BAU energy cost ($bil/yr)": 16.2,
         "2050 BAU air pollution cost ($bil/yr)": 29.6,
-        "2050 BAU climate cost ($bil/yr)": 22.4
+        "2050 BAU climate cost ($bil/yr)": 22.4,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 68.2
       },
       "geometry": {
         "type": "Point",
@@ -1064,7 +1100,8 @@
         "avoided deaths": 2415,
         "2050 BAU energy cost ($bil/yr)": 39.9,
         "2050 BAU air pollution cost ($bil/yr)": 24,
-        "2050 BAU climate cost ($bil/yr)": 43.8
+        "2050 BAU climate cost ($bil/yr)": 43.8,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 107.7
       },
       "geometry": {
         "type": "Point",
@@ -1093,7 +1130,8 @@
         "avoided deaths": 2008,
         "2050 BAU energy cost ($bil/yr)": 67.4,
         "2050 BAU air pollution cost ($bil/yr)": 23.8,
-        "2050 BAU climate cost ($bil/yr)": 98.2
+        "2050 BAU climate cost ($bil/yr)": 98.2,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 189.5
       },
       "geometry": {
         "type": "Point",
@@ -1122,7 +1160,8 @@
         "avoided deaths": 1490,
         "2050 BAU energy cost ($bil/yr)": 27.2,
         "2050 BAU air pollution cost ($bil/yr)": 13.8,
-        "2050 BAU climate cost ($bil/yr)": 32.3
+        "2050 BAU climate cost ($bil/yr)": 32.3,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 73.4
       },
       "geometry": {
         "type": "Point",
@@ -1151,7 +1190,8 @@
         "avoided deaths": 5525,
         "2050 BAU energy cost ($bil/yr)": 56.6,
         "2050 BAU air pollution cost ($bil/yr)": 40.4,
-        "2050 BAU climate cost ($bil/yr)": 92.4
+        "2050 BAU climate cost ($bil/yr)": 92.4,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 189.3
       },
       "geometry": {
         "type": "Point",
@@ -1180,7 +1220,8 @@
         "avoided deaths": 386,
         "2050 BAU energy cost ($bil/yr)": 4.6,
         "2050 BAU air pollution cost ($bil/yr)": 2.7,
-        "2050 BAU climate cost ($bil/yr)": 3.7
+        "2050 BAU climate cost ($bil/yr)": 3.7,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 11
       },
       "geometry": {
         "type": "Point",
@@ -1209,7 +1250,8 @@
         "avoided deaths": 498,
         "2050 BAU energy cost ($bil/yr)": 38.5,
         "2050 BAU air pollution cost ($bil/yr)": 5,
-        "2050 BAU climate cost ($bil/yr)": 64.5
+        "2050 BAU climate cost ($bil/yr)": 64.5,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 108.1
       },
       "geometry": {
         "type": "Point",
@@ -1238,7 +1280,8 @@
         "avoided deaths": 8314,
         "2050 BAU energy cost ($bil/yr)": 99.1,
         "2050 BAU air pollution cost ($bil/yr)": 77.2,
-        "2050 BAU climate cost ($bil/yr)": 170.1
+        "2050 BAU climate cost ($bil/yr)": 170.1,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 346.4
       },
       "geometry": {
         "type": "Point",
@@ -1267,7 +1310,8 @@
         "avoided deaths": 23327,
         "2050 BAU energy cost ($bil/yr)": 25.1,
         "2050 BAU air pollution cost ($bil/yr)": 126.4,
-        "2050 BAU climate cost ($bil/yr)": 51
+        "2050 BAU climate cost ($bil/yr)": 51,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 202.5
       },
       "geometry": {
         "type": "Point",
@@ -1296,7 +1340,8 @@
         "avoided deaths": 2180,
         "2050 BAU energy cost ($bil/yr)": 4.2,
         "2050 BAU air pollution cost ($bil/yr)": 5.1,
-        "2050 BAU climate cost ($bil/yr)": 2.7
+        "2050 BAU climate cost ($bil/yr)": 2.7,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 12
       },
       "geometry": {
         "type": "Point",
@@ -1325,7 +1370,8 @@
         "avoided deaths": 3037,
         "2050 BAU energy cost ($bil/yr)": 102,
         "2050 BAU air pollution cost ($bil/yr)": 36,
-        "2050 BAU climate cost ($bil/yr)": 148.5
+        "2050 BAU climate cost ($bil/yr)": 148.5,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 286.5
       },
       "geometry": {
         "type": "Point",
@@ -1354,7 +1400,8 @@
         "avoided deaths": 166,
         "2050 BAU energy cost ($bil/yr)": 8,
         "2050 BAU air pollution cost ($bil/yr)": 2,
-        "2050 BAU climate cost ($bil/yr)": 9.1
+        "2050 BAU climate cost ($bil/yr)": 9.1,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 19.1
       },
       "geometry": {
         "type": "Point",
@@ -1383,7 +1430,8 @@
         "avoided deaths": 111,
         "2050 BAU energy cost ($bil/yr)": 2,
         "2050 BAU air pollution cost ($bil/yr)": 1,
-        "2050 BAU climate cost ($bil/yr)": 2.4
+        "2050 BAU climate cost ($bil/yr)": 2.4,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 5.5
       },
       "geometry": {
         "type": "Point",
@@ -1412,7 +1460,8 @@
         "avoided deaths": 1952,
         "2050 BAU energy cost ($bil/yr)": 38.4,
         "2050 BAU air pollution cost ($bil/yr)": 19.1,
-        "2050 BAU climate cost ($bil/yr)": 41.5
+        "2050 BAU climate cost ($bil/yr)": 41.5,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 98.9
       },
       "geometry": {
         "type": "Point",
@@ -1441,7 +1490,8 @@
         "avoided deaths": 320,
         "2050 BAU energy cost ($bil/yr)": 20.5,
         "2050 BAU air pollution cost ($bil/yr)": 3.3,
-        "2050 BAU climate cost ($bil/yr)": 35.4
+        "2050 BAU climate cost ($bil/yr)": 35.4,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 59.1
       },
       "geometry": {
         "type": "Point",
@@ -1470,7 +1520,8 @@
         "avoided deaths": 981,
         "2050 BAU energy cost ($bil/yr)": 32.9,
         "2050 BAU air pollution cost ($bil/yr)": 11.6,
-        "2050 BAU climate cost ($bil/yr)": 48
+        "2050 BAU climate cost ($bil/yr)": 48,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 92.6
       },
       "geometry": {
         "type": "Point",
@@ -1499,7 +1550,8 @@
         "avoided deaths": 1027,
         "2050 BAU energy cost ($bil/yr)": 34.5,
         "2050 BAU air pollution cost ($bil/yr)": 12.2,
-        "2050 BAU climate cost ($bil/yr)": 50.3
+        "2050 BAU climate cost ($bil/yr)": 50.3,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 96.9
       },
       "geometry": {
         "type": "Point",
@@ -1528,7 +1580,8 @@
         "avoided deaths": 4960,
         "2050 BAU energy cost ($bil/yr)": 1.7,
         "2050 BAU air pollution cost ($bil/yr)": 9.6,
-        "2050 BAU climate cost ($bil/yr)": 6.1
+        "2050 BAU climate cost ($bil/yr)": 6.1,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 17.3
       },
       "geometry": {
         "type": "Point",
@@ -1557,7 +1610,8 @@
         "avoided deaths": 3519,
         "2050 BAU energy cost ($bil/yr)": 2.3,
         "2050 BAU air pollution cost ($bil/yr)": 16.8,
-        "2050 BAU climate cost ($bil/yr)": 4.6
+        "2050 BAU climate cost ($bil/yr)": 4.6,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 23.8
       },
       "geometry": {
         "type": "Point",
@@ -1586,7 +1640,8 @@
         "avoided deaths": 5418,
         "2050 BAU energy cost ($bil/yr)": 48.4,
         "2050 BAU air pollution cost ($bil/yr)": 34.4,
-        "2050 BAU climate cost ($bil/yr)": 52.5
+        "2050 BAU climate cost ($bil/yr)": 52.5,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 135.3
       },
       "geometry": {
         "type": "Point",
@@ -1615,7 +1670,8 @@
         "avoided deaths": 1505,
         "2050 BAU energy cost ($bil/yr)": 17.5,
         "2050 BAU air pollution cost ($bil/yr)": 14.1,
-        "2050 BAU climate cost ($bil/yr)": 19.9
+        "2050 BAU climate cost ($bil/yr)": 19.9,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 51.5
       },
       "geometry": {
         "type": "Point",
@@ -1644,7 +1700,8 @@
         "avoided deaths": 323,
         "2050 BAU energy cost ($bil/yr)": 10.9,
         "2050 BAU air pollution cost ($bil/yr)": 3.8,
-        "2050 BAU climate cost ($bil/yr)": 15.8
+        "2050 BAU climate cost ($bil/yr)": 15.8,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 30.6
       },
       "geometry": {
         "type": "Point",
@@ -1673,7 +1730,8 @@
         "avoided deaths": 324,
         "2050 BAU energy cost ($bil/yr)": 2,
         "2050 BAU air pollution cost ($bil/yr)": 1.9,
-        "2050 BAU climate cost ($bil/yr)": 2.4
+        "2050 BAU climate cost ($bil/yr)": 2.4,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 6.3
       },
       "geometry": {
         "type": "Point",
@@ -1702,7 +1760,8 @@
         "avoided deaths": 1789,
         "2050 BAU energy cost ($bil/yr)": 25.3,
         "2050 BAU air pollution cost ($bil/yr)": 15,
-        "2050 BAU climate cost ($bil/yr)": 38.8
+        "2050 BAU climate cost ($bil/yr)": 38.8,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 79.1
       },
       "geometry": {
         "type": "Point",
@@ -1731,7 +1790,8 @@
         "avoided deaths": 5659,
         "2050 BAU energy cost ($bil/yr)": 50.6,
         "2050 BAU air pollution cost ($bil/yr)": 36,
-        "2050 BAU climate cost ($bil/yr)": 54.8
+        "2050 BAU climate cost ($bil/yr)": 54.8,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 141.4
       },
       "geometry": {
         "type": "Point",
@@ -1760,7 +1820,8 @@
         "avoided deaths": 2104,
         "2050 BAU energy cost ($bil/yr)": 65.9,
         "2050 BAU air pollution cost ($bil/yr)": 21.9,
-        "2050 BAU climate cost ($bil/yr)": 114.9
+        "2050 BAU climate cost ($bil/yr)": 114.9,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 202.6
       },
       "geometry": {
         "type": "Point",
@@ -1789,7 +1850,8 @@
         "avoided deaths": 38532,
         "2050 BAU energy cost ($bil/yr)": 145.2,
         "2050 BAU air pollution cost ($bil/yr)": 335.1,
-        "2050 BAU climate cost ($bil/yr)": 256.2
+        "2050 BAU climate cost ($bil/yr)": 256.2,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 736.5
       },
       "geometry": {
         "type": "Point",
@@ -1818,7 +1880,8 @@
         "avoided deaths": 1025,
         "2050 BAU energy cost ($bil/yr)": 4.4,
         "2050 BAU air pollution cost ($bil/yr)": 5.4,
-        "2050 BAU climate cost ($bil/yr)": 6.5
+        "2050 BAU climate cost ($bil/yr)": 6.5,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 16.3
       },
       "geometry": {
         "type": "Point",
@@ -1847,7 +1910,8 @@
         "avoided deaths": 2583,
         "2050 BAU energy cost ($bil/yr)": 53.2,
         "2050 BAU air pollution cost ($bil/yr)": 18.4,
-        "2050 BAU climate cost ($bil/yr)": 88.6
+        "2050 BAU climate cost ($bil/yr)": 88.6,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 160.2
       },
       "geometry": {
         "type": "Point",
@@ -1876,7 +1940,8 @@
         "avoided deaths": 10699,
         "2050 BAU energy cost ($bil/yr)": 138.5,
         "2050 BAU air pollution cost ($bil/yr)": 92.1,
-        "2050 BAU climate cost ($bil/yr)": 271.6
+        "2050 BAU climate cost ($bil/yr)": 271.6,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 502.2
       },
       "geometry": {
         "type": "Point",
@@ -1905,7 +1970,8 @@
         "avoided deaths": 792,
         "2050 BAU energy cost ($bil/yr)": 61.3,
         "2050 BAU air pollution cost ($bil/yr)": 7.9,
-        "2050 BAU climate cost ($bil/yr)": 102.7
+        "2050 BAU climate cost ($bil/yr)": 102.7,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 171.9
       },
       "geometry": {
         "type": "Point",
@@ -1934,7 +2000,8 @@
         "avoided deaths": 1713,
         "2050 BAU energy cost ($bil/yr)": 4.9,
         "2050 BAU air pollution cost ($bil/yr)": 10.8,
-        "2050 BAU climate cost ($bil/yr)": 20.6
+        "2050 BAU climate cost ($bil/yr)": 20.6,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 36.3
       },
       "geometry": {
         "type": "Point",
@@ -1963,7 +2030,8 @@
         "avoided deaths": 325,
         "2050 BAU energy cost ($bil/yr)": 25.2,
         "2050 BAU air pollution cost ($bil/yr)": 3.3,
-        "2050 BAU climate cost ($bil/yr)": 42.2
+        "2050 BAU climate cost ($bil/yr)": 42.2,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 70.6
       },
       "geometry": {
         "type": "Point",
@@ -1992,7 +2060,8 @@
         "avoided deaths": 584,
         "2050 BAU energy cost ($bil/yr)": 12.5,
         "2050 BAU air pollution cost ($bil/yr)": 6.1,
-        "2050 BAU climate cost ($bil/yr)": 16
+        "2050 BAU climate cost ($bil/yr)": 16,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 34.6
       },
       "geometry": {
         "type": "Point",
@@ -2021,7 +2090,8 @@
         "avoided deaths": 5704,
         "2050 BAU energy cost ($bil/yr)": 3.1,
         "2050 BAU air pollution cost ($bil/yr)": 20,
-        "2050 BAU climate cost ($bil/yr)": 3.9
+        "2050 BAU climate cost ($bil/yr)": 3.9,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 27
       },
       "geometry": {
         "type": "Point",
@@ -2050,7 +2120,8 @@
         "avoided deaths": 560,
         "2050 BAU energy cost ($bil/yr)": 2.1,
         "2050 BAU air pollution cost ($bil/yr)": 4.9,
-        "2050 BAU climate cost ($bil/yr)": 3.7
+        "2050 BAU climate cost ($bil/yr)": 3.7,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 10.7
       },
       "geometry": {
         "type": "Point",
@@ -2079,7 +2150,8 @@
         "avoided deaths": 269,
         "2050 BAU energy cost ($bil/yr)": 5.7,
         "2050 BAU air pollution cost ($bil/yr)": 3.1,
-        "2050 BAU climate cost ($bil/yr)": 6.5
+        "2050 BAU climate cost ($bil/yr)": 6.5,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 15.2
       },
       "geometry": {
         "type": "Point",
@@ -2613,7 +2685,8 @@
       "type": "Feature",
       "properties": {
         "name": "Boston",
-        "country": "United States of America"
+        "country": "United States of America",
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": ""
       },
       "geometry": {
         "type": "Point",
@@ -2670,7 +2743,8 @@
         "avoided deaths": 16996,
         "2050 BAU energy cost ($bil/yr)": 64.1,
         "2050 BAU air pollution cost ($bil/yr)": 147.8,
-        "2050 BAU climate cost ($bil/yr)": 113
+        "2050 BAU climate cost ($bil/yr)": 113,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 324.9
       },
       "geometry": {
         "type": "Point",
@@ -2689,7 +2763,8 @@
         "avoided deaths": 705,
         "2050 BAU energy cost ($bil/yr)": 45.1,
         "2050 BAU air pollution cost ($bil/yr)": 7.2,
-        "2050 BAU climate cost ($bil/yr)": 77.8
+        "2050 BAU climate cost ($bil/yr)": 77.8,
+        "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": 130.1
       },
       "geometry": {
         "type": "Point",
