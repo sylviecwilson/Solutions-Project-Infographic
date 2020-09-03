@@ -22,7 +22,8 @@
         "offshore wind (nameplate capacity)": 552,
         "wave (nameplate capacity)": 100,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 129
+        "csp (nameplate capacity)": 129,
+        "tidal (nameplate capacity)": 3
       },
       "geometry": {
         "type": "Point",
@@ -53,7 +54,8 @@
         "offshore wind (nameplate capacity)": 0,
         "wave (nameplate capacity)": 0,
         "geothermal (nameplate capacity)": 51,
-        "csp (nameplate capacity)": 49
+        "csp (nameplate capacity)": 49,
+        "tidal (nameplate capacity)": 0
       },
       "geometry": {
         "type": "Point",
@@ -84,7 +86,8 @@
         "offshore wind (nameplate capacity)": 356,
         "wave (nameplate capacity)": 0,
         "geothermal (nameplate capacity)": 102,
-        "csp (nameplate capacity)": 497
+        "csp (nameplate capacity)": 497,
+        "tidal (nameplate capacity)": 6
       },
       "geometry": {
         "type": "Point",
@@ -115,7 +118,8 @@
         "offshore wind (nameplate capacity)": "1,985",
         "wave (nameplate capacity)": 187,
         "geothermal (nameplate capacity)": 907,
-        "csp (nameplate capacity)": 656
+        "csp (nameplate capacity)": 656,
+        "tidal (nameplate capacity)": 91
       },
       "geometry": {
         "type": "Point",
@@ -146,7 +150,8 @@
         "offshore wind (nameplate capacity)": 233,
         "wave (nameplate capacity)": 0,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 378
+        "csp (nameplate capacity)": 378,
+        "tidal (nameplate capacity)": 1
       },
       "geometry": {
         "type": "Point",
@@ -177,7 +182,8 @@
         "offshore wind (nameplate capacity)": "17,497",
         "wave (nameplate capacity)": 0,
         "geothermal (nameplate capacity)": 29,
-        "csp (nameplate capacity)": "2,772"
+        "csp (nameplate capacity)": "2,772",
+        "tidal (nameplate capacity)": 10
       },
       "geometry": {
         "type": "Point",
@@ -208,7 +214,8 @@
         "offshore wind (nameplate capacity)": "24,851",
         "wave (nameplate capacity)": 231,
         "geothermal (nameplate capacity)": 51,
-        "csp (nameplate capacity)": "5,840"
+        "csp (nameplate capacity)": "5,840",
+        "tidal (nameplate capacity)": 55
       },
       "geometry": {
         "type": "Point",
@@ -239,7 +246,8 @@
         "offshore wind (nameplate capacity)": "",
         "wave (nameplate capacity)": 61,
         "geothermal (nameplate capacity)": 2,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 2
       },
       "geometry": {
         "type": "Point",
@@ -269,7 +277,8 @@
         "onshore wind (nameplate capacity)": "22,296",
         "wave (nameplate capacity)": 576,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 807
+        "csp (nameplate capacity)": 807,
+        "tidal (nameplate capacity)": 161
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +308,8 @@
         "onshore wind (nameplate capacity)": "1,384",
         "wave (nameplate capacity)": 35,
         "geothermal (nameplate capacity)": 15,
-        "csp (nameplate capacity)": 119
+        "csp (nameplate capacity)": 119,
+        "tidal (nameplate capacity)": 1
       },
       "geometry": {
         "type": "Point",
@@ -329,7 +339,8 @@
         "onshore wind (nameplate capacity)": "1,656",
         "wave (nameplate capacity)": 0,
         "geothermal (nameplate capacity)": 9,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 1
       },
       "geometry": {
         "type": "Point",
@@ -359,7 +370,8 @@
         "onshore wind (nameplate capacity)": "21,191",
         "wave (nameplate capacity)": 0,
         "geothermal (nameplate capacity)": 362,
-        "csp (nameplate capacity)": "1,596"
+        "csp (nameplate capacity)": "1,596",
+        "tidal (nameplate capacity)": 20
       },
       "geometry": {
         "type": "Point",
@@ -389,7 +401,8 @@
         "onshore wind (nameplate capacity)": "21,201",
         "wave (nameplate capacity)": 0,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": "1,661"
+        "csp (nameplate capacity)": "1,661",
+        "tidal (nameplate capacity)": 8
       },
       "geometry": {
         "type": "Point",
@@ -419,7 +432,8 @@
         "onshore wind (nameplate capacity)": "7,870",
         "wave (nameplate capacity)": 243,
         "geothermal (nameplate capacity)": 300,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 120
       },
       "geometry": {
         "type": "Point",
@@ -449,7 +463,8 @@
         "onshore wind (nameplate capacity)": "17,053",
         "wave (nameplate capacity)": 511,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": "1,516"
+        "csp (nameplate capacity)": "1,516",
+        "tidal (nameplate capacity)": 6
       },
       "geometry": {
         "type": "Point",
@@ -479,7 +494,8 @@
         "onshore wind (nameplate capacity)": "8,319",
         "wave (nameplate capacity)": 47,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 271
+        "csp (nameplate capacity)": 271,
+        "tidal (nameplate capacity)": 3
       },
       "geometry": {
         "type": "Point",
@@ -509,7 +525,8 @@
         "onshore wind (nameplate capacity)": "2,262",
         "wave (nameplate capacity)": 77,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 192
+        "csp (nameplate capacity)": 192,
+        "tidal (nameplate capacity)": 3
       },
       "geometry": {
         "type": "Point",
@@ -539,7 +556,8 @@
         "onshore wind (nameplate capacity)": "24,296",
         "wave (nameplate capacity)": 764,
         "geothermal (nameplate capacity)": 151,
-        "csp (nameplate capacity)": "1,229"
+        "csp (nameplate capacity)": "1,229",
+        "tidal (nameplate capacity)": 8
       },
       "geometry": {
         "type": "Point",
@@ -568,7 +586,8 @@
         "avoided deaths": 45226,
         "wave (nameplate capacity)": 131,
         "geothermal (nameplate capacity)": 9,
-        "csp (nameplate capacity)": "2,749"
+        "csp (nameplate capacity)": "2,749",
+        "tidal (nameplate capacity)": 22
       },
       "geometry": {
         "type": "Point",
@@ -597,7 +616,8 @@
         "avoided deaths": 23665,
         "wave (nameplate capacity)": 232,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 543
+        "csp (nameplate capacity)": 543,
+        "tidal (nameplate capacity)": 22
       },
       "geometry": {
         "type": "Point",
@@ -626,7 +646,8 @@
         "avoided deaths": 467,
         "wave (nameplate capacity)": 0,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": "2,749"
+        "csp (nameplate capacity)": "2,749",
+        "tidal (nameplate capacity)": 7
       },
       "geometry": {
         "type": "Point",
@@ -655,7 +676,8 @@
         "avoided deaths": 208,
         "wave (nameplate capacity)": 223,
         "geothermal (nameplate capacity)": 276,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 110
       },
       "geometry": {
         "type": "Point",
@@ -684,7 +706,8 @@
         "avoided deaths": 594,
         "wave (nameplate capacity)": 55,
         "geothermal (nameplate capacity)": 8,
-        "csp (nameplate capacity)": 138
+        "csp (nameplate capacity)": 138,
+        "tidal (nameplate capacity)": 52
       },
       "geometry": {
         "type": "Point",
@@ -712,7 +735,8 @@
         "cost savings": 4457,
         "avoided deaths": 3628,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 638
+        "csp (nameplate capacity)": 638,
+        "tidal (nameplate capacity)": 4
       },
       "geometry": {
         "type": "Point",
@@ -740,7 +764,8 @@
         "cost savings": 7558,
         "avoided deaths": 1079,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 159
+        "csp (nameplate capacity)": 159,
+        "tidal (nameplate capacity)": 10
       },
       "geometry": {
         "type": "Point",
@@ -768,7 +793,8 @@
         "cost savings": 4457,
         "avoided deaths": 5961,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": "1,049"
+        "csp (nameplate capacity)": "1,049",
+        "tidal (nameplate capacity)": 6
       },
       "geometry": {
         "type": "Point",
@@ -796,7 +822,8 @@
         "cost savings": 12176,
         "avoided deaths": 1512,
         "geothermal (nameplate capacity)": 157,
-        "csp (nameplate capacity)": "1,281"
+        "csp (nameplate capacity)": "1,281",
+        "tidal (nameplate capacity)": 8
       },
       "geometry": {
         "type": "Point",
@@ -824,7 +851,8 @@
         "cost savings": 7121,
         "avoided deaths": 12,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 9
+        "csp (nameplate capacity)": 9,
+        "tidal (nameplate capacity)": 1
       },
       "geometry": {
         "type": "Point",
@@ -852,7 +880,8 @@
         "cost savings": 5708,
         "avoided deaths": 7193,
         "geothermal (nameplate capacity)": 324,
-        "csp (nameplate capacity)": "1,579"
+        "csp (nameplate capacity)": "1,579",
+        "tidal (nameplate capacity)": 18
       },
       "geometry": {
         "type": "Point",
@@ -880,7 +909,8 @@
         "cost savings": 5697,
         "avoided deaths": 7105,
         "geothermal (nameplate capacity)": 447,
-        "csp (nameplate capacity)": 756
+        "csp (nameplate capacity)": 756,
+        "tidal (nameplate capacity)": 12
       },
       "geometry": {
         "type": "Point",
@@ -908,7 +938,8 @@
         "cost savings": 3671,
         "avoided deaths": 18001,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 763
+        "csp (nameplate capacity)": 763,
+        "tidal (nameplate capacity)": 2
       },
       "geometry": {
         "type": "Point",
@@ -936,7 +967,8 @@
         "cost savings": 11349,
         "avoided deaths": 2871,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 4
       },
       "geometry": {
         "type": "Point",
@@ -964,7 +996,8 @@
         "cost savings": 2823,
         "avoided deaths": 12399,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 17
       },
       "geometry": {
         "type": "Point",
@@ -992,7 +1025,8 @@
         "cost savings": 10482,
         "avoided deaths": 367,
         "geothermal (nameplate capacity)": 20,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 30
       },
       "geometry": {
         "type": "Point",
@@ -1020,7 +1054,8 @@
         "cost savings": 5213,
         "avoided deaths": 25618,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 466
+        "csp (nameplate capacity)": 466,
+        "tidal (nameplate capacity)": 1
       },
       "geometry": {
         "type": "Point",
@@ -1048,7 +1083,8 @@
         "cost savings": 3938,
         "avoided deaths": 5652,
         "geothermal (nameplate capacity)": 607,
-        "csp (nameplate capacity)": 534
+        "csp (nameplate capacity)": 534,
+        "tidal (nameplate capacity)": 15
       },
       "geometry": {
         "type": "Point",
@@ -1076,7 +1112,8 @@
         "cost savings": 7707,
         "avoided deaths": 2415,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": "1,992"
       },
       "geometry": {
         "type": "Point",
@@ -1104,7 +1141,8 @@
         "cost savings": 12176,
         "avoided deaths": 2008,
         "geothermal (nameplate capacity)": 209,
-        "csp (nameplate capacity)": "1,702"
+        "csp (nameplate capacity)": "1,702",
+        "tidal (nameplate capacity)": 11
       },
       "geometry": {
         "type": "Point",
@@ -1132,7 +1170,8 @@
         "cost savings": 7121,
         "avoided deaths": 1490,
         "geothermal (nameplate capacity)": 9,
-        "csp (nameplate capacity)": "1,016"
+        "csp (nameplate capacity)": "1,016",
+        "tidal (nameplate capacity)": 174
       },
       "geometry": {
         "type": "Point",
@@ -1160,7 +1199,8 @@
         "cost savings": 6209,
         "avoided deaths": 5525,
         "geothermal (nameplate capacity)": 954,
-        "csp (nameplate capacity)": "2,144"
+        "csp (nameplate capacity)": "2,144",
+        "tidal (nameplate capacity)": 18
       },
       "geometry": {
         "type": "Point",
@@ -1188,7 +1228,8 @@
         "cost savings": 4195,
         "avoided deaths": 386,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 224
+        "csp (nameplate capacity)": 224,
+        "tidal (nameplate capacity)": 9
       },
       "geometry": {
         "type": "Point",
@@ -1216,7 +1257,8 @@
         "cost savings": 17622,
         "avoided deaths": 498,
         "geothermal (nameplate capacity)": 660,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 264
       },
       "geometry": {
         "type": "Point",
@@ -1244,7 +1286,8 @@
         "cost savings": 19571,
         "avoided deaths": 8314,
         "geothermal (nameplate capacity)": 75,
-        "csp (nameplate capacity)": 699
+        "csp (nameplate capacity)": 699,
+        "tidal (nameplate capacity)": 53
       },
       "geometry": {
         "type": "Point",
@@ -1272,7 +1315,8 @@
         "cost savings": 7076,
         "avoided deaths": 23327,
         "geothermal (nameplate capacity)": 5,
-        "csp (nameplate capacity)": "1,418"
+        "csp (nameplate capacity)": "1,418",
+        "tidal (nameplate capacity)": 11
       },
       "geometry": {
         "type": "Point",
@@ -1300,7 +1344,8 @@
         "cost savings": 1283,
         "avoided deaths": 2180,
         "geothermal (nameplate capacity)": 222,
-        "csp (nameplate capacity)": 109
+        "csp (nameplate capacity)": 109,
+        "tidal (nameplate capacity)": 2
       },
       "geometry": {
         "type": "Point",
@@ -1328,7 +1373,8 @@
         "cost savings": 12176,
         "avoided deaths": 3037,
         "geothermal (nameplate capacity)": 316,
-        "csp (nameplate capacity)": "2,573"
+        "csp (nameplate capacity)": "2,573",
+        "tidal (nameplate capacity)": 17
       },
       "geometry": {
         "type": "Point",
@@ -1356,7 +1402,8 @@
         "cost savings": 10504,
         "avoided deaths": 166,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 102
       },
       "geometry": {
         "type": "Point",
@@ -1384,7 +1431,8 @@
         "cost savings": 7121,
         "avoided deaths": 111,
         "geothermal (nameplate capacity)": 1,
-        "csp (nameplate capacity)": 76
+        "csp (nameplate capacity)": 76,
+        "tidal (nameplate capacity)": 13
       },
       "geometry": {
         "type": "Point",
@@ -1412,7 +1460,8 @@
         "cost savings": 6418,
         "avoided deaths": 1952,
         "geothermal (nameplate capacity)": 6,
-        "csp (nameplate capacity)": 836
+        "csp (nameplate capacity)": 836,
+        "tidal (nameplate capacity)": 185
       },
       "geometry": {
         "type": "Point",
@@ -1440,7 +1489,8 @@
         "cost savings": 16779,
         "avoided deaths": 320,
         "geothermal (nameplate capacity)": 42,
-        "csp (nameplate capacity)": 857
+        "csp (nameplate capacity)": 857,
+        "tidal (nameplate capacity)": 53
       },
       "geometry": {
         "type": "Point",
@@ -1468,7 +1518,8 @@
         "cost savings": 12176,
         "avoided deaths": 981,
         "geothermal (nameplate capacity)": 102,
-        "csp (nameplate capacity)": 831
+        "csp (nameplate capacity)": 831,
+        "tidal (nameplate capacity)": 5
       },
       "geometry": {
         "type": "Point",
@@ -1496,7 +1547,8 @@
         "cost savings": 12176,
         "avoided deaths": 1027,
         "geothermal (nameplate capacity)": 107,
-        "csp (nameplate capacity)": 870
+        "csp (nameplate capacity)": 870,
+        "tidal (nameplate capacity)": 6
       },
       "geometry": {
         "type": "Point",
@@ -1524,7 +1576,8 @@
         "cost savings": 4592,
         "avoided deaths": 4960,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 15
+        "csp (nameplate capacity)": 15,
+        "tidal (nameplate capacity)": 132
       },
       "geometry": {
         "type": "Point",
@@ -1552,7 +1605,8 @@
         "cost savings": 4784,
         "avoided deaths": 3519,
         "geothermal (nameplate capacity)": 159,
-        "csp (nameplate capacity)": 91
+        "csp (nameplate capacity)": 91,
+        "tidal (nameplate capacity)": 14
       },
       "geometry": {
         "type": "Point",
@@ -1580,7 +1634,8 @@
         "cost savings": 3965,
         "avoided deaths": 5418,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": "2,473"
+        "csp (nameplate capacity)": "2,473",
+        "tidal (nameplate capacity)": 22
       },
       "geometry": {
         "type": "Point",
@@ -1608,7 +1663,8 @@
         "cost savings": 9083,
         "avoided deaths": 1505,
         "geothermal (nameplate capacity)": 83,
-        "csp (nameplate capacity)": 650
+        "csp (nameplate capacity)": 650,
+        "tidal (nameplate capacity)": 6
       },
       "geometry": {
         "type": "Point",
@@ -1636,7 +1692,8 @@
         "cost savings": 2741,
         "avoided deaths": 323,
         "geothermal (nameplate capacity)": 34,
-        "csp (nameplate capacity)": 274
+        "csp (nameplate capacity)": 274,
+        "tidal (nameplate capacity)": 2
       },
       "geometry": {
         "type": "Point",
@@ -1664,7 +1721,8 @@
         "cost savings": 12176,
         "avoided deaths": 324,
         "geothermal (nameplate capacity)": 383,
-        "csp (nameplate capacity)": 57
+        "csp (nameplate capacity)": 57,
+        "tidal (nameplate capacity)": 8
       },
       "geometry": {
         "type": "Point",
@@ -1692,7 +1750,8 @@
         "cost savings": 7668,
         "avoided deaths": 1789,
         "geothermal (nameplate capacity)": 708,
-        "csp (nameplate capacity)": "1,074"
+        "csp (nameplate capacity)": "1,074",
+        "tidal (nameplate capacity)": 43
       },
       "geometry": {
         "type": "Point",
@@ -1720,7 +1779,8 @@
         "cost savings": 3965,
         "avoided deaths": 5659,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": "2,583"
+        "csp (nameplate capacity)": "2,583",
+        "tidal (nameplate capacity)": 23
       },
       "geometry": {
         "type": "Point",
@@ -1748,7 +1808,8 @@
         "cost savings": 16234,
         "avoided deaths": 2104,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": "3,508"
+        "csp (nameplate capacity)": "3,508",
+        "tidal (nameplate capacity)": 234
       },
       "geometry": {
         "type": "Point",
@@ -1776,7 +1837,8 @@
         "cost savings": 14704,
         "avoided deaths": 38532,
         "geothermal (nameplate capacity)": 66,
-        "csp (nameplate capacity)": "7,478"
+        "csp (nameplate capacity)": "7,478",
+        "tidal (nameplate capacity)": 71
       },
       "geometry": {
         "type": "Point",
@@ -1804,7 +1866,8 @@
         "cost savings": 4844,
         "avoided deaths": 1025,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 152
+        "csp (nameplate capacity)": 152,
+        "tidal (nameplate capacity)": 0
       },
       "geometry": {
         "type": "Point",
@@ -1832,7 +1895,8 @@
         "cost savings": 11811,
         "avoided deaths": 2583,
         "geothermal (nameplate capacity)": 1,
-        "csp (nameplate capacity)": "1,939"
+        "csp (nameplate capacity)": "1,939",
+        "tidal (nameplate capacity)": 4
       },
       "geometry": {
         "type": "Point",
@@ -1860,7 +1924,8 @@
         "cost savings": 10482,
         "avoided deaths": 10699,
         "geothermal (nameplate capacity)": 575,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 866
       },
       "geometry": {
         "type": "Point",
@@ -1888,7 +1953,8 @@
         "cost savings": 17622,
         "avoided deaths": 792,
         "geothermal (nameplate capacity)": "1,050",
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 420
       },
       "geometry": {
         "type": "Point",
@@ -1916,7 +1982,8 @@
         "cost savings": 12152,
         "avoided deaths": 1713,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 0
       },
       "geometry": {
         "type": "Point",
@@ -1944,7 +2011,8 @@
         "cost savings": 17622,
         "avoided deaths": 325,
         "geothermal (nameplate capacity)": 432,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 173
       },
       "geometry": {
         "type": "Point",
@@ -1972,7 +2040,8 @@
         "cost savings": 11953,
         "avoided deaths": 584,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 0
       },
       "geometry": {
         "type": "Point",
@@ -2000,7 +2069,8 @@
         "cost savings": 3228,
         "avoided deaths": 5704,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 128
+        "csp (nameplate capacity)": 128,
+        "tidal (nameplate capacity)": 23
       },
       "geometry": {
         "type": "Point",
@@ -2028,7 +2098,8 @@
         "cost savings": 14704,
         "avoided deaths": 560,
         "geothermal (nameplate capacity)": 1,
-        "csp (nameplate capacity)": 109
+        "csp (nameplate capacity)": 109,
+        "tidal (nameplate capacity)": 1
       },
       "geometry": {
         "type": "Point",
@@ -2056,7 +2127,8 @@
         "cost savings": 7090,
         "avoided deaths": 269,
         "geothermal (nameplate capacity)": 0,
-        "csp (nameplate capacity)": 0
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 0
       },
       "geometry": {
         "type": "Point",
@@ -2646,7 +2718,8 @@
         "cost savings": 14704,
         "avoided deaths": 16996,
         "geothermal (nameplate capacity)": 29,
-        "csp (nameplate capacity)": "3,299"
+        "csp (nameplate capacity)": "3,299",
+        "tidal (nameplate capacity)": 31
       },
       "geometry": {
         "type": "Point",
@@ -2664,7 +2737,8 @@
         "cost savings": 16779,
         "avoided deaths": 705,
         "geothermal (nameplate capacity)": 93,
-        "csp (nameplate capacity)": "1,886"
+        "csp (nameplate capacity)": "1,886",
+        "tidal (nameplate capacity)": 116
       },
       "geometry": {
         "type": "Point",
