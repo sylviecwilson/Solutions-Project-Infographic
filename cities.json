@@ -17,7 +17,8 @@
         "utility pv": 10.99,
         "csp": 4.62,
         "cost savings": 3102,
-        "avoided deaths": 7658
+        "avoided deaths": 7658,
+        "onshore wind (nameplate capacity)": "3,154"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +44,8 @@
         "utility pv": 18.45,
         "csp": 4.2,
         "cost savings": 971,
-        "avoided deaths": 4556
+        "avoided deaths": 4556,
+        "onshore wind (nameplate capacity)": 560
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +71,8 @@
         "utility pv": 16.13,
         "csp": 4.15,
         "cost savings": 5708,
-        "avoided deaths": 2265
+        "avoided deaths": 2265,
+        "onshore wind (nameplate capacity)": "6,043"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +98,8 @@
         "utility pv": 10.38,
         "csp": 3.79,
         "cost savings": 9513,
-        "avoided deaths": 201
+        "avoided deaths": 201,
+        "onshore wind (nameplate capacity)": "6,637"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +125,8 @@
         "utility pv": 20.04,
         "csp": 4.78,
         "cost savings": 5980,
-        "avoided deaths": 2227
+        "avoided deaths": 2227,
+        "onshore wind (nameplate capacity)": "4,946"
       },
       "geometry": {
         "type": "Point",
@@ -147,7 +152,8 @@
         "utility pv": 33.18,
         "csp": 4.93,
         "cost savings": 10756,
-        "avoided deaths": 8582
+        "avoided deaths": 8582,
+        "onshore wind (nameplate capacity)": "5,330"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +179,8 @@
         "utility pv": 14.29,
         "csp": 4.68,
         "cost savings": 14704,
-        "avoided deaths": 30092
+        "avoided deaths": 30092,
+        "onshore wind (nameplate capacity)": "55,741"
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +206,8 @@
         "utility pv": 20.42,
         "csp": 0,
         "cost savings": 13365,
-        "avoided deaths": 1031
+        "avoided deaths": 1031,
+        "onshore wind (nameplate capacity)": "8,598"
       },
       "geometry": {
         "type": "Point",
@@ -225,7 +233,8 @@
         "utility pv": 8.83,
         "csp": 4.03,
         "cost savings": 3054,
-        "avoided deaths": 3775
+        "avoided deaths": 3775,
+        "onshore wind (nameplate capacity)": "22,296"
       },
       "geometry": {
         "type": "Point",
@@ -251,7 +260,8 @@
         "utility pv": 13.97,
         "csp": 4.54,
         "cost savings": 9083,
-        "avoided deaths": 275
+        "avoided deaths": 275,
+        "onshore wind (nameplate capacity)": "1,384"
       },
       "geometry": {
         "type": "Point",
@@ -277,7 +287,8 @@
         "utility pv": 12.03,
         "csp": 0,
         "cost savings": 12015,
-        "avoided deaths": 1154
+        "avoided deaths": 1154,
+        "onshore wind (nameplate capacity)": "1,656"
       },
       "geometry": {
         "type": "Point",
@@ -303,7 +314,8 @@
         "utility pv": 9.95,
         "csp": 4.53,
         "cost savings": 7007,
-        "avoided deaths": 4353
+        "avoided deaths": 4353,
+        "onshore wind (nameplate capacity)": "21,191"
       },
       "geometry": {
         "type": "Point",
@@ -329,7 +341,8 @@
         "utility pv": 10.8,
         "csp": 4.92,
         "cost savings": 5512,
-        "avoided deaths": 14588
+        "avoided deaths": 14588,
+        "onshore wind (nameplate capacity)": "21,201"
       },
       "geometry": {
         "type": "Point",
@@ -355,7 +368,8 @@
         "utility pv": 8.87,
         "csp": 0,
         "cost savings": 17622,
-        "avoided deaths": 226
+        "avoided deaths": 226,
+        "onshore wind (nameplate capacity)": "7,870"
       },
       "geometry": {
         "type": "Point",
@@ -381,7 +395,8 @@
         "utility pv": 13.7,
         "csp": 4.93,
         "cost savings": 15630,
-        "avoided deaths": 2757
+        "avoided deaths": 2757,
+        "onshore wind (nameplate capacity)": "17,053"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +422,8 @@
         "utility pv": 9.22,
         "csp": 4.2,
         "cost savings": 5503,
-        "avoided deaths": 550
+        "avoided deaths": 550,
+        "onshore wind (nameplate capacity)": "8,319"
       },
       "geometry": {
         "type": "Point",
@@ -433,7 +449,8 @@
         "utility pv": 10.53,
         "csp": 4.8,
         "cost savings": 3395,
-        "avoided deaths": 1145
+        "avoided deaths": 1145,
+        "onshore wind (nameplate capacity)": "2,262"
       },
       "geometry": {
         "type": "Point",
