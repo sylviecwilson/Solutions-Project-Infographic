@@ -4,7 +4,7 @@
 
   <head>
     <meta charset="UTF-8">
-    <title>Solutions Project Infographic</title>
+    <title>100% Wind-Water-Solar Roadmaps Infographic</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script src="Marker Clusterer/markerclusterer.js"></script>
@@ -201,10 +201,19 @@
         <h3><span id="locationCountry"></span> </h3>
         <h3 style="text-align: left; margin-left: 10px;">100% Wind-Water-Solar (WWS) Energy Mix</h3>
         <div id="piechart" style="width: 450px; height: 300px;"></div>
-        <h2 style="text-align: left; margin-left: 10px;">Jobs Created </h2>
-        <h2 style="text-align: left; margin-left: 10px;">Energy Cost Savings Per Person</h2>
+        <h3 style="text-align: left; margin-left: 10px;">100% Wind-Water-Solar (WWS) Energy Mix in terms of Nameplate Capacity</h3>
+        <h3 style="text-align: left; margin-left: 10px;">Total Associated Costs</h3>
+        <h3 style="text-align: left; margin-left: 10px;">End-Use Energy Consumption</h3>
+        <h3 style="text-align: left; margin-left: 10px;">Jobs Created </h3>
+        <h3 style="text-align: left; margin-left: 10px; margin-right: 10px; ">2050 Average Energy, Health, and Climate Costs Savings from WWS</h3>
+        <h2>$<div id="costSavings" style="display: inline-block;"></div> per year</h2>
+        <h3 style="text-align: left; margin-left: 10px;">2050 Pollution Mortality Reduction</h3>
+        <h2><div id="avoided deaths" style="display: inline-block;"></div> deaths avoided per year</h2>
+
 
         <div>
+          <br>
+          <br>
           <br>
           <h2> Additional Information</h2>
           <p style="text-align: justify; margin-left:15px; margin-right:15px;">
@@ -218,7 +227,7 @@
         </p>
         <div class="button_cont" align="center"><a class="example_c" href="https://web.stanford.edu/group/efmh/jacobson/WWSBook/WWSBook.html" target="_blank" rel="nofollow noopener">Textbook</a></div>
         <br>
-        <h2>Developer Organizations</h2>
+        <h3>Developer Organizations</h3>
         <br>
         <div><img src = "Images /Stanford AE Logo.png" alt="AE Logo" style="width:150px"></div>
         <br>
@@ -295,8 +304,9 @@
 
         // Style the country layer
         countryLayer.setStyle({
-          fillColor: "yellowgreen",
-          strokeWeight: 0,
+          fillOpacity: 0.5,
+          fillColor: "#b3995d",
+          strokeWeight: 0
         });
 
 
@@ -304,7 +314,10 @@
         countryLayer.addListener("mouseover", function(event) {
           countryLayer.revertStyle();
           countryLayer.overrideStyle(event.feature, {
-            fillColor: "#175e54",
+            fillColor: "#8c1515",
+            strokeColor: "white",
+            strokeWeight: 1,
+            fillOpacity: 0.7
           });
         });
 
@@ -323,15 +336,19 @@
 
         // Style the state layer
         stateLayer.setStyle({
-          fillColor: "yellowgreen",
-          strokeWeight: 0,
+          fillOpacity: 0.5,
+          fillColor: "#b3995d",
+          strokeWeight: 0
         });
 
         // Mouseover event for different countries
         stateLayer.addListener("mouseover", function(event) {
           stateLayer.revertStyle();
           stateLayer.overrideStyle(event.feature, {
-            fillColor: "#175e54",
+            fillColor: "#8c1515",
+            strokeColor: "white",
+            strokeWeight: 1,
+            fillOpacity: 0.8
           });
         });
 
@@ -366,15 +383,21 @@
           var govPV = event.feature.getProperty('gov pv');
           var utilityPV = event.feature.getProperty('utility pv');
           var concSolar = event.feature.getProperty('csp');
+          var costSavings = event.feature.getProperty('cost savings');
+          var avoidedDeaths = event.feature.getProperty('avoided deaths');
+
+
 
           document.getElementById('locationName').textContent = cityName;
           document.getElementById('locationCountry').textContent = countryName;
+          document.getElementById('costSavings').textContent = costSavings;
+          document.getElementById('avoided deaths').textContent = avoidedDeaths;
 
 
           google.charts.load('current', {'packages':['corechart']});
-          google.charts.setOnLoadCallback(drawCityGraph);
+          google.charts.setOnLoadCallback(drawCityEnergyPie);
 
-          function drawCityGraph() {
+          function drawCityEnergyPie() {
 
             var data = google.visualization.arrayToDataTable([
               ['Energy Source', 'Usage Percent'],
@@ -459,125 +482,125 @@
 
         //Styled Map imported from snazzymaps.com
         var styledMapType = new google.maps.StyledMapType(
-          [
-{
-"featureType": "administrative",
-"elementType": "labels.text.fill",
-"stylers": [
-  {
-      "color": "#000000"
-  },
-  {
-      "visibility": "on"
-  },
-  {
-      "saturation": "100"
-  },
-  {
-      "gamma": "4.76"
-  }
-]
-},
-{
-"featureType": "administrative",
-"elementType": "labels.text.stroke",
-"stylers": [
-  {
-      "visibility": "off"
-  },
-  {
-      "color": "black"
-  }
-]
-},
-{
-"featureType": "landscape",
-"elementType": "all",
-"stylers": [
-  {
-      "color": "#dacfc0"
-  },
-  {
-      "saturation": "24"
-  },
-  {
-      "gamma": "3.65"
-  }
-]
-},
-{
-"featureType": "poi",
-"elementType": "all",
-"stylers": [
-  {
-      "visibility": "off"
-  }
-]
-},
-{
-"featureType": "road",
-"elementType": "all",
-"stylers": [
-  {
-      "saturation": -100
-  },
-  {
-      "lightness": 45
-  },
-  {
-      "visibility": "off"
-  }
-]
-},
-{
-"featureType": "road.highway",
-"elementType": "all",
-"stylers": [
-  {
-      "visibility": "off"
-  }
-]
-},
-{
-"featureType": "road.arterial",
-"elementType": "labels.icon",
-"stylers": [
-  {
-      "visibility": "off"
-  }
-]
-},
-{
-"featureType": "transit",
-"elementType": "all",
-"stylers": [
-  {
-      "visibility": "off"
-  }
-]
-},
-{
-"featureType": "water",
-"elementType": "all",
-"stylers": [
-  {
-      "color": "#7ec0c7"
-  },
-  {
-      "visibility": "on"
-  },
-  {
-      "lightness": "0"
-  },
-  {
-      "saturation": "-75"
-  },
-  {
-      "gamma": "1.08"
-  }
-]
-}
-]
+                    [
+          {
+          "featureType": "administrative",
+          "elementType": "labels.text.fill",
+          "stylers": [
+            {
+                "color": "#000000"
+            },
+            {
+                "visibility": "on"
+            },
+            {
+                "saturation": "100"
+            },
+            {
+                "gamma": "4.76"
+            }
+          ]
+          },
+          {
+          "featureType": "administrative",
+          "elementType": "labels.text.stroke",
+          "stylers": [
+            {
+                "visibility": "off"
+            },
+            {
+                "color": "black"
+            }
+          ]
+          },
+          {
+          "featureType": "landscape",
+          "elementType": "all",
+          "stylers": [
+            {
+                "color": "#dacfc0"
+            },
+            {
+                "saturation": "24"
+            },
+            {
+                "gamma": "3.65"
+            }
+          ]
+          },
+          {
+          "featureType": "poi",
+          "elementType": "all",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "road",
+          "elementType": "all",
+          "stylers": [
+            {
+                "saturation": -100
+            },
+            {
+                "lightness": 45
+            },
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "road.highway",
+          "elementType": "all",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "road.arterial",
+          "elementType": "labels.icon",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "transit",
+          "elementType": "all",
+          "stylers": [
+            {
+                "visibility": "off"
+            }
+          ]
+          },
+          {
+          "featureType": "water",
+          "elementType": "all",
+          "stylers": [
+            {
+                "color": "#7ec0c7"
+            },
+            {
+                "visibility": "on"
+            },
+            {
+                "lightness": "0"
+            },
+            {
+                "saturation": "-75"
+            },
+            {
+                "gamma": "1.08"
+            }
+          ]
+          }
+          ]
         );
 
           map.mapTypes.set("styled_map", styledMapType);

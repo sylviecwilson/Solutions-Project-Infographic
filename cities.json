@@ -25,6 +25,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 0.7,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -80.4,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -97.2
+        "onshore wind (nameplate capacity)": 3154,
+        "offshore wind (nameplate capacity)": 552,
+        "wave (nameplate capacity)": 100,
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 129,
+        "tidal (nameplate capacity)": 3
       },
       "geometry": {
         "type": "Point",
@@ -58,6 +64,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 0.4,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -73.4,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -95.5
+        "onshore wind (nameplate capacity)": 560,
+        "offshore wind (nameplate capacity)": 0,
+        "wave (nameplate capacity)": 0,
+        "geothermal (nameplate capacity)": 51,
+        "csp (nameplate capacity)": 49,
+        "tidal (nameplate capacity)": 0
       },
       "geometry": {
         "type": "Point",
@@ -91,6 +103,13 @@
         "2050 WWS energy and total social cost ($bil/yr)": 4.4,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -61.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -91.3
+
+        "onshore wind (nameplate capacity)": "6,043",
+        "offshore wind (nameplate capacity)": 356,
+        "wave (nameplate capacity)": 0,
+        "geothermal (nameplate capacity)": 102,
+        "csp (nameplate capacity)": 497,
+        "tidal (nameplate capacity)": 6
       },
       "geometry": {
         "type": "Point",
@@ -124,6 +143,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 5.4,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -54.1,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -80.5
+        "onshore wind (nameplate capacity)": 6637,
+        "offshore wind (nameplate capacity)": 1985,
+        "wave (nameplate capacity)": 187,
+        "geothermal (nameplate capacity)": 907,
+        "csp (nameplate capacity)": 656,
+        "tidal (nameplate capacity)": 91
       },
       "geometry": {
         "type": "Point",
@@ -157,6 +182,13 @@
         "2050 WWS energy and total social cost ($bil/yr)": 2.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -69.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -95.4
+
+        "onshore wind (nameplate capacity)": 4946,
+        "offshore wind (nameplate capacity)": 233,
+        "wave (nameplate capacity)": 0,
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 378,
+        "tidal (nameplate capacity)": 1
       },
       "geometry": {
         "type": "Point",
@@ -190,6 +222,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 28.1,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -56.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -86.6
+        "onshore wind (nameplate capacity)": 5330,
+        "offshore wind (nameplate capacity)": 17497,
+        "wave (nameplate capacity)": 0,
+        "geothermal (nameplate capacity)": 29,
+        "csp (nameplate capacity)": "2,772",
+        "tidal (nameplate capacity)": 10
       },
       "geometry": {
         "type": "Point",
@@ -223,6 +261,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 46.2,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -59.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -92
+        "onshore wind (nameplate capacity)": 55741,
+        "offshore wind (nameplate capacity)": 24851,
+        "wave (nameplate capacity)": 231,
+        "geothermal (nameplate capacity)": 51,
+        "csp (nameplate capacity)": "5,840",
+        "tidal (nameplate capacity)": 55
       },
       "geometry": {
         "type": "Point",
@@ -256,6 +300,13 @@
         "2050 WWS energy and total social cost ($bil/yr)": 6.4,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -66,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -89
+
+        "onshore wind (nameplate capacity)": 8598,
+        "offshore wind (nameplate capacity)": 4094,
+        "wave (nameplate capacity)": 61,
+        "geothermal (nameplate capacity)": 2,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 2
       },
       "geometry": {
         "type": "Point",
@@ -289,6 +340,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 6.3,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -65.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -89.7
+        "onshore wind (nameplate capacity)": 22296,
+        "wave (nameplate capacity)": 576,
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 807,
+        "tidal (nameplate capacity)": 161,
+        "offshore wind (nameplate capacity)": 3239
       },
       "geometry": {
         "type": "Point",
@@ -322,6 +379,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 0.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -71.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -90.2
+        "onshore wind (nameplate capacity)": 1384,
+        "wave (nameplate capacity)": 35,
+        "geothermal (nameplate capacity)": 15,
+        "csp (nameplate capacity)": 119,
+        "tidal (nameplate capacity)": 1,
+        "offshore wind (nameplate capacity)": 505
       },
       "geometry": {
         "type": "Point",
@@ -355,6 +418,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1.2,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -67.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -94.3
+        "onshore wind (nameplate capacity)": 1656,
+        "wave (nameplate capacity)": 0,
+        "geothermal (nameplate capacity)": 9,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 1,
+        "offshore wind (nameplate capacity)": 518
       },
       "geometry": {
         "type": "Point",
@@ -388,6 +457,13 @@
         "2050 WWS energy and total social cost ($bil/yr)": 19.8,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -62.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -87.2
+
+        "onshore wind (nameplate capacity)": 21191,
+        "wave (nameplate capacity)": 0,
+        "geothermal (nameplate capacity)": 362,
+        "csp (nameplate capacity)": "1,596",
+        "tidal (nameplate capacity)": 20,
+        "offshore wind (nameplate capacity)": 5057
       },
       "geometry": {
         "type": "Point",
@@ -421,6 +497,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 15.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.2,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -91.7
+        "onshore wind (nameplate capacity)": 21201,
+        "wave (nameplate capacity)": 0,
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": "1,661",
+        "tidal (nameplate capacity)": 8,
+        "offshore wind (nameplate capacity)": 5899
       },
       "geometry": {
         "type": "Point",
@@ -454,6 +536,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 5.6,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -88.6
+        "onshore wind (nameplate capacity)": 7870,
+        "wave (nameplate capacity)": 243,
+        "geothermal (nameplate capacity)": 300,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 120,
+        "offshore wind (nameplate capacity)": 1992
       },
       "geometry": {
         "type": "Point",
@@ -487,6 +575,13 @@
         "2050 WWS energy and total social cost ($bil/yr)": 12.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -56.7,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -90.1
+
+        "onshore wind (nameplate capacity)": 17053,
+        "wave (nameplate capacity)": 511,
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": "1,516",
+        "tidal (nameplate capacity)": 6,
+        "offshore wind (nameplate capacity)": 5173
       },
       "geometry": {
         "type": "Point",
@@ -520,6 +615,13 @@
         "2050 WWS energy and total social cost ($bil/yr)": 2,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -61.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -89.4
+
+        "onshore wind (nameplate capacity)": 8319,
+        "wave (nameplate capacity)": 47,
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 271,
+        "tidal (nameplate capacity)": 3,
+        "offshore wind (nameplate capacity)": 1064
       },
       "geometry": {
         "type": "Point",
@@ -553,6 +655,13 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1.7,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -62.2,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -90.5
+
+        "onshore wind (nameplate capacity)": 2262,
+        "wave (nameplate capacity)": 77,
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 192,
+        "tidal (nameplate capacity)": 3,
+        "offshore wind (nameplate capacity)": 542
       },
       "geometry": {
         "type": "Point",
@@ -586,6 +695,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 17.8,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -87
+        "onshore wind (nameplate capacity)": 24296,
+        "wave (nameplate capacity)": 764,
+        "geothermal (nameplate capacity)": 151,
+        "csp (nameplate capacity)": "1,229",
+        "tidal (nameplate capacity)": 8,
+        "offshore wind (nameplate capacity)": 10131
       },
       "geometry": {
         "type": "Point",
@@ -619,6 +734,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 25.6,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -47.4,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -93.5
+        "wave (nameplate capacity)": 131,
+        "geothermal (nameplate capacity)": 9,
+        "csp (nameplate capacity)": "2,749",
+        "tidal (nameplate capacity)": 22,
+        "onshore wind (nameplate capacity)": 28426,
+        "offshore wind (nameplate capacity)": 5060
       },
       "geometry": {
         "type": "Point",
@@ -652,6 +773,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 3.7,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -67.7,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -96.1
+        "wave (nameplate capacity)": 232,
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 543,
+        "tidal (nameplate capacity)": 22,
+        "onshore wind (nameplate capacity)": 872,
+        "offshore wind (nameplate capacity)": 1919
       },
       "geometry": {
         "type": "Point",
@@ -685,6 +812,13 @@
         "2050 WWS energy and total social cost ($bil/yr)": 23.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -62,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -82.7
+        "wave (nameplate capacity)": 0,
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": "2,749",
+        "tidal (nameplate capacity)": 7,
+        "onshore wind (nameplate capacity)": 4895,
+        "offshore wind (nameplate capacity)": 9232
+ 
       },
       "geometry": {
         "type": "Point",
@@ -718,6 +852,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 5.2,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -88.6
+        "wave (nameplate capacity)": 223,
+        "geothermal (nameplate capacity)": 276,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 110,
+        "onshore wind (nameplate capacity)": 7225,
+        "offshore wind (nameplate capacity)": 1829
       },
       "geometry": {
         "type": "Point",
@@ -751,6 +891,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1.5,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -65.1,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -90
+        "wave (nameplate capacity)": 55,
+        "geothermal (nameplate capacity)": 8,
+        "csp (nameplate capacity)": 138,
+        "tidal (nameplate capacity)": 52,
+        "onshore wind (nameplate capacity)": 4715,
+        "offshore wind (nameplate capacity)": 356
       },
       "geometry": {
         "type": "Point",
@@ -784,6 +930,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 7.5,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -31.6,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -84.5
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 638,
+        "tidal (nameplate capacity)": 4,
+        "onshore wind (nameplate capacity)": 178,
+        "offshore wind (nameplate capacity)": 5886
       },
       "geometry": {
         "type": "Point",
@@ -817,6 +968,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -44,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -89.1
+
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 159,
+        "tidal (nameplate capacity)": 10,
+        "onshore wind (nameplate capacity)": 2308,
+        "offshore wind (nameplate capacity)": 607
       },
       "geometry": {
         "type": "Point",
@@ -850,6 +1007,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 12.3,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -31.6,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -84.5
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": "1,049",
+        "tidal (nameplate capacity)": 6,
+        "onshore wind (nameplate capacity)": 293,
+        "offshore wind (nameplate capacity)": 9672
       },
       "geometry": {
         "type": "Point",
@@ -883,6 +1045,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 18.5,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -87
+        "geothermal (nameplate capacity)": 157,
+        "csp (nameplate capacity)": "1,281",
+        "tidal (nameplate capacity)": 8,
+        "onshore wind (nameplate capacity)": 25332,
+        "offshore wind (nameplate capacity)": 10563
       },
       "geometry": {
         "type": "Point",
@@ -916,6 +1083,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 0.1,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68.8,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -88.4
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 9,
+        "tidal (nameplate capacity)": 1,
+        "onshore wind (nameplate capacity)": 105,
+        "offshore wind (nameplate capacity)": 28
       },
       "geometry": {
         "type": "Point",
@@ -949,6 +1121,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 13.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -61.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -91.3
+        "geothermal (nameplate capacity)": 324,
+        "csp (nameplate capacity)": "1,579",
+        "tidal (nameplate capacity)": 18,
+        "onshore wind (nameplate capacity)": 19190,
+        "offshore wind (nameplate capacity)": 1131
       },
       "geometry": {
         "type": "Point",
@@ -982,6 +1159,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 7.2,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -59.4,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -91.8
+        "geothermal (nameplate capacity)": 447,
+        "csp (nameplate capacity)": 756,
+        "tidal (nameplate capacity)": 12,
+        "onshore wind (nameplate capacity)": 8967,
+        "offshore wind (nameplate capacity)": 4645
       },
       "geometry": {
         "type": "Point",
@@ -1015,6 +1197,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 5.6,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.9,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -94.3
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 763,
+        "tidal (nameplate capacity)": 2,
+        "onshore wind (nameplate capacity)": 5030,
+        "offshore wind (nameplate capacity)": 2067
       },
       "geometry": {
         "type": "Point",
@@ -1048,6 +1235,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 3.6,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -91.9
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 4,
+        "onshore wind (nameplate capacity)": 5066,
+        "offshore wind (nameplate capacity)": 1697
       },
       "geometry": {
         "type": "Point",
@@ -1081,6 +1273,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1.8,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -82.9,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -97.7
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 17,
+        "onshore wind (nameplate capacity)": 11970,
+        "offshore wind (nameplate capacity)": 2507
       },
       "geometry": {
         "type": "Point",
@@ -1114,6 +1311,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 2.1,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -56.8,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -88.1
+
+        "geothermal (nameplate capacity)": 20,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 30,
+        "onshore wind (nameplate capacity)": 735,
+        "offshore wind (nameplate capacity)": 1907
       },
       "geometry": {
         "type": "Point",
@@ -1147,6 +1350,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 2.6,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -83.9,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -98
+
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 466,
+        "tidal (nameplate capacity)": 1,
+        "onshore wind (nameplate capacity)": 2405,
+        "offshore wind (nameplate capacity)": 0
       },
       "geometry": {
         "type": "Point",
@@ -1180,6 +1389,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 5.6,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -65.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -91.8
+        "geothermal (nameplate capacity)": 607,
+        "csp (nameplate capacity)": 534,
+        "tidal (nameplate capacity)": 15,
+        "onshore wind (nameplate capacity)": 17372,
+        "offshore wind (nameplate capacity)": 9
       },
       "geometry": {
         "type": "Point",
@@ -1213,6 +1427,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 11.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -70.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -89
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": "1,992",
+        "onshore wind (nameplate capacity)": 8274,
+        "offshore wind (nameplate capacity)": 12445
       },
       "geometry": {
         "type": "Point",
@@ -1246,6 +1465,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 24.6,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -87
+
+        "geothermal (nameplate capacity)": 209,
+        "csp (nameplate capacity)": "1,702",
+        "tidal (nameplate capacity)": 11,
+        "onshore wind (nameplate capacity)": 33649,
+        "offshore wind (nameplate capacity)": 14031
       },
       "geometry": {
         "type": "Point",
@@ -1279,6 +1504,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 8.5,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68.8,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -88.4
+        "geothermal (nameplate capacity)": 9,
+        "csp (nameplate capacity)": "1,016",
+        "tidal (nameplate capacity)": 174,
+        "onshore wind (nameplate capacity)": 12510,
+        "offshore wind (nameplate capacity)": 3386
       },
       "geometry": {
         "type": "Point",
@@ -1312,6 +1542,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 20.2,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -64.4,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -89.3
+        "geothermal (nameplate capacity)": 954,
+        "csp (nameplate capacity)": "2,144",
+        "tidal (nameplate capacity)": 18,
+        "onshore wind (nameplate capacity)": 39253,
+        "offshore wind (nameplate capacity)": 8745
       },
       "geometry": {
         "type": "Point",
@@ -1345,6 +1580,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 2.6,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -43.7,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -76.3
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 224,
+        "tidal (nameplate capacity)": 9,
+        "onshore wind (nameplate capacity)": 3627,
+        "offshore wind (nameplate capacity)": 663
       },
       "geometry": {
         "type": "Point",
@@ -1378,6 +1618,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 12.3,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -88.6
+        "geothermal (nameplate capacity)": 660,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 264,
+        "onshore wind (nameplate capacity)": 17294,
+        "offshore wind (nameplate capacity)": 4378
       },
       "geometry": {
         "type": "Point",
@@ -1411,6 +1656,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 23.8,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -76,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -93.1
+        "geothermal (nameplate capacity)": 75,
+        "csp (nameplate capacity)": 699,
+        "tidal (nameplate capacity)": 53,
+        "onshore wind (nameplate capacity)": 37306,
+        "offshore wind (nameplate capacity)": 11307
       },
       "geometry": {
         "type": "Point",
@@ -1444,6 +1694,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 13.2,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -47.4,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -93.5
+        "geothermal (nameplate capacity)": 5,
+        "csp (nameplate capacity)": "1,418",
+        "tidal (nameplate capacity)": 11,
+        "onshore wind (nameplate capacity)": 14662,
+        "offshore wind (nameplate capacity)": 2610
       },
       "geometry": {
         "type": "Point",
@@ -1477,6 +1732,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 0.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -78.1,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -92.3
+        "geothermal (nameplate capacity)": 222,
+        "csp (nameplate capacity)": 109,
+        "tidal (nameplate capacity)": 2,
+        "onshore wind (nameplate capacity)": 1762,
+        "offshore wind (nameplate capacity)": 410
       },
       "geometry": {
         "type": "Point",
@@ -1510,6 +1770,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 37.2,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -87
+        "geothermal (nameplate capacity)": 316,
+        "csp (nameplate capacity)": "2,573",
+        "tidal (nameplate capacity)": 17,
+        "onshore wind (nameplate capacity)": 50875,
+        "offshore wind (nameplate capacity)": 21214
       },
       "geometry": {
         "type": "Point",
@@ -1543,6 +1808,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 3.8,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -52.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -80.1
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 102,
+        "onshore wind (nameplate capacity)": 2073,
+        "offshore wind (nameplate capacity)": 786
       },
       "geometry": {
         "type": "Point",
@@ -1576,6 +1846,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 0.6,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68.8,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -88.4
+        "geothermal (nameplate capacity)": 1,
+        "csp (nameplate capacity)": 76,
+        "tidal (nameplate capacity)": 13,
+        "onshore wind (nameplate capacity)": 931,
+        "offshore wind (nameplate capacity)": 252
       },
       "geometry": {
         "type": "Point",
@@ -1609,6 +1884,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 15.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -58.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -83.9
+        "geothermal (nameplate capacity)": 6,
+        "csp (nameplate capacity)": 836,
+        "tidal (nameplate capacity)": 185,
+        "onshore wind (nameplate capacity)": 21520,
+        "offshore wind (nameplate capacity)": 6565
       },
       "geometry": {
         "type": "Point",
@@ -1642,6 +1922,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 7.8,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -61.9,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -86.8
+        "geothermal (nameplate capacity)": 42,
+        "csp (nameplate capacity)": 857,
+        "tidal (nameplate capacity)": 53,
+        "onshore wind (nameplate capacity)": 8456,
+        "offshore wind (nameplate capacity)": 3537
       },
       "geometry": {
         "type": "Point",
@@ -1675,6 +1960,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 12,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -87
+        "geothermal (nameplate capacity)": 102,
+        "csp (nameplate capacity)": 831,
+        "tidal (nameplate capacity)": 5,
+        "onshore wind (nameplate capacity)": 16439,
+        "offshore wind (nameplate capacity)": 6855
       },
       "geometry": {
         "type": "Point",
@@ -1708,6 +1998,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 12.6,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -87
+        "geothermal (nameplate capacity)": 107,
+        "csp (nameplate capacity)": 870,
+        "tidal (nameplate capacity)": 6,
+        "onshore wind (nameplate capacity)": 17214,
+        "offshore wind (nameplate capacity)": 7178
       },
       "geometry": {
         "type": "Point",
@@ -1741,6 +2036,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1.1,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -37.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -93.9
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 15,
+        "tidal (nameplate capacity)": 132,
+        "onshore wind (nameplate capacity)": 1720,
+        "offshore wind (nameplate capacity)": 671
       },
       "geometry": {
         "type": "Point",
@@ -1774,6 +2074,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 0.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -60.7,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -96.1
+        "geothermal (nameplate capacity)": 159,
+        "csp (nameplate capacity)": 91,
+        "tidal (nameplate capacity)": 14,
+        "onshore wind (nameplate capacity)": 350,
+        "offshore wind (nameplate capacity)": 598
       },
       "geometry": {
         "type": "Point",
@@ -1807,6 +2112,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 22.4,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -53.8,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -83.5
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": "2,473",
+        "tidal (nameplate capacity)": 22,
+        "onshore wind (nameplate capacity)": 75546,
+        "offshore wind (nameplate capacity)": 8425
       },
       "geometry": {
         "type": "Point",
@@ -1840,6 +2150,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 5,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -71.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -90.2
+        "geothermal (nameplate capacity)": 83,
+        "csp (nameplate capacity)": 650,
+        "tidal (nameplate capacity)": 6,
+        "onshore wind (nameplate capacity)": 7576,
+        "offshore wind (nameplate capacity)": 2763
       },
       "geometry": {
         "type": "Point",
@@ -1873,6 +2188,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -50,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -84.2
+        "geothermal (nameplate capacity)": 34,
+        "csp (nameplate capacity)": 274,
+        "tidal (nameplate capacity)": 2,
+        "onshore wind (nameplate capacity)": 1555,
+        "offshore wind (nameplate capacity)": 2263
       },
       "geometry": {
         "type": "Point",
@@ -1906,6 +2226,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 4,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -63.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -87
+        "geothermal (nameplate capacity)": 383,
+        "csp (nameplate capacity)": 57,
+        "tidal (nameplate capacity)": 8,
+        "onshore wind (nameplate capacity)": 5426,
+        "offshore wind (nameplate capacity)": 393
       },
       "geometry": {
         "type": "Point",
@@ -1939,6 +2264,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 14.5,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -42.6,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -81.7
+
+        "geothermal (nameplate capacity)": 708,
+        "csp (nameplate capacity)": "1,074",
+        "tidal (nameplate capacity)": 43,
+        "onshore wind (nameplate capacity)": 14396,
+        "offshore wind (nameplate capacity)": 3685
       },
       "geometry": {
         "type": "Point",
@@ -1972,6 +2303,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 23.4,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -53.8,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -83.5
+
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": "2,583",
+        "tidal (nameplate capacity)": 23,
+        "onshore wind (nameplate capacity)": 78916,
+        "offshore wind (nameplate capacity)": 8801
       },
       "geometry": {
         "type": "Point",
@@ -2005,6 +2342,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 37.8,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -42.6,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -81.4
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": "3,508",
+        "tidal (nameplate capacity)": 234,
+        "onshore wind (nameplate capacity)": 5046,
+        "offshore wind (nameplate capacity)": 42634
       },
       "geometry": {
         "type": "Point",
@@ -2038,6 +2380,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 59.1,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -59.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -92
+        "geothermal (nameplate capacity)": 66,
+        "csp (nameplate capacity)": "7,478",
+        "tidal (nameplate capacity)": 71,
+        "onshore wind (nameplate capacity)": 71374,
+        "offshore wind (nameplate capacity)": 31820
       },
       "geometry": {
         "type": "Point",
@@ -2071,6 +2418,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1.3,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -70.7,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -92.1
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 152,
+        "tidal (nameplate capacity)": 0,
+        "onshore wind (nameplate capacity)": 1731,
+        "offshore wind (nameplate capacity)": 0
       },
       "geometry": {
         "type": "Point",
@@ -2104,6 +2456,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 18,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -66.1,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -88.7
+        "geothermal (nameplate capacity)": 1,
+        "csp (nameplate capacity)": "1,939",
+        "tidal (nameplate capacity)": 4,
+        "onshore wind (nameplate capacity)": 16314,
+        "offshore wind (nameplate capacity)": 6619
       },
       "geometry": {
         "type": "Point",
@@ -2137,6 +2494,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 59.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -56.8,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -88.1
+        "geothermal (nameplate capacity)": 575,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 866,
+        "onshore wind (nameplate capacity)": 21421,
+        "offshore wind (nameplate capacity)": 55561
       },
       "geometry": {
         "type": "Point",
@@ -2170,6 +2532,12 @@
         "2050 WWS energy and total social cost ($bil/yr)": 19.6,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -88.6
+        "geothermal (nameplate capacity)": "1,050",
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 420,
+        "onshore wind (nameplate capacity)": 27514,
+        "offshore wind (nameplate capacity)": 6965
+
       },
       "geometry": {
         "type": "Point",
@@ -2203,6 +2571,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1.5,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -95.8
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 0,
+        "onshore wind (nameplate capacity)": 2792,
+        "offshore wind (nameplate capacity)": 0
       },
       "geometry": {
         "type": "Point",
@@ -2236,6 +2609,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 8.1,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -68,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -88.6
+        "geothermal (nameplate capacity)": 432,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 173,
+        "onshore wind (nameplate capacity)": 11304,
+        "offshore wind (nameplate capacity)": 2861
       },
       "geometry": {
         "type": "Point",
@@ -2269,6 +2647,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 4.5,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -64.1,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -87
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 0,
+        "onshore wind (nameplate capacity)": 7380,
+        "offshore wind (nameplate capacity)": 0
       },
       "geometry": {
         "type": "Point",
@@ -2302,6 +2685,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1.2,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -62.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -95.7
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 128,
+        "tidal (nameplate capacity)": 23,
+        "onshore wind (nameplate capacity)": 2269,
+        "offshore wind (nameplate capacity)": 407
       },
       "geometry": {
         "type": "Point",
@@ -2335,6 +2723,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 0.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -59.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -92
+        "geothermal (nameplate capacity)": 1,
+        "csp (nameplate capacity)": 109,
+        "tidal (nameplate capacity)": 1,
+        "onshore wind (nameplate capacity)": 1037,
+        "offshore wind (nameplate capacity)": 462
       },
       "geometry": {
         "type": "Point",
@@ -2368,6 +2761,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 2.4,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -56.8,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -83.9
+        "geothermal (nameplate capacity)": 0,
+        "csp (nameplate capacity)": 0,
+        "tidal (nameplate capacity)": 0,
+        "onshore wind (nameplate capacity)": 3212,
+        "offshore wind (nameplate capacity)": 0
       },
       "geometry": {
         "type": "Point",
@@ -2385,6 +2783,7 @@
         "onshore wind": "",
         "2050 BAU air pollution cost ($bil/yr)": "",
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": ""
+        "geothermal (nameplate capacity)": ""
       },
       "geometry": {
         "type": "Point",
@@ -2832,7 +3231,8 @@
       "type": "Feature",
       "properties": {
         "name": "Miami",
-        "country": "United States of America"
+        "country": "United States of America",
+        "onshore wind (nameplate capacity)": ""
       },
       "geometry": {
         "type": "Point",
@@ -2904,6 +3304,7 @@
         "name": "Boston",
         "country": "United States of America",
         "2050 BAU total social cost (energy+pollution+climate) ($bil/yr)": ""
+        "offshore wind (nameplate capacity)": ""
       },
       "geometry": {
         "type": "Point",
@@ -2967,6 +3368,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 26.1,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -59.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -92
+        "geothermal (nameplate capacity)": 29,
+        "csp (nameplate capacity)": "3,299",
+        "tidal (nameplate capacity)": 31,
+        "onshore wind (nameplate capacity)": 31483,
+        "offshore wind (nameplate capacity)": 14036
       },
       "geometry": {
         "type": "Point",
@@ -2990,6 +3396,11 @@
         "2050 WWS energy and total social cost ($bil/yr)": 17.2,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -61.9,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -86.8
+        "geothermal (nameplate capacity)": 93,
+        "csp (nameplate capacity)": "1,886",
+        "tidal (nameplate capacity)": 116,
+        "onshore wind (nameplate capacity)": 18614,
+        "offshore wind (nameplate capacity)": 7785
       },
       "geometry": {
         "type": "Point",
