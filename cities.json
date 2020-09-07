@@ -182,7 +182,6 @@
         "2050 WWS energy and total social cost ($bil/yr)": 2.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -69.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -95.4
-
         "onshore wind (nameplate capacity)": 4946,
         "offshore wind (nameplate capacity)": 233,
         "wave (nameplate capacity)": 0,
@@ -300,7 +299,6 @@
         "2050 WWS energy and total social cost ($bil/yr)": 6.4,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -66,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -89
-
         "onshore wind (nameplate capacity)": 8598,
         "offshore wind (nameplate capacity)": 4094,
         "wave (nameplate capacity)": 61,
@@ -457,7 +455,6 @@
         "2050 WWS energy and total social cost ($bil/yr)": 19.8,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -62.5,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -87.2
-
         "onshore wind (nameplate capacity)": 21191,
         "wave (nameplate capacity)": 0,
         "geothermal (nameplate capacity)": 362,
@@ -575,7 +572,6 @@
         "2050 WWS energy and total social cost ($bil/yr)": 12.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -56.7,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -90.1
-
         "onshore wind (nameplate capacity)": 17053,
         "wave (nameplate capacity)": 511,
         "geothermal (nameplate capacity)": 0,
@@ -615,7 +611,6 @@
         "2050 WWS energy and total social cost ($bil/yr)": 2,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -61.3,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -89.4
-
         "onshore wind (nameplate capacity)": 8319,
         "wave (nameplate capacity)": 47,
         "geothermal (nameplate capacity)": 0,
@@ -655,7 +650,6 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1.7,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -62.2,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -90.5
-
         "onshore wind (nameplate capacity)": 2262,
         "wave (nameplate capacity)": 77,
         "geothermal (nameplate capacity)": 0,
@@ -968,7 +962,6 @@
         "2050 WWS energy and total social cost ($bil/yr)": 1.9,
         "Percent change in energy cost due to WWS (WWS- BAU)/(BAU)": -44,
         "Percent change in total social cost due to WWS (WWS-BAU)/(BAU)": -89.1
-
         "geothermal (nameplate capacity)": 0,
         "csp (nameplate capacity)": 159,
         "tidal (nameplate capacity)": 10,
