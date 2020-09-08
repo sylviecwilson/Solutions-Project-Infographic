@@ -206,7 +206,6 @@
         <h3 style="text-align: left; margin-left: 10px;">End-Use Energy Consumption</h3>
         <h3 style="text-align: left; margin-left: 10px;">Jobs Created </h3>
         <h3 style="text-align: left; margin-left: 10px; margin-right: 10px; ">2050 Average Energy, Health, and Climate Costs Savings from WWS</h3>
-        <div id="barchart" style="width: 450px; height: 300px;"></div>
         <h2>$<div id="costSavings" style="display: inline-block;"></div> per year</h2>
         <h3 style="text-align: left; margin-left: 10px;">2050 Pollution Mortality Reduction</h3>
         <h2><div id="avoided deaths" style="display: inline-block;"></div> deaths avoided per year</h2>
@@ -305,7 +304,7 @@
 
         // Style the country layer
         countryLayer.setStyle({
-          fillOpacity: 0.5,
+          fillOpacity: 0.6,
           fillColor: "#b3995d",
           strokeWeight: 0
         });
@@ -337,7 +336,7 @@
 
         // Style the state layer
         stateLayer.setStyle({
-          fillOpacity: 0.5,
+          fillOpacity: 0.6,
           fillColor: "#b3995d",
           strokeWeight: 0
         });
@@ -386,13 +385,6 @@
           var concSolar = event.feature.getProperty('csp');
           var costSavings = event.feature.getProperty('cost savings');
           var avoidedDeaths = event.feature.getProperty('avoided deaths');
-          var BAUenergy = event.feature.getProperty('2050 BAU energy cost ($bil/yr)');
-          var BAUpollution = event.feature.getProperty('2050 BAU air pollution cost ($bil/yr)');
-          var BAUclimate = event.feature.getProperty('2050 BAU climate cost ($bil/yr)');
-          var BAUtotal = event.feature.getProperty('2050 BAU total social cost (energy+pollution+climate) ($bil/yr)');
-          var WWStotal = event.feature.getProperty('2050 WWS energy and total social cost ($bil/yr)');
-          var PercentChgEnergy = event.feature.getProperty('Percent change in energy cost due to WWS (WWS- BAU)/(BAU)');
-          var PercentChgSocial = event.feature.getProperty('Percent change in total social cost due to WWS (WWS-BAU)/(BAU)');
 
 
 
@@ -404,7 +396,6 @@
 
           google.charts.load('current', {'packages':['corechart']});
           google.charts.setOnLoadCallback(drawCityEnergyPie);
-          
 
           function drawCityEnergyPie() {
 
@@ -432,36 +423,6 @@
           };
 
         });
-            
-          google.charts.load('current', {'packages':['corechart']});
-          google.charts.setOnLoadCallback{drawCityCostsBars);
-          
-          function drawCityCostBars() {
-            
-            var data = google.visualization.arrayToDataTable([
-              ['BAU Energy Costs', 'BAU Air Pollution Costs', 'BAU Climate Costs', 'WWS Total Social and Energy Costs',
-               '% change in energy cost due to WWS (WWS- BAU)/(BAU)','% change in total social cost due to WWS (WWS-BAU)/(BAU)', { role: 'annotation' } ],
-              ['BAU', BAUenergy, BAUpollution,, BAUclimate, BAUtotal,''],
-              ['WWS', WWStotal, ''],
-              ['CHANGE', PercentChgEnergy, PercentChgSocial,'']
-            ]);
-
-            var options = {
-              title: '2050 BAU VS WWS Costs ($bil/year)',
-              width: 600,
-              height: 400,
-              legend: { position: 'top', maxLines: 3 },
-              bar: { groupWidth: '75%' },
-              isStacked: true,
-            };
-            
-            var chart = new google.visualization.Bar(document.getElementById('barchart'));
-
-            chart.draw(data, options);
-          };
-
-        });
-          
 
         // Add a search bar to the map
         var input = document.getElementById("pac-input");
