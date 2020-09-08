@@ -203,7 +203,6 @@
         <div id="piechart" style="width: 450px; height: 300px;"></div>
         <h3 style="text-align: left; margin-left: 10px;">100% Wind-Water-Solar (WWS) Energy Mix in terms of Nameplate Capacity</h3>
         <h3 style="text-align: left; margin-left: 10px;">Total Associated Costs</h3>
-        <div id="barchart" style="width: 450px; height: 300px;"></div>
         <h3 style="text-align: left; margin-left: 10px;">End-Use Energy Consumption</h3>
         <h3 style="text-align: left; margin-left: 10px;">Jobs Created </h3>
         <h3 style="text-align: left; margin-left: 10px; margin-right: 10px; ">2050 Average Energy, Health, and Climate Costs Savings from WWS</h3>
@@ -405,7 +404,7 @@
 
           google.charts.load('current', {'packages':['corechart']});
           google.charts.setOnLoadCallback(drawCityEnergyPie);
-          google.charts.setOnLoadCallback{drawCityCostsBars);
+          
 
           function drawCityEnergyPie() {
 
@@ -433,6 +432,9 @@
           };
 
         });
+            
+          google.charts.load('current', {'packages':['corechart']});
+          google.charts.setOnLoadCallback{drawCityCostsBars);
           
           function drawCityCostBars() {
             
@@ -453,7 +455,6 @@
               isStacked: true,
             };
             
-
             var chart = new google.visualization.Bar(document.getElementById('barchart'));
 
             chart.draw(data, options);
