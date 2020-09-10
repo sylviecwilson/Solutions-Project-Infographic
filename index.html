@@ -200,6 +200,7 @@
         <h3>100% Wind-Water-Solar (WWS) Energy Mix in terms of Nameplate Capacity</h3>
         <div id="nameplate capacity piechart"></div>
         <h3>Total Associated Costs</h3>
+        <div id="energy cost column"></div>
         <h3>End-Use Energy Consumption</h3>
         <h3>Jobs Created </h3>
         <h3>2050 Average Energy, Health, and Climate Costs Savings from WWS</h3>
@@ -393,11 +394,15 @@
           var cspNC = event.feature.getProperty('csp (nameplate capacity)');
           var tidalNC = event.feature.getProperty('tidal (nameplate capacity)');
 
+          // Associated Costs
+          var bauEnergyCost = event.feature.getProperty('2050 BAU energy cost ($bil/yr)');
+          var bauPollutionCost = event.feature.getProperty('2050 BAU air pollution cost ($bil/yr)');
+          var bauClimateCost = event.feature.getProperty('2050 BAU climate cost ($bil/yr)');
+          var wwsTotalCost = event.feature.getProperty('2050 WWS energy and total social cost ($bil/yr)');
+
           // Savings & Avoided Deaths
           var costSavings = event.feature.getProperty('cost savings');
           var avoidedDeaths = event.feature.getProperty('avoided deaths');
-
-
 
 
           document.getElementById('locationName').textContent = cityName;
@@ -436,7 +441,6 @@
             };
 
             var chart = new google.visualization.PieChart(document.getElementById('energy piechart'));
-
             chart.draw(data, options);
           };
 
@@ -466,8 +470,30 @@
           chart.draw(data, options);
         };
 
+        // Total Cost Stacked Column
+        google.charts.setOnLoadCallback(drawCityCostColumn);
+        function drawCityCostColumn() {
+          var data = google.visualization.arrayToDataTable([
+            ['Cost', 'BAU Energy Cost', 'BAU Air Pollution Cost', 'BAU Climate Cost', 'WWS Total Cost', {role: 'annotation'} ],
+            ['BAU', bauEnergyCost, bauPollutionCost, bauClimateCost, 0, ''],
+            ['WWS', 0, 0, 0, wwsTotalCost, '']
+          ]);
 
-        });
+          var options = {
+            title: 'Business as Usual (BAU) and Wind, Water, Solar (WWS) Energy, Air Pollution, and Climate Cost ($bil/year)',
+            height: 400,
+            width: 380,
+            legend: { position: 'top', maxLines: 3 },
+            bar: { groupWidth: '75%' },
+            isStacked: true,
+          };
+
+          var chart = new google.visualization.ColumnChart(document.getElementById('energy cost column'));
+          chart.draw(data, options);
+        };
+
+
+      });
 
         // Add a search bar to the map
         var input = document.getElementById("pac-input");
