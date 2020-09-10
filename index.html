@@ -55,7 +55,7 @@
         z-index: 4;
         top: 0;
         left: 0;
-        background-color: rgba(0,0,0, 0.9);
+        background-color: rgba(47,36,36, 1);
         overflow-x: auto;
         transition: .7s;
         overflow-y: auto;
@@ -66,7 +66,7 @@
         color: white;
         position: relative;
         text-align: left;
-        margin-top: 60px;
+        margin-top: 5em;
         padding: 0em 2em 0 2em;
       }
 
@@ -83,8 +83,8 @@
       .overlay .closebtn {
         cursor: pointer;
         position: absolute;
-        top: 10px;
-        right: 20px;
+        top: 20px;
+        right: 30px;
         font-size: 30px;
       }
 
@@ -194,19 +194,28 @@
     <div id="myNav" class="overlay">
       <a class="closebtn" onclick="closeNav()">&times;</a>
       <div class="overlay-content">
-        <h1><span id="locationName"></span></h1>
+        <h2><span id="locationName"></span></h2>
+        <br>
         <h3>100% Wind-Water-Solar (WWS) Energy Mix</h3>
         <div id="energy piechart"></div>
+        <br>
         <h3>100% Wind-Water-Solar (WWS) Energy Mix in terms of Nameplate Capacity</h3>
         <div id="nameplate capacity piechart"></div>
-        <h3>Total Associated Costs</h3>
+        <br>
+        <h3>Total Associated Energy, Climate, and Pollution Cost</h3>
         <div id="energy cost column"></div>
+        <p>Change in energy cost due to WWS: <span id="energy cost savings" style="display: inline-block; font-weight: bold;"></span>%</p>
+        <p>Change in total social cost due to WWS: <span id="social cost savings" style="display: inline-block; font-weight: bold;"></span>%</p>
+        <br>
         <h3>End-Use Energy Consumption</h3>
+        <br>
         <h3>Jobs Created </h3>
+        <br>
         <h3>2050 Average Energy, Health, and Climate Costs Savings from WWS</h3>
-        <h2>$<div id="costSavings" style="display: inline-block;"></div> per year</h2>
+        <p style="display: inline-block;">$<span id="costSavings"></span> per year per person</p>
+        <br>
         <h3>2050 Pollution Mortality Reduction</h3>
-        <h2><div id="avoided deaths" style="display: inline-block;"></div> deaths avoided per year</h2>
+        <p><span id="avoided deaths" style="display: inline-block;"></span> deaths avoided per year</p>
 
 
         <div>
@@ -399,6 +408,8 @@
           var bauPollutionCost = event.feature.getProperty('2050 BAU air pollution cost ($bil/yr)');
           var bauClimateCost = event.feature.getProperty('2050 BAU climate cost ($bil/yr)');
           var wwsTotalCost = event.feature.getProperty('2050 WWS energy and total social cost ($bil/yr)');
+          var percentEnergyCostSavings = event.feature.getProperty('Percent change in energy cost due to WWS (WWS- BAU)/(BAU)');
+          var percentSocialCostSavigns = event.feature.getProperty('Percent change in total social cost due to WWS (WWS-BAU)/(BAU)');
 
           // Savings & Avoided Deaths
           var costSavings = event.feature.getProperty('cost savings');
@@ -409,6 +420,8 @@
           //document.getElementById('locationCountry').textContent = countryName;
           document.getElementById('costSavings').textContent = costSavings;
           document.getElementById('avoided deaths').textContent = avoidedDeaths;
+          document.getElementById('energy cost savings').textContent = percentEnergyCostSavings;
+          document.getElementById('social cost savings').textContent = percentSocialCostSavigns;
 
 
           google.charts.load('current', {'packages':['corechart']});
